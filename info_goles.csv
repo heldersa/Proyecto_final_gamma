@@ -1,746 +1,746 @@
-,id_partido,team,scorers
-0,3872550,home,<li>Rovira 53' </li>
-1,3872550,home,<li>Fernandez 6' </li>
-2,3872550,away,<li>Asensio 70' (PP)</li>
-3,3872551,home,<li>Alexander 25' (P)</li>
-4,3872551,away,<li>Fabian 60' </li>
-5,3872551,away,<li>Niño 52' </li>
-6,3872552,away,<li>Sevillano 60' </li>
-7,3872552,away,<li>Calvo 27' </li>
-8,3872553,home,<li>Ignacio 88' </li>
-9,3872553,home,<li>Fernandez 77' </li>
-10,3872553,away,<li>Mario 19' </li>
-11,3872554,home,<li>Garcia 39' </li>
-12,3872554,home,<li>Julen 12' </li>
-13,3872554,home,<li>Julen 21' </li>
-14,3872554,home,<li>Yeray 67' </li>
-15,3872554,home,<li>Hernandez 6' </li>
-16,3872554,home,<li>Hernandez 44' </li>
-17,3872554,home,<li>Herrero 81' </li>
-18,3872555,home,<li>Alvano 89' </li>
-19,3872555,away,<li>Marcos 64' </li>
-20,3872555,away,<li>Martinez 62' </li>
-21,3872557,away,<li>Criado 51' </li>
-22,3872557,away,<li>Tallal 53' </li>
-23,3872557,away,<li>Almuzara 83' </li>
-24,3872558,away,<li>Manuel 50' </li>
-25,3872558,away,<li>Manuel 57' </li>
-26,3872558,away,<li>Carvajal 80' </li>
-27,3872559,home,<li>Raihani 58' </li>
-28,3872560,home,<li>Martinez 14' (PP)</li>
-29,3872560,home,<li>Calvo 45' </li>
-30,3872560,away,<li>Aday 52' </li>
-31,3872561,home,<li>Santiago 67' </li>
-32,3872561,away,<li>Lopez 11' </li>
-33,3872561,away,<li>Nater 7' </li>
-34,3872561,away,<li>Perera 30' </li>
-35,3872562,home,<li>Sanchez 43' (PP)</li>
-36,3872562,away,<li>Fernandez 60' </li>
-37,3872562,away,<li>Fernandez 90' </li>
-38,3872563,away,<li>Chema 17' </li>
-39,3872563,away,<li>Hernandez 56' </li>
-40,3872563,away,<li>Cesar 77' </li>
-41,3872564,home,<li>Magariño 47' </li>
-42,3872567,home,<li>Guerrero 86' </li>
-43,3872567,away,<li>Calvo 44' </li>
-44,3872568,home,<li>Nico 32' </li>
-45,3872568,home,<li>Pros 89' </li>
-46,3872569,home,<li>Lopez 2' </li>
-47,3872569,home,<li>Sanchez 18' </li>
-48,3872569,home,<li>Sanchez 27' </li>
-49,3872569,home,<li>Sanchez 33' </li>
-50,3872569,home,<li>Perera 22' </li>
-51,3872569,home,<li>Becerra 78' </li>
-52,3872569,home,<li>Alonso 84' </li>
-53,3872569,home,<li>Alonso 89' </li>
-54,3872570,home,<li>Fernandez 64' </li>
-55,3872571,home,<li>Jimenez 32' (P)</li>
-56,3872571,home,<li>Garcia 37' </li>
-57,3872571,home,<li>Ramon 79' </li>
-58,3872571,away,<li>Fernandez 51' </li>
-59,3872571,away,<li>Sanchez 27' </li>
-60,3872571,away,<li>Magariño 74' (P)</li>
-61,3872572,home,<li>Diego 71' </li>
-62,3872572,home,<li>Diego 74' </li>
-63,3872572,away,<li>Berzal 85' </li>
-64,3872573,home,<li>Peña 65' </li>
-65,3872573,home,<li>Carvajal 55' </li>
-66,3872573,away,<li>Coello 89' </li>
-67,3872574,home,<li>Niño 17' </li>
-68,3872574,home,<li>Niño 82' </li>
-69,3872574,home,<li>Raihani 46' </li>
-70,3872574,away,<li>Carvajal 2' </li>
-71,3872575,home,<li>Sierra 23' </li>
-72,3872575,away,<li>Bandín 49' </li>
-73,3872575,away,<li>Lopez 44' </li>
-74,3872575,away,<li>Lopez 62' </li>
-75,3872576,home,<li>Santiago 57' </li>
-76,3872576,home,<li>Santiago 75' </li>
-77,3872576,away,<li>Blanco 67' </li>
-78,3872577,home,<li>Tamudo 39' </li>
-79,3872577,home,<li>Themistokleousa 63' </li>
-80,3872577,home,<li>Jimenez 57' </li>
-81,3872577,away,<li>Hector Nieto 65' </li>
-82,3872578,home,<li>Miguel 24' </li>
-83,3872578,home,<li>Diego 89' </li>
-84,3872578,away,<li>Ybarra 58' </li>
-85,3872578,away,<li>Nater 50' </li>
-86,3872578,away,<li>Perera 74' </li>
-87,3872578,away,<li>Becerra 78' </li>
-88,3872578,away,<li>Sanchez 79' </li>
-89,3872579,home,<li>Fernandez 44' </li>
-90,3872579,home,<li>Rodriguez 90' (PP)</li>
-91,3872580,away,<li>Moran 16' (P)</li>
-92,3872580,away,<li>Moran 20' </li>
-93,3872580,away,<li>Fortuny 31' </li>
-94,3872581,home,<li>Carlos 80' (P)</li>
-95,3872581,away,<li>Adrian 15' (PP)</li>
-96,3872581,away,<li>Alfonso 34' </li>
-97,3872581,away,<li>Arturo 16' </li>
-98,3872582,home,<li>Raihani 4' </li>
-99,3872582,home,<li>Raihani 38' </li>
-100,3872582,home,<li>Niño 83' </li>
-101,3872582,away,<li>Amaro 77' </li>
-102,3872583,home,<li>ISRA 65' </li>
-103,3872583,home,<li>Alvaro 60' </li>
-104,3872583,home,<li>Sanchez 73' </li>
-105,3872584,home,<li>Blanco 35' </li>
-106,3872584,home,<li>Llorente 75' </li>
-107,3872585,home,<li>Alejandro 9' </li>
-108,3872585,away,<li>Jesus Javier 79' </li>
-109,3872586,home,<li>Nater 26' </li>
-110,3872586,home,<li>Perera 22' </li>
-111,3872586,away,<li>Moreno 19' (P)</li>
-112,3872588,home,<li>Sotres 33' </li>
-113,3872588,home,<li>Julen 8' </li>
-114,3872588,home,<li>Herrero 77' </li>
-115,3872588,home,<li>Yeray 20' </li>
-116,3872588,home,<li>Garcia 57' </li>
-117,3872588,home,<li>Garcia 81' (PP)</li>
-118,3872588,away,<li>Rosa 40' </li>
-119,3872589,away,<li>Diego 10' </li>
-120,3872590,away,<li>De Oro 50' (P)</li>
-121,3872591,home,<li>Santiago 54' </li>
-122,3872591,away,<li>Niño 11' </li>
-123,3872591,away,<li>Niño 44' </li>
-124,3872591,away,<li>Niño 48' </li>
-125,3872591,away,<li>Gonzalez 89' </li>
-126,3872592,home,<li>Themistokleousa 46' </li>
-127,3872592,home,<li>Sanchez 50' </li>
-128,3872592,away,<li>Bandín 56' </li>
-129,3872593,home,<li>Mciver 77' </li>
-130,3872593,home,<li>Marcos 11' </li>
-131,3872593,home,<li>Jesus Javier 74' </li>
-132,3872593,away,<li>Blanco 5' </li>
-133,3872594,home,<li>Magariño 62' (P)</li>
-134,3872594,home,<li>Mera 58' </li>
-135,3872594,away,<li>Aday 11' </li>
-136,3872595,home,<li>Criado 11' </li>
-137,3872595,away,<li>De Las Sias 4' </li>
-138,3872596,away,<li>Garcia 1' </li>
-139,3872597,home,<li>Juan 51' </li>
-140,3872597,away,<li>Alejandro 3' </li>
-141,3872597,away,<li>Moran 32' </li>
-142,3872598,home,<li>Sevillano 13' </li>
-143,3872598,home,<li>Amaro 37' (P)</li>
-144,3872598,home,<li>Cordero 63' </li>
-145,3872599,home,<li>Gonzalez 67' </li>
-146,3872599,home,<li>Denia 44' (P)</li>
-147,3872599,home,<li>Francisco 62' </li>
-148,3872599,home,<li>Francisco 70' </li>
-149,3872599,home,<li>Francisco 82' </li>
-150,3872600,home,<li>Fernandez 24' </li>
-151,3872600,home,<li>Foldi 83' </li>
-152,3872600,home,<li>Foldi 90' </li>
-153,3872600,away,<li>Raul 86' </li>
-154,3872601,home,<li>Herranz 22' (PP)</li>
-155,3872601,home,<li>Fernandez 79' </li>
-156,3872601,away,<li>Magariño 50' </li>
-157,3872602,home,<li>Nico 17' </li>
-158,3872602,home,<li>Alejandro 34' </li>
-159,3872602,home,<li>De Azevedo 89' </li>
-160,3872602,away,<li>Garcia 81' </li>
-161,3872603,home,<li>Ybarra 2' </li>
-162,3872603,home,<li>Nater 33' </li>
-163,3872603,away,<li>Garcia 90' </li>
-164,3872604,home,<li>Joaquin 58' </li>
-165,3872604,home,<li>Fernandez 83' (P)</li>
-166,3872604,away,<li>Diego 34' </li>
-167,3872605,away,<li>Moran 35' (P)</li>
-168,3872605,away,<li>Cesar 2' </li>
-169,3872605,away,<li>Hernandez 8' </li>
-170,3872605,away,<li>Fortuny 67' </li>
-171,3872606,away,<li>Manuel 8' </li>
-172,3872606,away,<li>Carvajal 59' </li>
-173,3872606,away,<li>Toribio 89' </li>
-174,3872607,home,<li>Conejero 13' </li>
-175,3872607,home,<li>Lopez 27' (PP)</li>
-176,3872607,away,<li>Sierra 90' </li>
-177,3872607,away,<li>Sevillano 40' </li>
-178,3872608,away,<li>Martinez 61' </li>
-179,3872608,away,<li>Gomez 54' </li>
-180,3872608,away,<li>Denia 25' </li>
-181,3872608,away,<li>Alvaro 28' </li>
-182,3872608,away,<li>Niño 17' </li>
-183,3872608,away,<li>Raihani 89' (P)</li>
-184,3872609,home,<li>Adrian 49' </li>
-185,3872609,home,<li>Magariño 80' (P)</li>
-186,3872609,away,<li>Fernandez 71' </li>
-187,3872610,home,<li>Cabezas 44' </li>
-188,3872610,home,<li>Cabezas 42' </li>
-189,3872610,home,<li>Cabezas 61' </li>
-190,3872611,home,<li>Carlos 81' (P)</li>
-191,3872611,home,<li>Carlos 89' </li>
-192,3872611,away,<li>Sergio 33' </li>
-193,3872613,home,<li>Alonso 41' </li>
-194,3872613,home,<li>Hernandez 90' </li>
-195,3872614,home,<li>Daniel 82' </li>
-196,3872614,home,<li>Santiago 12' </li>
-197,3872615,home,<li>Daniel 61' </li>
-198,3872615,home,<li>Daniel 70' </li>
-199,3872616,home,<li>Fabian 2' </li>
-200,3872616,home,<li>Niño 26' </li>
-201,3872616,home,<li>Raihani 68' </li>
-202,3872616,home,<li>Raihani 88' </li>
-203,3872617,away,<li>Fernandez 5' </li>
-204,3872617,away,<li>Garcia 1' </li>
-205,3872617,away,<li>Tallal 64' </li>
-206,3872618,home,<li>Raul Martin 84' (P)</li>
-207,3872618,home,<li>Blanco 23' </li>
-208,3872618,home,<li>Llorente 86' </li>
-209,3872618,home,<li>Pujol 15' </li>
-210,3872618,home,<li>Pujol 18' </li>
-211,3872618,away,<li>Rosa 17' </li>
-212,3872618,away,<li>Garcia 13' </li>
-213,3872618,away,<li>Vivas 79' </li>
-214,3872619,home,<li>Sergio 73' </li>
-215,3872619,home,<li>Aday 34' </li>
-216,3872619,home,<li>De Azevedo 90' </li>
-217,3872619,away,<li>Guzman 2' </li>
-218,3872620,away,<li>Garcia 19' </li>
-219,3872620,away,<li>Garcia 76' </li>
-220,3872620,away,<li>Paz 68' </li>
-221,3872622,away,<li>Manuel 79' </li>
-222,3872622,away,<li>Carvajal 32' </li>
-223,3872623,home,<li>Miguel 16' </li>
-224,3872623,away,<li>David 89' </li>
-225,3872624,away,<li>Martinez 2' </li>
-226,3872624,away,<li>Cordero 43' (PP)</li>
-227,3872625,away,<li>Niño 16' </li>
-228,3872625,away,<li>Fabian 90' </li>
-229,3872626,home,<li>Carlos 86' </li>
-230,3872626,away,<li>Foldi 56' </li>
-231,3872627,away,<li>Fernandez 15' </li>
-232,3872627,away,<li>Fernandez 25' </li>
-233,3872628,home,<li>Garcia 6' </li>
-234,3872628,home,<li>Garcia 61' </li>
-235,3872628,home,<li>Moran 55' (P)</li>
-236,3872628,home,<li>Cesar 16' </li>
-237,3872628,home,<li>Herrero 83' (P)</li>
-238,3872628,away,<li>Alejandro 86' </li>
-239,3872629,home,<li>Garcia 9' </li>
-240,3872629,home,<li>Fernandez 38' (P)</li>
-241,3872629,home,<li>Garcia 88' </li>
-242,3872629,away,<li>Lopez 72' </li>
-243,3872630,home,<li>Tamudo 82' </li>
-244,3872630,away,<li>Andres 15' </li>
-245,3872630,away,<li>Mciver 67' </li>
-246,3872631,away,<li>Sanchez 84' </li>
-247,3872631,away,<li>Magariño 66' </li>
-248,3872632,home,<li>Sevillano 72' </li>
-249,3872633,home,<li>Denia 13' </li>
-250,3872633,home,<li>Raihani 90' </li>
-251,3872633,away,<li>Peña 70' </li>
-252,3872634,home,<li>Jorge 11' </li>
-253,3872634,home,<li>Jorge 90' </li>
-254,3872635,away,<li>Julen 20' </li>
-255,3872635,away,<li>Moran 75' </li>
-256,3872635,away,<li>Cesar 83' </li>
-257,3872636,home,<li>Alejandro 65' </li>
-258,3872637,home,<li>Carvajal 11' </li>
-259,3872637,home,<li>Carvajal 33' </li>
-260,3872637,away,<li>Robles 52' (P)</li>
-261,3872637,away,<li>Nater 17' </li>
-262,3872637,away,<li>Alonso 77' </li>
-263,3872638,home,<li>Javier 65' </li>
-264,3872638,away,<li>Peña 89' </li>
-265,3872639,home,<li>Magariño 30' </li>
-266,3872639,home,<li>Moreno 4' </li>
-267,3872640,home,<li>Herrero 7' </li>
-268,3872640,home,<li>Almuzara 24' </li>
-269,3872640,home,<li>Garcia 90' </li>
-270,3872640,home,<li>Tallal 86' </li>
-271,3872640,away,<li>Santiago 54' </li>
-272,3872641,home,<li>Rosa 17' </li>
-273,3872641,away,<li>Sevillano 47' </li>
-274,3872642,away,<li>Niño 75' </li>
-275,3872643,home,<li>Jimenez 89' </li>
-276,3872643,home,<li>Garcia 31' </li>
-277,3872643,home,<li>Garcia 50' </li>
-278,3872643,home,<li>Moran 26' </li>
-279,3872643,home,<li>Cesar 3' </li>
-280,3872643,home,<li>Yeray 87' </li>
-281,3872644,home,<li>Fernandez 58' (P)</li>
-282,3872644,home,<li>Elias 78' </li>
-283,3872644,away,<li>Llorente 48' </li>
-284,3872644,away,<li>Fernandez 76' </li>
-285,3872644,away,<li>Fernandez 90' </li>
-286,3872644,away,<li>Rovira 90' </li>
-287,3872645,home,<li>Nater 57' </li>
-288,3872645,home,<li>Becerra 65' </li>
-289,3872645,away,<li>Nico 35' </li>
-290,3872645,away,<li>Alejandro 29' </li>
-291,3872645,away,<li>Hector Nieto 71' </li>
-292,3872646,away,<li>Puente 56' </li>
-293,3872647,home,<li>Jimenez 4' (P)</li>
-294,3872649,home,<li>Amaro 26' </li>
-295,3872649,away,<li>Mobark Shanan 32' </li>
-296,3872651,away,<li>Garcia 45' </li>
-297,3872651,away,<li>Joaquin 54' </li>
-298,3872651,away,<li>Di Domenico 51' </li>
-299,3872652,away,<li>Joan Javier 40' </li>
-300,3872653,home,<li>Carvajal 75' </li>
-301,3872654,away,<li>Moreno 11' </li>
-302,3872655,home,<li>Almuzara 89' </li>
-303,3872655,home,<li>Garcia 75' </li>
-304,3872657,home,<li>Diego 26' </li>
-305,3872657,home,<li>Juan 34' </li>
-306,3872657,home,<li>Adrian 7' </li>
-307,3872657,home,<li>Iker 87' </li>
-308,3872657,home,<li>Jose Carlos 80' </li>
-309,3872658,home,<li>Garcia 2' </li>
-310,3872658,home,<li>Garcia 45' </li>
-311,3872658,home,<li>Moran 30' </li>
-312,3872658,home,<li>Paz 67' (P)</li>
-313,3872658,home,<li>Cesar 8' </li>
-314,3872658,home,<li>Cesar 73' </li>
-315,3872658,home,<li>Fortuny 33' </li>
-316,3872658,home,<li>Alonso 78' </li>
-317,3872659,home,<li>Fernandez 22' </li>
-318,3872659,away,<li>Niño 33' </li>
-319,3872660,home,<li>Joan Javier 69' </li>
-320,3872661,away,<li>Perez 63' </li>
-321,3872661,away,<li>Perez 77' </li>
-322,3872661,away,<li>Kawecki 25' </li>
-323,3872662,away,<li>Cabezas 1' </li>
-324,3872662,away,<li>Tallal 82' </li>
-325,3872662,away,<li>Cabezas 80' </li>
-326,3872663,home,<li>Miguel 43' </li>
-327,3872663,away,<li>Pablo 54' </li>
-328,3872665,away,<li>Piñeiro 82' (PP)</li>
-329,3872665,away,<li>Garcia 44' </li>
-330,3872665,away,<li>Garcia 62' </li>
-331,3872665,away,<li>Garcia 76' </li>
-332,3872665,away,<li>Cesar 90' </li>
-333,3872665,away,<li>Fortuny 33' </li>
-334,3872667,home,<li>Niño 47' (P)</li>
-335,3872667,home,<li>Raihani 50' </li>
-336,3872667,home,<li>Raihani 65' </li>
-337,3872667,home,<li>Gonzalez 82' </li>
-338,3872667,home,<li>Gomez 86' </li>
-339,3872667,away,<li>Becerra 31' </li>
-340,3872668,home,<li>Alvaro 31' (P)</li>
-341,3872669,home,<li>Martin 43' </li>
-342,3872669,away,<li>Manuel 66' </li>
-343,3872669,away,<li>Carvajal 90' </li>
-344,3872669,away,<li>Remolins 58' </li>
-345,3872670,home,<li>Morales 87' (P)</li>
-346,3872670,home,<li>Manuel 61' </li>
-347,3872670,away,<li>Herranz 90' </li>
-348,3872670,away,<li>Blanco 57' </li>
-349,3872670,away,<li>Perez 10' </li>
-350,3872671,home,<li>Niño 13' </li>
-351,3872671,home,<li>Enmanuel 5' </li>
-352,3872671,home,<li>Raihani 33' </li>
-353,3872672,home,<li>Sevillano 20' </li>
-354,3872672,home,<li>Amaro 73' </li>
-355,3872672,away,<li>Joan Javier 80' </li>
-356,3872672,away,<li>Alonso 89' </li>
-357,3872673,home,<li>Sergio M. 35' </li>
-358,3872673,home,<li>Mario 63' (P)</li>
-359,3872674,away,<li>Yeray 1' </li>
-360,3872674,away,<li>Yeray 75' </li>
-361,3872674,away,<li>Alonso 64' </li>
-362,3872675,home,<li>Marcos 64' </li>
-363,3872675,home,<li>Lastra 37' </li>
-364,3872675,home,<li>Miguel 68' </li>
-365,3872675,away,<li>Jairo 12' </li>
-366,3872676,home,<li>Moreno 50' </li>
-367,3872676,home,<li>Moreno 85' </li>
-368,3872676,home,<li>Mota 16' </li>
-369,3872676,away,<li>Roman 34' (P)</li>
-370,3872677,home,<li>Cabezas 39' (P)</li>
-371,3872677,away,<li>Remolins 52' </li>
-372,3872677,away,<li>Arriba 30' </li>
-373,3872678,home,<li>Carvajal 39' </li>
-374,3872678,home,<li>De Oro 74' </li>
-375,3872678,home,<li>Martin 84' </li>
-376,3872678,home,<li>Martin 89' </li>
-377,3872679,home,<li>Fernandez 55' </li>
-378,3872679,away,<li>Niño 43' (P)</li>
-379,3872679,away,<li>Niño 78' (P)</li>
-380,3872679,away,<li>Raihani 63' </li>
-381,3872679,away,<li>Raihani 82' </li>
-382,3872680,home,<li>Alexander 58' (P)</li>
-383,3872681,home,<li>Robles 6' </li>
-384,3872681,home,<li>Joan Javier 58' </li>
-385,3872681,home,<li>Lopez 67' </li>
-386,3872681,home,<li>Alonso 76' </li>
-387,3872681,away,<li>Iker 52' </li>
-388,3872681,away,<li>Iker 62' </li>
-389,3872681,away,<li>Iker 88' </li>
-390,3872682,home,<li>Garcia 29' </li>
-391,3872682,home,<li>Fernandez 52' </li>
-392,3872683,home,<li>Serrano 19' </li>
-393,3872683,home,<li>De Llanos 61' </li>
-394,3872683,home,<li>Rodriguez 72' </li>
-395,3872683,home,<li>Rodriguez 74' </li>
-396,3872683,home,<li>Ramon 90' </li>
-397,3872685,home,<li>Peña 58' (P)</li>
-398,3872685,away,<li>Hugo 80' </li>
-399,3872685,away,<li>Cabezas 10' </li>
-400,3872685,away,<li>Milara 46' </li>
-401,3872686,home,<li>Niño 9' </li>
-402,3872686,home,<li>Niño 46' </li>
-403,3872686,home,<li>Enmanuel 16' (PP)</li>
-404,3872686,home,<li>Raihani 29' </li>
-405,3872686,home,<li>Raihani 38' </li>
-406,3872686,home,<li>Francisco 68' </li>
-407,3872687,home,<li>Sanchez 54' </li>
-408,3872687,home,<li>Cordero 41' </li>
-409,3872687,away,<li>Cara 62' </li>
-410,3872687,away,<li>Ortueta 70' </li>
-411,3872687,away,<li>Kawecki 19' </li>
-412,3872688,home,<li>Iker 50' </li>
-413,3872688,home,<li>Daniel 2' </li>
-414,3872689,home,<li>Tamudo 11' </li>
-415,3872689,away,<li>Joan Javier 65' </li>
-416,3872689,away,<li>Marcos 31' </li>
-417,3872689,away,<li>Marcos 77' </li>
-418,3872689,away,<li>Alonso 51' </li>
-419,3872690,home,<li>Andres 48' </li>
-420,3872690,away,<li>Fernandez 45' </li>
-421,3872690,away,<li>Joaquin 68' </li>
-422,3872691,home,<li>Luis 40' (PP)</li>
-423,3872691,home,<li>Moreno 46' </li>
-424,3872691,away,<li>Garcia 66' </li>
-425,3872691,away,<li>Cesar 2' </li>
-426,3872691,away,<li>Yeray 57' </li>
-427,3872692,away,<li>Alvano 70' </li>
-428,3872693,home,<li>Roman 44' </li>
-429,3872693,away,<li>Manuel 8' </li>
-430,3872693,away,<li>Manuel 20' </li>
-431,3872693,away,<li>Manuel 61' </li>
-432,3872693,away,<li>Carvajal 17' </li>
-433,3872693,away,<li>Carvajal 83' </li>
-434,3872694,home,<li>Carvajal 23' </li>
-435,3872694,away,<li>El Jebari 5' </li>
-436,3872694,away,<li>Alvaro 35' </li>
-437,3872694,away,<li>Francisco 86' </li>
-438,3872695,home,<li>Morales 90' (P)</li>
-439,3872695,home,<li>Gallardo 83' </li>
-440,3872695,away,<li>Amaro 48' </li>
-441,3872695,away,<li>Carmona 36' </li>
-442,3872695,away,<li>Carmona 60' </li>
-443,3872696,home,<li>Pujol 55' (P)</li>
-444,3872696,home,<li>Fernandez 24' </li>
-445,3872696,away,<li>Iker 65' </li>
-446,3872696,away,<li>Santiago 79' </li>
-447,3872697,home,<li>Nico 63' </li>
-448,3872698,home,<li>Mogollon 17' </li>
-449,3872698,home,<li>Alonso 20' </li>
-450,3872698,home,<li>Alonso 80' </li>
-451,3872698,home,<li>Ybarra 31' </li>
-452,3872698,home,<li>Ybarra 78' </li>
-453,3872698,away,<li>David 56' </li>
-454,3872699,home,<li>Garcia 59' </li>
-455,3872699,away,<li>Rodriguez 44' </li>
-456,3872700,home,<li>Jimenez 44' </li>
-457,3872700,home,<li>Garcia 25' </li>
-458,3872700,home,<li>Garcia 49' </li>
-459,3872700,home,<li>Fortuny 37' </li>
-460,3872700,home,<li>Hernandez 47' </li>
-461,3872700,away,<li>Victor 15' (PP)</li>
-462,3872701,away,<li>Peña 8' </li>
-463,3872702,home,<li>Lopez 69' </li>
-464,3872702,away,<li>Boñar 17' </li>
-465,3872702,away,<li>El Jebari 12' </li>
-466,3872702,away,<li>Niño 14' </li>
-467,3872702,away,<li>Niño 37' </li>
-468,3872702,away,<li>Niño 42' </li>
-469,3872702,away,<li>Raihani 87' </li>
-470,3872702,away,<li>Vasiljevic 75' </li>
-471,3872703,home,<li>Mario 89' </li>
-472,3872703,home,<li>Santiago 1' </li>
-473,3872703,home,<li>Santiago 53' </li>
-474,3872703,home,<li>Santiago 74' </li>
-475,3872703,away,<li>Alvaro 39' </li>
-476,3872704,home,<li>Tamudo 22' </li>
-477,3872704,away,<li>Kawecki 75' </li>
-478,3872704,away,<li>Fernandez 15' </li>
-479,3872705,home,<li>Alhambra 90' </li>
-480,3872706,home,<li>Awuah 31' </li>
-481,3872706,away,<li>De Las Sias 56' (PP)</li>
-482,3872707,home,<li>Cabezas 8' </li>
-483,3872707,home,<li>Aceituno 15' </li>
-484,3872707,home,<li>Milara 88' </li>
-485,3872707,away,<li>Salas 50' </li>
-486,3872708,away,<li>Cesar 57' </li>
-487,3872708,away,<li>Alonso 80' </li>
-488,3872708,away,<li>Mesa 7' </li>
-489,3872708,away,<li>Hernandez 47' </li>
-490,3872709,away,<li>Carvajal 28' </li>
-491,3872709,away,<li>Remolins 25' </li>
-492,3872709,away,<li>Martin 89' </li>
-493,3872709,away,<li>Soto 85' </li>
-494,3872710,home,<li>Lechosa 25' </li>
-495,3872710,away,<li>Sanchez 89' </li>
-496,3872710,away,<li>Sevillano 58' </li>
-497,3872711,home,<li>Denia 2' </li>
-498,3872711,home,<li>Denia 21' </li>
-499,3872711,home,<li>Niño 48' </li>
-500,3872711,home,<li>Francisco 36' </li>
-501,3872711,home,<li>Raihani 79' </li>
-502,3872712,home,<li>Alvaro 11' </li>
-503,3872712,home,<li>Alvarez 52' </li>
-504,3872712,home,<li>Jorge 11' </li>
-505,3872712,home,<li>Jorge 26' </li>
-506,3872712,home,<li>Manuel 47' </li>
-507,3872712,home,<li>Gallardo 80' </li>
-508,3872713,home,<li>Ortueta 88' </li>
-509,3872713,away,<li>Marcos 55' (P)</li>
-510,3872714,home,<li>Aday 50' </li>
-511,3872714,away,<li>Garcia 61' </li>
-512,3872714,away,<li>Moreno 70' (P)</li>
-513,3872714,away,<li>Moreno 75' (P)</li>
-514,3872714,away,<li>Perez 23' </li>
-515,3872715,home,<li>Alonso 50' </li>
-516,3872715,home,<li>Alonso 61' </li>
-517,3872715,home,<li>Becerra 69' </li>
-518,3872716,home,<li>Joaquin 32' </li>
-519,3872716,home,<li>Alonso 89' </li>
-520,3872717,home,<li>Fortuny 50' </li>
-521,3872718,home,<li>Santiago 27' </li>
-522,3872719,away,<li>Gomez 10' </li>
-523,3872719,away,<li>Gomez 14' </li>
-524,3872719,away,<li>David 76' </li>
-525,3872719,away,<li>Niño 77' </li>
-526,3872719,away,<li>Niño 81' </li>
-527,3872720,home,<li>Jesus Javier 16' </li>
-528,3872720,home,<li>Jesus Javier 63' </li>
-529,3872720,home,<li>Jesus Javier 65' </li>
-530,3872720,away,<li>Lopez 88' </li>
-531,3872721,home,<li>Garcia 9' </li>
-532,3872721,home,<li>Moreno 40' (P)</li>
-533,3872721,home,<li>Adrian 82' </li>
-534,3872721,away,<li>Pujol 21' </li>
-535,3872722,home,<li>Cabezas 25' </li>
-536,3872722,home,<li>Cabezas 68' </li>
-537,3872722,home,<li>Garcia 45' </li>
-538,3872723,home,<li>Vivas 11' </li>
-539,3872723,away,<li>Nieto 10' </li>
-540,3872723,away,<li>Mogollon 6' </li>
-541,3872723,away,<li>Ybarra 37' </li>
-542,3872723,away,<li>Becerra 17' </li>
-543,3872724,away,<li>Fernandez 70' </li>
-544,3872725,home,<li>Yeray 23' </li>
-545,3872725,home,<li>Martin 8' </li>
-546,3872725,home,<li>Garcia 73' </li>
-547,3872726,home,<li>Navarro 18' </li>
-548,3872726,home,<li>Arriba 36' </li>
-549,3872726,home,<li>Carvajal 46' </li>
-550,3872726,home,<li>Carvajal 89' </li>
-551,3872726,home,<li>Martin 40' </li>
-552,3872726,away,<li>Santiago 70' </li>
-553,3872726,away,<li>Daniel 25' </li>
-554,3872727,home,<li>Calvo 77' </li>
-555,3872727,home,<li>Sanchez 64' </li>
-556,3872728,home,<li>Denia 50' </li>
-557,3872728,home,<li>Fabian 43' </li>
-558,3872728,home,<li>Francisco 79' </li>
-559,3872729,home,<li>Fernandez 47' (P)</li>
-560,3872729,home,<li>Jorge 50' </li>
-561,3872729,away,<li>Martin 19' </li>
-562,3872729,away,<li>Adrian 80' </li>
-563,3872730,home,<li>Fernandez 67' </li>
-564,3872731,home,<li>Castillo 85' </li>
-565,3872732,home,<li>Joan Javier 67' </li>
-566,3872732,home,<li>Alonso 4' </li>
-567,3872732,home,<li>Marcos 84' </li>
-568,3872732,away,<li>Jairo 30' </li>
-569,3872733,home,<li>Fernandez 22' </li>
-570,3872733,home,<li>Fernandez 57' </li>
-571,3872733,away,<li>Fortuny 26' </li>
-572,3872733,away,<li>Garcia 81' </li>
-573,3872734,away,<li>Mario 28' </li>
-574,3872734,away,<li>Santiago 21' </li>
-575,3872734,away,<li>Iker 53' </li>
-576,3872734,away,<li>Daniel 55' </li>
-577,3872735,home,<li>Jesus Javier 82' </li>
-578,3872735,away,<li>Sevillano 53' </li>
-579,3872735,away,<li>Amaro 42' </li>
-580,3872736,away,<li>Raihani 47' </li>
-581,3872736,away,<li>Gonzalez 89' </li>
-582,3872738,home,<li>Vivas 43' </li>
-583,3872738,home,<li>Vivas 90' (P)</li>
-584,3872738,home,<li>Carlos 3' </li>
-585,3872738,away,<li>Del Olmo 18' </li>
-586,3872738,away,<li>Pujol 76' </li>
-587,3872738,away,<li>Cara 73' </li>
-588,3872739,home,<li>Lisandro 8' </li>
-589,3872739,away,<li>Aday 87' </li>
-590,3872739,away,<li>Alexander 79' </li>
-591,3872740,home,<li>Enriquez 90' </li>
-592,3872741,home,<li>Espejo 53' </li>
-593,3872742,home,<li>Pozos 44' </li>
-594,3872742,home,<li>De Oro 18' </li>
-595,3872742,home,<li>Carvajal 51' </li>
-596,3872742,home,<li>Carvajal 83' </li>
-597,3872742,home,<li>Peña 68' </li>
-598,3872742,home,<li>Arriba 79' </li>
-599,3872743,home,<li>Mario 68' </li>
-600,3872743,home,<li>Iker 88' (P)</li>
-601,3872743,home,<li>Daniel 30' </li>
-602,3872743,away,<li>Jorge 7' (PP)</li>
-603,3872743,away,<li>Andres 18' </li>
-604,3872743,away,<li>Jesus Javier 68' </li>
-605,3872744,home,<li>Calvo 44' </li>
-606,3872744,home,<li>Sevillano 75' </li>
-607,3872744,away,<li>Awuah 44' </li>
-608,3872745,home,<li>Denia 83' </li>
-609,3872746,home,<li>Alvaro 62' </li>
-610,3872746,home,<li>Jardon 89' </li>
-611,3872746,away,<li>Carlos 18' </li>
-612,3872747,home,<li>Cara 27' </li>
-613,3872747,away,<li>Arturo 52' </li>
-614,3872748,home,<li>Aday 76' </li>
-615,3872748,away,<li>Garcia 73' </li>
-616,3872748,away,<li>Garcia 79' </li>
-617,3872749,home,<li>Becerra 15' </li>
-618,3872750,home,<li>Jorge 69' </li>
-619,3872750,away,<li>Gonzalez 62' </li>
-620,3872750,away,<li>Cordero 84' </li>
-621,3872751,home,<li>Mota 78' </li>
-622,3872752,home,<li>Cabezas 57' </li>
-623,3872752,away,<li>Martinez 74' </li>
-624,3872752,away,<li>Martinez 89' </li>
-625,3872753,home,<li>Roman 5' </li>
-626,3872753,home,<li>Roman 71' </li>
-627,3872753,away,<li>Denia 49' </li>
-628,3872753,away,<li>Raihani 15' </li>
-629,3872753,away,<li>Raihani 54' </li>
-630,3872754,home,<li>Adrian 90' </li>
-631,3872755,home,<li>Garcia 75' </li>
-632,3872755,home,<li>Mesonero 13' </li>
-633,3872755,home,<li>Cesar 90' </li>
-634,3872756,away,<li>Sergio 54' </li>
-635,3872757,home,<li>Robles 54' (P)</li>
-636,3872757,away,<li>Manuel 48' </li>
-637,3872757,away,<li>Carvajal 20' </li>
-638,3872757,away,<li>Martin 90' </li>
-639,3872758,home,<li>Peña 66' </li>
-640,3872758,home,<li>Carvajal 87' </li>
-641,3872759,home,<li>Lozano 66' </li>
-642,3872759,away,<li>Adrian 69' </li>
-643,3872759,away,<li>Notario 64' </li>
-644,3872760,home,<li>Santiago 62' </li>
-645,3872760,away,<li>Milara 1' </li>
-646,3872760,away,<li>Milara 53' </li>
-647,3872760,away,<li>Rubio 89' </li>
-648,3872761,home,<li>Requena 79' </li>
-649,3872761,home,<li>Sevillano 38' </li>
-650,3872762,home,<li>Denia 38' </li>
-651,3872762,home,<li>Gomez 90' </li>
-652,3872763,home,<li>Asensio 75' (PP)</li>
-653,3872763,away,<li>Garcia 61' </li>
-654,3872763,away,<li>Cesar 10' </li>
-655,3872763,away,<li>Cesar 34' </li>
-656,3872763,away,<li>Mesonero 4' </li>
-657,3872764,home,<li>Alberto 36' </li>
-658,3872764,home,<li>Perez 86' </li>
-659,3872765,home,<li>Victor 77' </li>
-660,3872765,away,<li>Marcos 11' </li>
-661,3872766,home,<li>Garcia 89' </li>
-662,3872766,home,<li>Adrian 16' </li>
-663,3872766,home,<li>Awuah 6' </li>
-664,3872766,away,<li>Jesus Javier 56' </li>
-665,3872767,home,<li>Milara 23' </li>
-666,3872767,home,<li>Milara 76' (P)</li>
-667,3872767,away,<li>Martin 89' (PP)</li>
-668,3872767,away,<li>Jimenez 28' </li>
-669,3872768,home,<li>Ciriero 44' </li>
-670,3872768,home,<li>Carlos 80' </li>
-671,3872768,away,<li>Sergio M. 9' </li>
-672,3872768,away,<li>Iker 43' </li>
-673,3872769,home,<li>Calzado 90' </li>
-674,3872769,home,<li>Arturo 50' </li>
-675,3872769,away,<li>Lopez 90' </li>
-676,3872770,home,<li>Moran 27' </li>
-677,3872770,home,<li>Cesar 34' </li>
-678,3872770,home,<li>Cesar 74' </li>
-679,3872770,home,<li>De Llanos 85' </li>
-680,3872770,home,<li>Paz 79' </li>
-681,3872771,home,<li>Emanuelle 90' </li>
-682,3872771,away,<li>Asensio 22' </li>
-683,3872772,home,<li>De Las Sias 15' </li>
-684,3872772,away,<li>Llorente 22' </li>
-685,3872772,away,<li>Bragado 45' </li>
-686,3872773,home,<li>Alejandro 78' (P)</li>
-687,3872773,away,<li>Peña 67' </li>
-688,3872773,away,<li>Carvajal 48' </li>
-689,3872773,away,<li>Carvajal 83' </li>
-690,3872774,away,<li>Peña 37' (P)</li>
-691,3872774,away,<li>Carvajal 56' </li>
-692,3872775,away,<li>Cabezas 74' </li>
-693,3872776,home,<li>Conejero 70' </li>
-694,3872776,home,<li>Conejero 90' </li>
-695,3872776,away,<li>Roman 7' </li>
-696,3872776,away,<li>Pablo 15' </li>
-697,3872776,away,<li>Paz 87' </li>
-698,3872777,home,<li>Mario 28' </li>
-699,3872777,home,<li>Victor 36' </li>
-700,3872777,home,<li>Bruno 30' </li>
-701,3872777,away,<li>Juan 42' </li>
-702,3872778,away,<li>Chema 24' </li>
-703,3872779,home,<li>Francisco 43' </li>
-704,3872779,home,<li>Denia 63' </li>
-705,3872780,home,<li>Morales 54' (P)</li>
-706,3872780,home,<li>Alvaro 21' </li>
-707,3872780,home,<li>Alvarez 60' </li>
-708,3872780,home,<li>Manuel 79' </li>
-709,3872780,home,<li>Garcia 70' </li>
-710,3872780,away,<li>Nieto 76' (P)</li>
-711,3872780,away,<li>Ybarra 32' </li>
-712,3872781,home,<li>Llorente 20' </li>
-713,3872781,away,<li>Hugo 35' </li>
-714,3872782,home,<li>Tallal 46' </li>
-715,3872782,away,<li>Mota 2' </li>
-716,3872783,home,<li>Carlos 5' </li>
-717,3872783,home,<li>Carlos 36' </li>
-718,3872783,home,<li>Peña 85' </li>
-719,3872783,away,<li>Jesus Javier 62' </li>
-720,3872783,away,<li>Mciver 57' </li>
-721,3872784,home,<li>Arturo 13' </li>
-722,3872784,home,<li>Arturo 51' </li>
-723,3872784,home,<li>Iker 38' </li>
-724,3872784,home,<li>Daniel 85' </li>
-725,3872785,home,<li>Garcia 13' </li>
-726,3872785,home,<li>Garcia 36' </li>
-727,3872785,home,<li>Garcia 39' </li>
-728,3872785,home,<li>Garcia 57' </li>
-729,3872785,home,<li>Nobrega 29' </li>
-730,3872785,home,<li>Duran 61' </li>
-731,3872785,home,<li>Cesar 61' </li>
-732,3872785,away,<li>Sergio M. 3' (PP)</li>
-733,3872785,away,<li>Iker 82' </li>
-734,3872786,home,<li>Blazquez 83' </li>
-735,3872786,away,<li>Calvo 43' </li>
-736,3872786,away,<li>Amaro 1' </li>
-737,3872788,home,<li>Ribeiro 19' </li>
-738,3872788,home,<li>Aday 55' </li>
-739,3872788,home,<li>Jesus 71' (P)</li>
-740,3872788,home,<li>Alejandro 88' (P)</li>
-741,3872788,away,<li>Garcia 89' (P)</li>
-742,3872789,home,<li>Carvajal 85' </li>
-743,3872789,home,<li>Fernandez 90' </li>
-744,3872789,away,<li>Fernandez 53' </li>
+id_partido	team	scorers
+3872550	home	<li>Rovira 53' </li>
+3872550	home	<li>Fernandez 6' </li>
+3872550	away	<li>Asensio 70' (PP)</li>
+3872551	home	<li>Alexander 25' (P)</li>
+3872551	away	<li>Fabian 60' </li>
+3872551	away	<li>Niño 52' </li>
+3872552	away	<li>Sevillano 60' </li>
+3872552	away	<li>Calvo 27' </li>
+3872553	home	<li>Ignacio 88' </li>
+3872553	home	<li>Fernandez 77' </li>
+3872553	away	<li>Mario 19' </li>
+3872554	home	<li>Garcia 39' </li>
+3872554	home	<li>Julen 12' </li>
+3872554	home	<li>Julen 21' </li>
+3872554	home	<li>Yeray 67' </li>
+3872554	home	<li>Hernandez 6' </li>
+3872554	home	<li>Hernandez 44' </li>
+3872554	home	<li>Herrero 81' </li>
+3872555	home	<li>Alvano 89' </li>
+3872555	away	<li>Marcos 64' </li>
+3872555	away	<li>Martinez 62' </li>
+3872557	away	<li>Criado 51' </li>
+3872557	away	<li>Tallal 53' </li>
+3872557	away	<li>Almuzara 83' </li>
+3872558	away	<li>Manuel 50' </li>
+3872558	away	<li>Manuel 57' </li>
+3872558	away	<li>Carvajal 80' </li>
+3872559	home	<li>Raihani 58' </li>
+3872560	home	<li>Martinez 14' (PP)</li>
+3872560	home	<li>Calvo 45' </li>
+3872560	away	<li>Aday 52' </li>
+3872561	home	<li>Santiago 67' </li>
+3872561	away	<li>Lopez 11' </li>
+3872561	away	<li>Nater 7' </li>
+3872561	away	<li>Perera 30' </li>
+3872562	home	<li>Sanchez 43' (PP)</li>
+3872562	away	<li>Fernandez 60' </li>
+3872562	away	<li>Fernandez 90' </li>
+3872563	away	<li>Chema 17' </li>
+3872563	away	<li>Hernandez 56' </li>
+3872563	away	<li>Cesar 77' </li>
+3872564	home	<li>Magariño 47' </li>
+3872567	home	<li>Guerrero 86' </li>
+3872567	away	<li>Calvo 44' </li>
+3872568	home	<li>Nico 32' </li>
+3872568	home	<li>Pros 89' </li>
+3872569	home	<li>Lopez 2' </li>
+3872569	home	<li>Sanchez 18' </li>
+3872569	home	<li>Sanchez 27' </li>
+3872569	home	<li>Sanchez 33' </li>
+3872569	home	<li>Perera 22' </li>
+3872569	home	<li>Becerra 78' </li>
+3872569	home	<li>Alonso 84' </li>
+3872569	home	<li>Alonso 89' </li>
+3872570	home	<li>Fernandez 64' </li>
+3872571	home	<li>Jimenez 32' (P)</li>
+3872571	home	<li>Garcia 37' </li>
+3872571	home	<li>Ramon 79' </li>
+3872571	away	<li>Fernandez 51' </li>
+3872571	away	<li>Sanchez 27' </li>
+3872571	away	<li>Magariño 74' (P)</li>
+3872572	home	<li>Diego 71' </li>
+3872572	home	<li>Diego 74' </li>
+3872572	away	<li>Berzal 85' </li>
+3872573	home	<li>Peña 65' </li>
+3872573	home	<li>Carvajal 55' </li>
+3872573	away	<li>Coello 89' </li>
+3872574	home	<li>Niño 17' </li>
+3872574	home	<li>Niño 82' </li>
+3872574	home	<li>Raihani 46' </li>
+3872574	away	<li>Carvajal 2' </li>
+3872575	home	<li>Sierra 23' </li>
+3872575	away	<li>Bandín 49' </li>
+3872575	away	<li>Lopez 44' </li>
+3872575	away	<li>Lopez 62' </li>
+3872576	home	<li>Santiago 57' </li>
+3872576	home	<li>Santiago 75' </li>
+3872576	away	<li>Blanco 67' </li>
+3872577	home	<li>Tamudo 39' </li>
+3872577	home	<li>Themistokleousa 63' </li>
+3872577	home	<li>Jimenez 57' </li>
+3872577	away	<li>Hector Nieto 65' </li>
+3872578	home	<li>Miguel 24' </li>
+3872578	home	<li>Diego 89' </li>
+3872578	away	<li>Ybarra 58' </li>
+3872578	away	<li>Nater 50' </li>
+3872578	away	<li>Perera 74' </li>
+3872578	away	<li>Becerra 78' </li>
+3872578	away	<li>Sanchez 79' </li>
+3872579	home	<li>Fernandez 44' </li>
+3872579	home	<li>Rodriguez 90' (PP)</li>
+3872580	away	<li>Moran 16' (P)</li>
+3872580	away	<li>Moran 20' </li>
+3872580	away	<li>Fortuny 31' </li>
+3872581	home	<li>Carlos 80' (P)</li>
+3872581	away	<li>Adrian 15' (PP)</li>
+3872581	away	<li>Alfonso 34' </li>
+3872581	away	<li>Arturo 16' </li>
+3872582	home	<li>Raihani 4' </li>
+3872582	home	<li>Raihani 38' </li>
+3872582	home	<li>Niño 83' </li>
+3872582	away	<li>Amaro 77' </li>
+3872583	home	<li>ISRA 65' </li>
+3872583	home	<li>Alvaro 60' </li>
+3872583	home	<li>Sanchez 73' </li>
+3872584	home	<li>Blanco 35' </li>
+3872584	home	<li>Llorente 75' </li>
+3872585	home	<li>Alejandro 9' </li>
+3872585	away	<li>Jesus Javier 79' </li>
+3872586	home	<li>Nater 26' </li>
+3872586	home	<li>Perera 22' </li>
+3872586	away	<li>Moreno 19' (P)</li>
+3872588	home	<li>Sotres 33' </li>
+3872588	home	<li>Julen 8' </li>
+3872588	home	<li>Herrero 77' </li>
+3872588	home	<li>Yeray 20' </li>
+3872588	home	<li>Garcia 57' </li>
+3872588	home	<li>Garcia 81' (PP)</li>
+3872588	away	<li>Rosa 40' </li>
+3872589	away	<li>Diego 10' </li>
+3872590	away	<li>De Oro 50' (P)</li>
+3872591	home	<li>Santiago 54' </li>
+3872591	away	<li>Niño 11' </li>
+3872591	away	<li>Niño 44' </li>
+3872591	away	<li>Niño 48' </li>
+3872591	away	<li>Gonzalez 89' </li>
+3872592	home	<li>Themistokleousa 46' </li>
+3872592	home	<li>Sanchez 50' </li>
+3872592	away	<li>Bandín 56' </li>
+3872593	home	<li>Mciver 77' </li>
+3872593	home	<li>Marcos 11' </li>
+3872593	home	<li>Jesus Javier 74' </li>
+3872593	away	<li>Blanco 5' </li>
+3872594	home	<li>Magariño 62' (P)</li>
+3872594	home	<li>Mera 58' </li>
+3872594	away	<li>Aday 11' </li>
+3872595	home	<li>Criado 11' </li>
+3872595	away	<li>De Las Sias 4' </li>
+3872596	away	<li>Garcia 1' </li>
+3872597	home	<li>Juan 51' </li>
+3872597	away	<li>Alejandro 3' </li>
+3872597	away	<li>Moran 32' </li>
+3872598	home	<li>Sevillano 13' </li>
+3872598	home	<li>Amaro 37' (P)</li>
+3872598	home	<li>Cordero 63' </li>
+3872599	home	<li>Gonzalez 67' </li>
+3872599	home	<li>Denia 44' (P)</li>
+3872599	home	<li>Francisco 62' </li>
+3872599	home	<li>Francisco 70' </li>
+3872599	home	<li>Francisco 82' </li>
+3872600	home	<li>Fernandez 24' </li>
+3872600	home	<li>Foldi 83' </li>
+3872600	home	<li>Foldi 90' </li>
+3872600	away	<li>Raul 86' </li>
+3872601	home	<li>Herranz 22' (PP)</li>
+3872601	home	<li>Fernandez 79' </li>
+3872601	away	<li>Magariño 50' </li>
+3872602	home	<li>Nico 17' </li>
+3872602	home	<li>Alejandro 34' </li>
+3872602	home	<li>De Azevedo 89' </li>
+3872602	away	<li>Garcia 81' </li>
+3872603	home	<li>Ybarra 2' </li>
+3872603	home	<li>Nater 33' </li>
+3872603	away	<li>Garcia 90' </li>
+3872604	home	<li>Joaquin 58' </li>
+3872604	home	<li>Fernandez 83' (P)</li>
+3872604	away	<li>Diego 34' </li>
+3872605	away	<li>Moran 35' (P)</li>
+3872605	away	<li>Cesar 2' </li>
+3872605	away	<li>Hernandez 8' </li>
+3872605	away	<li>Fortuny 67' </li>
+3872606	away	<li>Manuel 8' </li>
+3872606	away	<li>Carvajal 59' </li>
+3872606	away	<li>Toribio 89' </li>
+3872607	home	<li>Conejero 13' </li>
+3872607	home	<li>Lopez 27' (PP)</li>
+3872607	away	<li>Sierra 90' </li>
+3872607	away	<li>Sevillano 40' </li>
+3872608	away	<li>Martinez 61' </li>
+3872608	away	<li>Gomez 54' </li>
+3872608	away	<li>Denia 25' </li>
+3872608	away	<li>Alvaro 28' </li>
+3872608	away	<li>Niño 17' </li>
+3872608	away	<li>Raihani 89' (P)</li>
+3872609	home	<li>Adrian 49' </li>
+3872609	home	<li>Magariño 80' (P)</li>
+3872609	away	<li>Fernandez 71' </li>
+3872610	home	<li>Cabezas 44' </li>
+3872610	home	<li>Cabezas 42' </li>
+3872610	home	<li>Cabezas 61' </li>
+3872611	home	<li>Carlos 81' (P)</li>
+3872611	home	<li>Carlos 89' </li>
+3872611	away	<li>Sergio 33' </li>
+3872613	home	<li>Alonso 41' </li>
+3872613	home	<li>Hernandez 90' </li>
+3872614	home	<li>Daniel 82' </li>
+3872614	home	<li>Santiago 12' </li>
+3872615	home	<li>Daniel 61' </li>
+3872615	home	<li>Daniel 70' </li>
+3872616	home	<li>Fabian 2' </li>
+3872616	home	<li>Niño 26' </li>
+3872616	home	<li>Raihani 68' </li>
+3872616	home	<li>Raihani 88' </li>
+3872617	away	<li>Fernandez 5' </li>
+3872617	away	<li>Garcia 1' </li>
+3872617	away	<li>Tallal 64' </li>
+3872618	home	<li>Raul Martin 84' (P)</li>
+3872618	home	<li>Blanco 23' </li>
+3872618	home	<li>Llorente 86' </li>
+3872618	home	<li>Pujol 15' </li>
+3872618	home	<li>Pujol 18' </li>
+3872618	away	<li>Rosa 17' </li>
+3872618	away	<li>Garcia 13' </li>
+3872618	away	<li>Vivas 79' </li>
+3872619	home	<li>Sergio 73' </li>
+3872619	home	<li>Aday 34' </li>
+3872619	home	<li>De Azevedo 90' </li>
+3872619	away	<li>Guzman 2' </li>
+3872620	away	<li>Garcia 19' </li>
+3872620	away	<li>Garcia 76' </li>
+3872620	away	<li>Paz 68' </li>
+3872622	away	<li>Manuel 79' </li>
+3872622	away	<li>Carvajal 32' </li>
+3872623	home	<li>Miguel 16' </li>
+3872623	away	<li>David 89' </li>
+3872624	away	<li>Martinez 2' </li>
+3872624	away	<li>Cordero 43' (PP)</li>
+3872625	away	<li>Niño 16' </li>
+3872625	away	<li>Fabian 90' </li>
+3872626	home	<li>Carlos 86' </li>
+3872626	away	<li>Foldi 56' </li>
+3872627	away	<li>Fernandez 15' </li>
+3872627	away	<li>Fernandez 25' </li>
+3872628	home	<li>Garcia 6' </li>
+3872628	home	<li>Garcia 61' </li>
+3872628	home	<li>Moran 55' (P)</li>
+3872628	home	<li>Cesar 16' </li>
+3872628	home	<li>Herrero 83' (P)</li>
+3872628	away	<li>Alejandro 86' </li>
+3872629	home	<li>Garcia 9' </li>
+3872629	home	<li>Fernandez 38' (P)</li>
+3872629	home	<li>Garcia 88' </li>
+3872629	away	<li>Lopez 72' </li>
+3872630	home	<li>Tamudo 82' </li>
+3872630	away	<li>Andres 15' </li>
+3872630	away	<li>Mciver 67' </li>
+3872631	away	<li>Sanchez 84' </li>
+3872631	away	<li>Magariño 66' </li>
+3872632	home	<li>Sevillano 72' </li>
+3872633	home	<li>Denia 13' </li>
+3872633	home	<li>Raihani 90' </li>
+3872633	away	<li>Peña 70' </li>
+3872634	home	<li>Jorge 11' </li>
+3872634	home	<li>Jorge 90' </li>
+3872635	away	<li>Julen 20' </li>
+3872635	away	<li>Moran 75' </li>
+3872635	away	<li>Cesar 83' </li>
+3872636	home	<li>Alejandro 65' </li>
+3872637	home	<li>Carvajal 11' </li>
+3872637	home	<li>Carvajal 33' </li>
+3872637	away	<li>Robles 52' (P)</li>
+3872637	away	<li>Nater 17' </li>
+3872637	away	<li>Alonso 77' </li>
+3872638	home	<li>Javier 65' </li>
+3872638	away	<li>Peña 89' </li>
+3872639	home	<li>Magariño 30' </li>
+3872639	home	<li>Moreno 4' </li>
+3872640	home	<li>Herrero 7' </li>
+3872640	home	<li>Almuzara 24' </li>
+3872640	home	<li>Garcia 90' </li>
+3872640	home	<li>Tallal 86' </li>
+3872640	away	<li>Santiago 54' </li>
+3872641	home	<li>Rosa 17' </li>
+3872641	away	<li>Sevillano 47' </li>
+3872642	away	<li>Niño 75' </li>
+3872643	home	<li>Jimenez 89' </li>
+3872643	home	<li>Garcia 31' </li>
+3872643	home	<li>Garcia 50' </li>
+3872643	home	<li>Moran 26' </li>
+3872643	home	<li>Cesar 3' </li>
+3872643	home	<li>Yeray 87' </li>
+3872644	home	<li>Fernandez 58' (P)</li>
+3872644	home	<li>Elias 78' </li>
+3872644	away	<li>Llorente 48' </li>
+3872644	away	<li>Fernandez 76' </li>
+3872644	away	<li>Fernandez 90' </li>
+3872644	away	<li>Rovira 90' </li>
+3872645	home	<li>Nater 57' </li>
+3872645	home	<li>Becerra 65' </li>
+3872645	away	<li>Nico 35' </li>
+3872645	away	<li>Alejandro 29' </li>
+3872645	away	<li>Hector Nieto 71' </li>
+3872646	away	<li>Puente 56' </li>
+3872647	home	<li>Jimenez 4' (P)</li>
+3872649	home	<li>Amaro 26' </li>
+3872649	away	<li>Mobark Shanan 32' </li>
+3872651	away	<li>Garcia 45' </li>
+3872651	away	<li>Joaquin 54' </li>
+3872651	away	<li>Di Domenico 51' </li>
+3872652	away	<li>Joan Javier 40' </li>
+3872653	home	<li>Carvajal 75' </li>
+3872654	away	<li>Moreno 11' </li>
+3872655	home	<li>Almuzara 89' </li>
+3872655	home	<li>Garcia 75' </li>
+3872657	home	<li>Diego 26' </li>
+3872657	home	<li>Juan 34' </li>
+3872657	home	<li>Adrian 7' </li>
+3872657	home	<li>Iker 87' </li>
+3872657	home	<li>Jose Carlos 80' </li>
+3872658	home	<li>Garcia 2' </li>
+3872658	home	<li>Garcia 45' </li>
+3872658	home	<li>Moran 30' </li>
+3872658	home	<li>Paz 67' (P)</li>
+3872658	home	<li>Cesar 8' </li>
+3872658	home	<li>Cesar 73' </li>
+3872658	home	<li>Fortuny 33' </li>
+3872658	home	<li>Alonso 78' </li>
+3872659	home	<li>Fernandez 22' </li>
+3872659	away	<li>Niño 33' </li>
+3872660	home	<li>Joan Javier 69' </li>
+3872661	away	<li>Perez 63' </li>
+3872661	away	<li>Perez 77' </li>
+3872661	away	<li>Kawecki 25' </li>
+3872662	away	<li>Cabezas 1' </li>
+3872662	away	<li>Tallal 82' </li>
+3872662	away	<li>Cabezas 80' </li>
+3872663	home	<li>Miguel 43' </li>
+3872663	away	<li>Pablo 54' </li>
+3872665	away	<li>Piñeiro 82' (PP)</li>
+3872665	away	<li>Garcia 44' </li>
+3872665	away	<li>Garcia 62' </li>
+3872665	away	<li>Garcia 76' </li>
+3872665	away	<li>Cesar 90' </li>
+3872665	away	<li>Fortuny 33' </li>
+3872667	home	<li>Niño 47' (P)</li>
+3872667	home	<li>Raihani 50' </li>
+3872667	home	<li>Raihani 65' </li>
+3872667	home	<li>Gonzalez 82' </li>
+3872667	home	<li>Gomez 86' </li>
+3872667	away	<li>Becerra 31' </li>
+3872668	home	<li>Alvaro 31' (P)</li>
+3872669	home	<li>Martin 43' </li>
+3872669	away	<li>Manuel 66' </li>
+3872669	away	<li>Carvajal 90' </li>
+3872669	away	<li>Remolins 58' </li>
+3872670	home	<li>Morales 87' (P)</li>
+3872670	home	<li>Manuel 61' </li>
+3872670	away	<li>Herranz 90' </li>
+3872670	away	<li>Blanco 57' </li>
+3872670	away	<li>Perez 10' </li>
+3872671	home	<li>Niño 13' </li>
+3872671	home	<li>Enmanuel 5' </li>
+3872671	home	<li>Raihani 33' </li>
+3872672	home	<li>Sevillano 20' </li>
+3872672	home	<li>Amaro 73' </li>
+3872672	away	<li>Joan Javier 80' </li>
+3872672	away	<li>Alonso 89' </li>
+3872673	home	<li>Sergio M. 35' </li>
+3872673	home	<li>Mario 63' (P)</li>
+3872674	away	<li>Yeray 1' </li>
+3872674	away	<li>Yeray 75' </li>
+3872674	away	<li>Alonso 64' </li>
+3872675	home	<li>Marcos 64' </li>
+3872675	home	<li>Lastra 37' </li>
+3872675	home	<li>Miguel 68' </li>
+3872675	away	<li>Jairo 12' </li>
+3872676	home	<li>Moreno 50' </li>
+3872676	home	<li>Moreno 85' </li>
+3872676	home	<li>Mota 16' </li>
+3872676	away	<li>Roman 34' (P)</li>
+3872677	home	<li>Cabezas 39' (P)</li>
+3872677	away	<li>Remolins 52' </li>
+3872677	away	<li>Arriba 30' </li>
+3872678	home	<li>Carvajal 39' </li>
+3872678	home	<li>De Oro 74' </li>
+3872678	home	<li>Martin 84' </li>
+3872678	home	<li>Martin 89' </li>
+3872679	home	<li>Fernandez 55' </li>
+3872679	away	<li>Niño 43' (P)</li>
+3872679	away	<li>Niño 78' (P)</li>
+3872679	away	<li>Raihani 63' </li>
+3872679	away	<li>Raihani 82' </li>
+3872680	home	<li>Alexander 58' (P)</li>
+3872681	home	<li>Robles 6' </li>
+3872681	home	<li>Joan Javier 58' </li>
+3872681	home	<li>Lopez 67' </li>
+3872681	home	<li>Alonso 76' </li>
+3872681	away	<li>Iker 52' </li>
+3872681	away	<li>Iker 62' </li>
+3872681	away	<li>Iker 88' </li>
+3872682	home	<li>Garcia 29' </li>
+3872682	home	<li>Fernandez 52' </li>
+3872683	home	<li>Serrano 19' </li>
+3872683	home	<li>De Llanos 61' </li>
+3872683	home	<li>Rodriguez 72' </li>
+3872683	home	<li>Rodriguez 74' </li>
+3872683	home	<li>Ramon 90' </li>
+3872685	home	<li>Peña 58' (P)</li>
+3872685	away	<li>Hugo 80' </li>
+3872685	away	<li>Cabezas 10' </li>
+3872685	away	<li>Milara 46' </li>
+3872686	home	<li>Niño 9' </li>
+3872686	home	<li>Niño 46' </li>
+3872686	home	<li>Enmanuel 16' (PP)</li>
+3872686	home	<li>Raihani 29' </li>
+3872686	home	<li>Raihani 38' </li>
+3872686	home	<li>Francisco 68' </li>
+3872687	home	<li>Sanchez 54' </li>
+3872687	home	<li>Cordero 41' </li>
+3872687	away	<li>Cara 62' </li>
+3872687	away	<li>Ortueta 70' </li>
+3872687	away	<li>Kawecki 19' </li>
+3872688	home	<li>Iker 50' </li>
+3872688	home	<li>Daniel 2' </li>
+3872689	home	<li>Tamudo 11' </li>
+3872689	away	<li>Joan Javier 65' </li>
+3872689	away	<li>Marcos 31' </li>
+3872689	away	<li>Marcos 77' </li>
+3872689	away	<li>Alonso 51' </li>
+3872690	home	<li>Andres 48' </li>
+3872690	away	<li>Fernandez 45' </li>
+3872690	away	<li>Joaquin 68' </li>
+3872691	home	<li>Luis 40' (PP)</li>
+3872691	home	<li>Moreno 46' </li>
+3872691	away	<li>Garcia 66' </li>
+3872691	away	<li>Cesar 2' </li>
+3872691	away	<li>Yeray 57' </li>
+3872692	away	<li>Alvano 70' </li>
+3872693	home	<li>Roman 44' </li>
+3872693	away	<li>Manuel 8' </li>
+3872693	away	<li>Manuel 20' </li>
+3872693	away	<li>Manuel 61' </li>
+3872693	away	<li>Carvajal 17' </li>
+3872693	away	<li>Carvajal 83' </li>
+3872694	home	<li>Carvajal 23' </li>
+3872694	away	<li>El Jebari 5' </li>
+3872694	away	<li>Alvaro 35' </li>
+3872694	away	<li>Francisco 86' </li>
+3872695	home	<li>Morales 90' (P)</li>
+3872695	home	<li>Gallardo 83' </li>
+3872695	away	<li>Amaro 48' </li>
+3872695	away	<li>Carmona 36' </li>
+3872695	away	<li>Carmona 60' </li>
+3872696	home	<li>Pujol 55' (P)</li>
+3872696	home	<li>Fernandez 24' </li>
+3872696	away	<li>Iker 65' </li>
+3872696	away	<li>Santiago 79' </li>
+3872697	home	<li>Nico 63' </li>
+3872698	home	<li>Mogollon 17' </li>
+3872698	home	<li>Alonso 20' </li>
+3872698	home	<li>Alonso 80' </li>
+3872698	home	<li>Ybarra 31' </li>
+3872698	home	<li>Ybarra 78' </li>
+3872698	away	<li>David 56' </li>
+3872699	home	<li>Garcia 59' </li>
+3872699	away	<li>Rodriguez 44' </li>
+3872700	home	<li>Jimenez 44' </li>
+3872700	home	<li>Garcia 25' </li>
+3872700	home	<li>Garcia 49' </li>
+3872700	home	<li>Fortuny 37' </li>
+3872700	home	<li>Hernandez 47' </li>
+3872700	away	<li>Victor 15' (PP)</li>
+3872701	away	<li>Peña 8' </li>
+3872702	home	<li>Lopez 69' </li>
+3872702	away	<li>Boñar 17' </li>
+3872702	away	<li>El Jebari 12' </li>
+3872702	away	<li>Niño 14' </li>
+3872702	away	<li>Niño 37' </li>
+3872702	away	<li>Niño 42' </li>
+3872702	away	<li>Raihani 87' </li>
+3872702	away	<li>Vasiljevic 75' </li>
+3872703	home	<li>Mario 89' </li>
+3872703	home	<li>Santiago 1' </li>
+3872703	home	<li>Santiago 53' </li>
+3872703	home	<li>Santiago 74' </li>
+3872703	away	<li>Alvaro 39' </li>
+3872704	home	<li>Tamudo 22' </li>
+3872704	away	<li>Kawecki 75' </li>
+3872704	away	<li>Fernandez 15' </li>
+3872705	home	<li>Alhambra 90' </li>
+3872706	home	<li>Awuah 31' </li>
+3872706	away	<li>De Las Sias 56' (PP)</li>
+3872707	home	<li>Cabezas 8' </li>
+3872707	home	<li>Aceituno 15' </li>
+3872707	home	<li>Milara 88' </li>
+3872707	away	<li>Salas 50' </li>
+3872708	away	<li>Cesar 57' </li>
+3872708	away	<li>Alonso 80' </li>
+3872708	away	<li>Mesa 7' </li>
+3872708	away	<li>Hernandez 47' </li>
+3872709	away	<li>Carvajal 28' </li>
+3872709	away	<li>Remolins 25' </li>
+3872709	away	<li>Martin 89' </li>
+3872709	away	<li>Soto 85' </li>
+3872710	home	<li>Lechosa 25' </li>
+3872710	away	<li>Sanchez 89' </li>
+3872710	away	<li>Sevillano 58' </li>
+3872711	home	<li>Denia 2' </li>
+3872711	home	<li>Denia 21' </li>
+3872711	home	<li>Niño 48' </li>
+3872711	home	<li>Francisco 36' </li>
+3872711	home	<li>Raihani 79' </li>
+3872712	home	<li>Alvaro 11' </li>
+3872712	home	<li>Alvarez 52' </li>
+3872712	home	<li>Jorge 11' </li>
+3872712	home	<li>Jorge 26' </li>
+3872712	home	<li>Manuel 47' </li>
+3872712	home	<li>Gallardo 80' </li>
+3872713	home	<li>Ortueta 88' </li>
+3872713	away	<li>Marcos 55' (P)</li>
+3872714	home	<li>Aday 50' </li>
+3872714	away	<li>Garcia 61' </li>
+3872714	away	<li>Moreno 70' (P)</li>
+3872714	away	<li>Moreno 75' (P)</li>
+3872714	away	<li>Perez 23' </li>
+3872715	home	<li>Alonso 50' </li>
+3872715	home	<li>Alonso 61' </li>
+3872715	home	<li>Becerra 69' </li>
+3872716	home	<li>Joaquin 32' </li>
+3872716	home	<li>Alonso 89' </li>
+3872717	home	<li>Fortuny 50' </li>
+3872718	home	<li>Santiago 27' </li>
+3872719	away	<li>Gomez 10' </li>
+3872719	away	<li>Gomez 14' </li>
+3872719	away	<li>David 76' </li>
+3872719	away	<li>Niño 77' </li>
+3872719	away	<li>Niño 81' </li>
+3872720	home	<li>Jesus Javier 16' </li>
+3872720	home	<li>Jesus Javier 63' </li>
+3872720	home	<li>Jesus Javier 65' </li>
+3872720	away	<li>Lopez 88' </li>
+3872721	home	<li>Garcia 9' </li>
+3872721	home	<li>Moreno 40' (P)</li>
+3872721	home	<li>Adrian 82' </li>
+3872721	away	<li>Pujol 21' </li>
+3872722	home	<li>Cabezas 25' </li>
+3872722	home	<li>Cabezas 68' </li>
+3872722	home	<li>Garcia 45' </li>
+3872723	home	<li>Vivas 11' </li>
+3872723	away	<li>Nieto 10' </li>
+3872723	away	<li>Mogollon 6' </li>
+3872723	away	<li>Ybarra 37' </li>
+3872723	away	<li>Becerra 17' </li>
+3872724	away	<li>Fernandez 70' </li>
+3872725	home	<li>Yeray 23' </li>
+3872725	home	<li>Martin 8' </li>
+3872725	home	<li>Garcia 73' </li>
+3872726	home	<li>Navarro 18' </li>
+3872726	home	<li>Arriba 36' </li>
+3872726	home	<li>Carvajal 46' </li>
+3872726	home	<li>Carvajal 89' </li>
+3872726	home	<li>Martin 40' </li>
+3872726	away	<li>Santiago 70' </li>
+3872726	away	<li>Daniel 25' </li>
+3872727	home	<li>Calvo 77' </li>
+3872727	home	<li>Sanchez 64' </li>
+3872728	home	<li>Denia 50' </li>
+3872728	home	<li>Fabian 43' </li>
+3872728	home	<li>Francisco 79' </li>
+3872729	home	<li>Fernandez 47' (P)</li>
+3872729	home	<li>Jorge 50' </li>
+3872729	away	<li>Martin 19' </li>
+3872729	away	<li>Adrian 80' </li>
+3872730	home	<li>Fernandez 67' </li>
+3872731	home	<li>Castillo 85' </li>
+3872732	home	<li>Joan Javier 67' </li>
+3872732	home	<li>Alonso 4' </li>
+3872732	home	<li>Marcos 84' </li>
+3872732	away	<li>Jairo 30' </li>
+3872733	home	<li>Fernandez 22' </li>
+3872733	home	<li>Fernandez 57' </li>
+3872733	away	<li>Fortuny 26' </li>
+3872733	away	<li>Garcia 81' </li>
+3872734	away	<li>Mario 28' </li>
+3872734	away	<li>Santiago 21' </li>
+3872734	away	<li>Iker 53' </li>
+3872734	away	<li>Daniel 55' </li>
+3872735	home	<li>Jesus Javier 82' </li>
+3872735	away	<li>Sevillano 53' </li>
+3872735	away	<li>Amaro 42' </li>
+3872736	away	<li>Raihani 47' </li>
+3872736	away	<li>Gonzalez 89' </li>
+3872738	home	<li>Vivas 43' </li>
+3872738	home	<li>Vivas 90' (P)</li>
+3872738	home	<li>Carlos 3' </li>
+3872738	away	<li>Del Olmo 18' </li>
+3872738	away	<li>Pujol 76' </li>
+3872738	away	<li>Cara 73' </li>
+3872739	home	<li>Lisandro 8' </li>
+3872739	away	<li>Aday 87' </li>
+3872739	away	<li>Alexander 79' </li>
+3872740	home	<li>Enriquez 90' </li>
+3872741	home	<li>Espejo 53' </li>
+3872742	home	<li>Pozos 44' </li>
+3872742	home	<li>De Oro 18' </li>
+3872742	home	<li>Carvajal 51' </li>
+3872742	home	<li>Carvajal 83' </li>
+3872742	home	<li>Peña 68' </li>
+3872742	home	<li>Arriba 79' </li>
+3872743	home	<li>Mario 68' </li>
+3872743	home	<li>Iker 88' (P)</li>
+3872743	home	<li>Daniel 30' </li>
+3872743	away	<li>Jorge 7' (PP)</li>
+3872743	away	<li>Andres 18' </li>
+3872743	away	<li>Jesus Javier 68' </li>
+3872744	home	<li>Calvo 44' </li>
+3872744	home	<li>Sevillano 75' </li>
+3872744	away	<li>Awuah 44' </li>
+3872745	home	<li>Denia 83' </li>
+3872746	home	<li>Alvaro 62' </li>
+3872746	home	<li>Jardon 89' </li>
+3872746	away	<li>Carlos 18' </li>
+3872747	home	<li>Cara 27' </li>
+3872747	away	<li>Arturo 52' </li>
+3872748	home	<li>Aday 76' </li>
+3872748	away	<li>Garcia 73' </li>
+3872748	away	<li>Garcia 79' </li>
+3872749	home	<li>Becerra 15' </li>
+3872750	home	<li>Jorge 69' </li>
+3872750	away	<li>Gonzalez 62' </li>
+3872750	away	<li>Cordero 84' </li>
+3872751	home	<li>Mota 78' </li>
+3872752	home	<li>Cabezas 57' </li>
+3872752	away	<li>Martinez 74' </li>
+3872752	away	<li>Martinez 89' </li>
+3872753	home	<li>Roman 5' </li>
+3872753	home	<li>Roman 71' </li>
+3872753	away	<li>Denia 49' </li>
+3872753	away	<li>Raihani 15' </li>
+3872753	away	<li>Raihani 54' </li>
+3872754	home	<li>Adrian 90' </li>
+3872755	home	<li>Garcia 75' </li>
+3872755	home	<li>Mesonero 13' </li>
+3872755	home	<li>Cesar 90' </li>
+3872756	away	<li>Sergio 54' </li>
+3872757	home	<li>Robles 54' (P)</li>
+3872757	away	<li>Manuel 48' </li>
+3872757	away	<li>Carvajal 20' </li>
+3872757	away	<li>Martin 90' </li>
+3872758	home	<li>Peña 66' </li>
+3872758	home	<li>Carvajal 87' </li>
+3872759	home	<li>Lozano 66' </li>
+3872759	away	<li>Adrian 69' </li>
+3872759	away	<li>Notario 64' </li>
+3872760	home	<li>Santiago 62' </li>
+3872760	away	<li>Milara 1' </li>
+3872760	away	<li>Milara 53' </li>
+3872760	away	<li>Rubio 89' </li>
+3872761	home	<li>Requena 79' </li>
+3872761	home	<li>Sevillano 38' </li>
+3872762	home	<li>Denia 38' </li>
+3872762	home	<li>Gomez 90' </li>
+3872763	home	<li>Asensio 75' (PP)</li>
+3872763	away	<li>Garcia 61' </li>
+3872763	away	<li>Cesar 10' </li>
+3872763	away	<li>Cesar 34' </li>
+3872763	away	<li>Mesonero 4' </li>
+3872764	home	<li>Alberto 36' </li>
+3872764	home	<li>Perez 86' </li>
+3872765	home	<li>Victor 77' </li>
+3872765	away	<li>Marcos 11' </li>
+3872766	home	<li>Garcia 89' </li>
+3872766	home	<li>Adrian 16' </li>
+3872766	home	<li>Awuah 6' </li>
+3872766	away	<li>Jesus Javier 56' </li>
+3872767	home	<li>Milara 23' </li>
+3872767	home	<li>Milara 76' (P)</li>
+3872767	away	<li>Martin 89' (PP)</li>
+3872767	away	<li>Jimenez 28' </li>
+3872768	home	<li>Ciriero 44' </li>
+3872768	home	<li>Carlos 80' </li>
+3872768	away	<li>Sergio M. 9' </li>
+3872768	away	<li>Iker 43' </li>
+3872769	home	<li>Calzado 90' </li>
+3872769	home	<li>Arturo 50' </li>
+3872769	away	<li>Lopez 90' </li>
+3872770	home	<li>Moran 27' </li>
+3872770	home	<li>Cesar 34' </li>
+3872770	home	<li>Cesar 74' </li>
+3872770	home	<li>De Llanos 85' </li>
+3872770	home	<li>Paz 79' </li>
+3872771	home	<li>Emanuelle 90' </li>
+3872771	away	<li>Asensio 22' </li>
+3872772	home	<li>De Las Sias 15' </li>
+3872772	away	<li>Llorente 22' </li>
+3872772	away	<li>Bragado 45' </li>
+3872773	home	<li>Alejandro 78' (P)</li>
+3872773	away	<li>Peña 67' </li>
+3872773	away	<li>Carvajal 48' </li>
+3872773	away	<li>Carvajal 83' </li>
+3872774	away	<li>Peña 37' (P)</li>
+3872774	away	<li>Carvajal 56' </li>
+3872775	away	<li>Cabezas 74' </li>
+3872776	home	<li>Conejero 70' </li>
+3872776	home	<li>Conejero 90' </li>
+3872776	away	<li>Roman 7' </li>
+3872776	away	<li>Pablo 15' </li>
+3872776	away	<li>Paz 87' </li>
+3872777	home	<li>Mario 28' </li>
+3872777	home	<li>Victor 36' </li>
+3872777	home	<li>Bruno 30' </li>
+3872777	away	<li>Juan 42' </li>
+3872778	away	<li>Chema 24' </li>
+3872779	home	<li>Francisco 43' </li>
+3872779	home	<li>Denia 63' </li>
+3872780	home	<li>Morales 54' (P)</li>
+3872780	home	<li>Alvaro 21' </li>
+3872780	home	<li>Alvarez 60' </li>
+3872780	home	<li>Manuel 79' </li>
+3872780	home	<li>Garcia 70' </li>
+3872780	away	<li>Nieto 76' (P)</li>
+3872780	away	<li>Ybarra 32' </li>
+3872781	home	<li>Llorente 20' </li>
+3872781	away	<li>Hugo 35' </li>
+3872782	home	<li>Tallal 46' </li>
+3872782	away	<li>Mota 2' </li>
+3872783	home	<li>Carlos 5' </li>
+3872783	home	<li>Carlos 36' </li>
+3872783	home	<li>Peña 85' </li>
+3872783	away	<li>Jesus Javier 62' </li>
+3872783	away	<li>Mciver 57' </li>
+3872784	home	<li>Arturo 13' </li>
+3872784	home	<li>Arturo 51' </li>
+3872784	home	<li>Iker 38' </li>
+3872784	home	<li>Daniel 85' </li>
+3872785	home	<li>Garcia 13' </li>
+3872785	home	<li>Garcia 36' </li>
+3872785	home	<li>Garcia 39' </li>
+3872785	home	<li>Garcia 57' </li>
+3872785	home	<li>Nobrega 29' </li>
+3872785	home	<li>Duran 61' </li>
+3872785	home	<li>Cesar 61' </li>
+3872785	away	<li>Sergio M. 3' (PP)</li>
+3872785	away	<li>Iker 82' </li>
+3872786	home	<li>Blazquez 83' </li>
+3872786	away	<li>Calvo 43' </li>
+3872786	away	<li>Amaro 1' </li>
+3872788	home	<li>Ribeiro 19' </li>
+3872788	home	<li>Aday 55' </li>
+3872788	home	<li>Jesus 71' (P)</li>
+3872788	home	<li>Alejandro 88' (P)</li>
+3872788	away	<li>Garcia 89' (P)</li>
+3872789	home	<li>Carvajal 85' </li>
+3872789	home	<li>Fernandez 90' </li>
+3872789	away	<li>Fernandez 53' </li>

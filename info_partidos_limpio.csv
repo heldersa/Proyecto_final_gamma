@@ -1,0 +1,241 @@
+id_partido	competition	home_team	away_team	jornada	fecha	hora	ciudad	estadio	home_goals	away_goals
+3872550	División de Honor Juvenil	Getafe C.F. SAD	U.D. La Cruz Villanovense	1	2022-09-03	18:00h	Getafe	Ciudad Deportiva Getafe	3	0
+3872551	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	Club Atlético de Madrid SAD	1	2022-09-04	12:30h	Valladolid	Anexos E.M. José Zorrilla (H. Artificial)	1	2
+3872552	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	C.F. Fuenlabrada SAD	1	2022-09-03	18:00h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	0	2
+3872553	División de Honor Juvenil	A.D. Alcorcón SAD	C.D.I. de la Amistad	1	2022-09-03	18:00h	Alcorcón	P.M. Santo Domingo	2	1
+3872554	División de Honor Juvenil	Real Madrid C.F.	C.D. Badajoz 1905	1	2022-09-03	19:00h	Valdebebas	Ciudad Real Madrid	7	0
+3872555	División de Honor Juvenil	C. y D. Leonesa S.A.D.	AD Sporting Hortaleza	1	2022-09-03	13:30h	Leon	Area D. de Puente Castro 1	1	2
+3872556	División de Honor Juvenil	C.D. Col. Diocesano	C.D. Leganés SAD	1	2022-09-03	17:00h	Cáceres	Federación de Caceres	0	0
+3872557	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	C.F. Rayo Majadahonda	1	2022-09-03	16:15h	Alcobendas	Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	0	3
+3872558	División de Honor Juvenil	U.D. La Cruz Villanovense	Rayo Ciudad Alcobendas CF	2	2022-09-10	18:00h	Villanueva De La Serena	Anexo Estadio Villanovense	0	3
+3872559	División de Honor Juvenil	Club Atlético de Madrid SAD	Getafe C.F. SAD	2	2022-09-10	19:00h	Alcalá De Henares	C.D. WANDA ALCALÁ (natural)	1	0
+3872560	División de Honor Juvenil	C.F. Fuenlabrada SAD	Real Valladolid C.F. S.A.D.	2	2022-09-11	12:00h	Fuenlabrada	La Aldehuela	1	2
+3872561	División de Honor Juvenil	C.D.I. de la Amistad	Rayo Vallecano de Madrid SAD	2	2022-09-11	12:00h	Palencia	E.M. Nueva Balastera	1	3
+3872562	División de Honor Juvenil	C.D. Badajoz 1905	A.D. Alcorcón SAD	2	2022-09-10	19:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	0	3
+3872563	División de Honor Juvenil	AD Sporting Hortaleza	Real Madrid C.F.	2	2022-09-10	18:30h	Madrid	Municipal Sporting de Hortaleza	0	3
+3872564	División de Honor Juvenil	C.D. Leganés SAD	C. y D. Leonesa S.A.D.	2	2022-09-11	16:00h	Leganés	Instalación Deportiva Butarque	1	0
+3872565	División de Honor Juvenil	C.F. Rayo Majadahonda	C.D. Col. Diocesano	2	2022-09-10	16:30h	Majadahonda	Campos Municipales Valle de la Oliva	0	0
+3872566	División de Honor Juvenil	U.D. La Cruz Villanovense	Club Atlético de Madrid SAD	3	2022-09-18	12:00h	Villanueva De La Serena	Anexo Estadio Villanovense	0	0
+3872567	División de Honor Juvenil	Getafe C.F. SAD	C.F. Fuenlabrada SAD	3	2022-09-18	11:30h	Getafe	Ciudad Deportiva Getafe	1	1
+3872568	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	C.D.I. de la Amistad	3	2022-09-17	12:00h	Valladolid	Anexos E.M. José Zorrilla (H. Artificial)	2	0
+3872569	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	C.D. Badajoz 1905	3	2022-09-17	18:00h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	8	0
+3872570	División de Honor Juvenil	A.D. Alcorcón SAD	AD Sporting Hortaleza	3	2022-09-18	11:30h	Alcorcón	P.M. Santo Domingo	1	0
+3872571	División de Honor Juvenil	Real Madrid C.F.	C.D. Leganés SAD	3	2022-09-18	17:00h	Valdebebas	Ciudad Real Madrid	3	3
+3872572	División de Honor Juvenil	C. y D. Leonesa S.A.D.	C.F. Rayo Majadahonda	3	2022-09-17	13:00h	Leon	Area D. de Puente Castro 1	2	1
+3872573	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	C.D. Col. Diocesano	3	2022-09-18	16:00h	Alcobendas	Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	2	1
+3872574	División de Honor Juvenil	Club Atlético de Madrid SAD	Rayo Ciudad Alcobendas CF	4	2022-10-01	12:00h	Alcalá De Henares	C.D. WANDA ALCALÁ (natural)	3	1
+3872575	División de Honor Juvenil	C.F. Fuenlabrada SAD	U.D. La Cruz Villanovense	4	2022-10-02	12:00h	Fuenlabrada	La Aldehuela	1	3
+3872576	División de Honor Juvenil	C.D.I. de la Amistad	Getafe C.F. SAD	4	2022-10-02	12:00h	Palencia	E.M. Nueva Balastera	2	1
+3872577	División de Honor Juvenil	C.D. Badajoz 1905	Real Valladolid C.F. S.A.D.	4	2022-10-02	12:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	3	1
+3872578	División de Honor Juvenil	AD Sporting Hortaleza	Rayo Vallecano de Madrid SAD	4	2022-10-02	17:00h	Madrid	Municipal Sporting de Hortaleza	2	5
+3872579	División de Honor Juvenil	C.D. Leganés SAD	A.D. Alcorcón SAD	4	2022-10-02	12:00h	Leganés	Instalación Deportiva Butarque	1	1
+3872580	División de Honor Juvenil	C.F. Rayo Majadahonda	Real Madrid C.F.	4	2022-10-01	16:00h	Majadahonda	Campos Municipales Valle de la Oliva	0	3
+3872581	División de Honor Juvenil	C.D. Col. Diocesano	C. y D. Leonesa S.A.D.	4	2022-10-01	16:00h	Caceres	Federación de Caceres	2	2
+3872582	División de Honor Juvenil	Club Atlético de Madrid SAD	C.F. Fuenlabrada SAD	5	2022-10-08	12:00h	Alcalá De Henares	C.D. WANDA ALCALÁ (natural)	3	1
+3872583	División de Honor Juvenil	U.D. La Cruz Villanovense	C.D.I. de la Amistad	5	2022-10-08	17:30h	Villanueva De La Serena	Anexo Estadio Villanovense	3	0
+3872584	División de Honor Juvenil	Getafe C.F. SAD	C.D. Badajoz 1905	5	2022-10-08	16:00h	Getafe	Ciudad Deportiva Getafe	2	0
+3872585	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	AD Sporting Hortaleza	5	2022-10-09	12:00h	Valladolid	Anexos E.M. José Zorrilla 3	1	1
+3872586	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	C.D. Leganés SAD	5	2022-10-08	18:00h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	2	1
+3872587	División de Honor Juvenil	A.D. Alcorcón SAD	C.F. Rayo Majadahonda	5	2022-10-08	16:00h	Alcorcón	Santo Domingo	0	0
+3872588	División de Honor Juvenil	Real Madrid C.F.	C.D. Col. Diocesano	5	2022-10-08	16:00h	Valdebebas	Ciudad Real Madrid	5	2
+3872589	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	C. y D. Leonesa S.A.D.	5	2022-10-08	16:00h	Alcobendas	Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	0	1
+3872590	División de Honor Juvenil	C.F. Fuenlabrada SAD	Rayo Ciudad Alcobendas CF	6	2022-10-16	12:00h	Moraleja De Enmedio	Moraleja de Enmedio - La Dehesa	0	1
+3872591	División de Honor Juvenil	C.D.I. de la Amistad	Club Atlético de Madrid SAD	6	2022-10-16	12:00h	Palencia	E.M. Nueva Balastera	1	4
+3872592	División de Honor Juvenil	C.D. Badajoz 1905	U.D. La Cruz Villanovense	6	2022-10-16	14:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	2	1
+3872593	División de Honor Juvenil	AD Sporting Hortaleza	Getafe C.F. SAD	6	2022-10-16	17:30h	Madrid	Municipal Sporting de Hortaleza	3	1
+3872594	División de Honor Juvenil	C.D. Leganés SAD	Real Valladolid C.F. S.A.D.	6	2022-10-16	16:30h	Leganés	Instalación Deportiva Butarque	2	1
+3872595	División de Honor Juvenil	C.F. Rayo Majadahonda	Rayo Vallecano de Madrid SAD	6	2022-10-15	17:00h	Majadahonda	Campos Municipales Valle de la Oliva	1	1
+3872596	División de Honor Juvenil	C.D. Col. Diocesano	A.D. Alcorcón SAD	6	2022-10-15	16:00h	Caceres	Federación de Caceres	0	1
+3872597	División de Honor Juvenil	C. y D. Leonesa S.A.D.	Real Madrid C.F.	6	2022-10-16	12:00h	Leon	Area D. de Puente Castro 1	1	2
+3872598	División de Honor Juvenil	C.F. Fuenlabrada SAD	C.D.I. de la Amistad	7	2022-10-23	12:00h	Moraleja De Enmedio	Moraleja de Enmedio - La Dehesa	3	0
+3872599	División de Honor Juvenil	Club Atlético de Madrid SAD	C.D. Badajoz 1905	7	2022-10-22	17:00h	Alcalá De Henares	C.D. ALCALÁ (natural)	5	0
+3872600	División de Honor Juvenil	U.D. La Cruz Villanovense	AD Sporting Hortaleza	7	2022-10-23	12:00h	Villanueva De La Serena	Anexo Estadio Villanovense	3	1
+3872601	División de Honor Juvenil	Getafe C.F. SAD	C.D. Leganés SAD	7	2022-10-22	16:00h	Getafe	Ciudad Deportiva Getafe	1	2
+3872602	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	C.F. Rayo Majadahonda	7	2022-10-22	11:00h	Valladolid	Anexos E.M. José Zorrilla 3	3	1
+3872603	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	C.D. Col. Diocesano	7	2022-10-22	17:00h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	2	1
+3872604	División de Honor Juvenil	A.D. Alcorcón SAD	C. y D. Leonesa S.A.D.	7	2022-10-23	16:00h	Alcorcon	Santo Domingo	2	1
+3872605	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	Real Madrid C.F.	7	2022-10-22	16:00h	Alcobendas	Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	0	4
+3872606	División de Honor Juvenil	C.D.I. de la Amistad	Rayo Ciudad Alcobendas CF	8	2022-10-30	12:00h	Palencia	E.M. Nueva Balastera	0	3
+3872607	División de Honor Juvenil	C.D. Badajoz 1905	C.F. Fuenlabrada SAD	8	2022-10-30	12:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	1	3
+3872608	División de Honor Juvenil	AD Sporting Hortaleza	Club Atlético de Madrid SAD	8	2022-10-29	17:30h	Madrid	Municipal Sporting de Hortaleza	0	6
+3872609	División de Honor Juvenil	C.D. Leganés SAD	U.D. La Cruz Villanovense	8	2022-10-30	16:15h	Leganés	Instalación Deportiva Butarque	2	1
+3872610	División de Honor Juvenil	C.F. Rayo Majadahonda	Getafe C.F. SAD	8	2022-10-29	16:00h	Majadahonda	Campos Municipales Valle de la Oliva	3	0
+3872611	División de Honor Juvenil	C.D. Col. Diocesano	Real Valladolid C.F. S.A.D.	8	2022-10-29	16:00h	Caceres	Federación de Caceres	2	1
+3872612	División de Honor Juvenil	C. y D. Leonesa S.A.D.	Rayo Vallecano de Madrid SAD	8	2022-10-29	13:30h	Leon	Area D. de Puente Castro 1	0	0
+3872613	División de Honor Juvenil	Real Madrid C.F.	A.D. Alcorcón SAD	8	2022-10-29	19:00h	Valdebebas	Ciudad Real Madrid	2	0
+3872614	División de Honor Juvenil	C.D.I. de la Amistad	C.D. Badajoz 1905	9	2022-11-06	12:00h	Palencia	E.M. Nueva Balastera	2	0
+3872615	División de Honor Juvenil	C.F. Fuenlabrada SAD	AD Sporting Hortaleza	9	2022-11-06	11:00h	Moraleja De Enmedio	Moraleja de Enmedio - La Dehesa	2	0
+3872616	División de Honor Juvenil	Club Atlético de Madrid SAD	C.D. Leganés SAD	9	2022-11-06	12:00h	Alcalá De Henares	ESTADIO C.D. WANDA ALCALÁ DE HENARES	4	0
+3872617	División de Honor Juvenil	U.D. La Cruz Villanovense	C.F. Rayo Majadahonda	9	2022-11-05	17:00h	Villanueva De La Serena	Anexo Estadio Villanovense	0	3
+3872618	División de Honor Juvenil	Getafe C.F. SAD	C.D. Col. Diocesano	9	2022-11-06	16:00h	Getafe	Ciudad Deportiva Getafe	5	3
+3872619	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	C. y D. Leonesa S.A.D.	9	2022-11-05	13:00h	Valladolid	Anexos E.M. José Zorrilla 3	3	1
+3872620	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	Real Madrid C.F.	9	2022-11-06	17:00h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	0	3
+3872621	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	A.D. Alcorcón SAD	9	2022-11-05	16:00h	Alcobendas	Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	0	0
+3872622	División de Honor Juvenil	C.D. Badajoz 1905	Rayo Ciudad Alcobendas CF	10	2022-11-13	13:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	0	2
+3872623	División de Honor Juvenil	AD Sporting Hortaleza	C.D.I. de la Amistad	10	2022-11-13	17:45h	Madrid	Municipal Sporting de Hortaleza	1	1
+3872624	División de Honor Juvenil	C.D. Leganés SAD	C.F. Fuenlabrada SAD	10	2022-11-13	15:45h	Leganés	Instalación Deportiva Butarque	1	1
+3872625	División de Honor Juvenil	C.F. Rayo Majadahonda	Club Atlético de Madrid SAD	10	2022-11-13	17:00h	Majadahonda	Campos Municipales Valle de la Oliva	0	2
+3872626	División de Honor Juvenil	C.D. Col. Diocesano	U.D. La Cruz Villanovense	10	2022-11-12	18:00h	Cáceres	Federación de Caceres	1	1
+3872627	División de Honor Juvenil	C. y D. Leonesa S.A.D.	Getafe C.F. SAD	10	2022-11-12	13:30h	Leon	Area D. de Puente Castro 1	0	2
+3872628	División de Honor Juvenil	Real Madrid C.F.	Real Valladolid C.F. S.A.D.	10	2022-11-13	12:00h	Valdebebas	Ciudad Real Madrid	5	1
+3872629	División de Honor Juvenil	A.D. Alcorcón SAD	Rayo Vallecano de Madrid SAD	10	2022-11-12	16:00h	Alcorcón	Santo Domingo	3	1
+3872630	División de Honor Juvenil	C.D. Badajoz 1905	AD Sporting Hortaleza	11	2022-11-20	12:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	1	2
+3872631	División de Honor Juvenil	C.D.I. de la Amistad	C.D. Leganés SAD	11	2022-11-20	12:00h	Palencia	Campos del C.I. Amistad 1	0	2
+3872632	División de Honor Juvenil	C.F. Fuenlabrada SAD	C.F. Rayo Majadahonda	11	2022-11-20	13:30h	Moraleja De Enmedio	Moraleja de Enmedio - La Dehesa	1	0
+3872633	División de Honor Juvenil	Club Atlético de Madrid SAD	C.D. Col. Diocesano	11	2022-11-20	18:00h	Alcalá De Henares	C.D. ALCALÁ (natural)	2	1
+3872634	División de Honor Juvenil	U.D. La Cruz Villanovense	C. y D. Leonesa S.A.D.	11	2022-11-20	12:00h	Villanueva De La Serena	Anexo Estadio Villanovense	2	0
+3872635	División de Honor Juvenil	Getafe C.F. SAD	Real Madrid C.F.	11	2022-11-20	16:00h	Getafe	Ciudad Deportiva Getafe	0	3
+3872636	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	A.D. Alcorcón SAD	11	2022-11-20	16:30h	Valladolid	Anexos E.M. José Zorrilla 3	1	0
+3872637	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	Rayo Vallecano de Madrid SAD	11	2022-11-19	16:00h	Alcobendas	Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	2	3
+3872638	División de Honor Juvenil	AD Sporting Hortaleza	Rayo Ciudad Alcobendas CF	12	2022-11-27	17:30h	Madrid	Municipal Sporting de Hortaleza	1	1
+3872639	División de Honor Juvenil	C.D. Leganés SAD	C.D. Badajoz 1905	12	2022-11-27	13:30h	Leganes	Instalación Deportiva Butarque	2	0
+3872640	División de Honor Juvenil	C.F. Rayo Majadahonda	C.D.I. de la Amistad	12	2022-11-26	18:00h	Majadahonda	Campos Municipales Valle de la Oliva	4	1
+3872641	División de Honor Juvenil	C.D. Col. Diocesano	C.F. Fuenlabrada SAD	12	2022-11-27	12:00h	Cáceres	Federación de Caceres	1	1
+3872642	División de Honor Juvenil	C. y D. Leonesa S.A.D.	Club Atlético de Madrid SAD	12	2022-11-26	13:30h	Leon	Area D. de Puente Castro 1	0	1
+3872643	División de Honor Juvenil	Real Madrid C.F.	U.D. La Cruz Villanovense	12	2022-11-27	16:00h	Valdebebas	Ciudad Real Madrid	6	0
+3872644	División de Honor Juvenil	A.D. Alcorcón SAD	Getafe C.F. SAD	12	2022-11-27	12:00h	Alcorcón	Santo Domingo	2	4
+3872645	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	Real Valladolid C.F. S.A.D.	12	2022-11-26	16:00h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	2	3
+3872646	División de Honor Juvenil	AD Sporting Hortaleza	C.D. Leganés SAD	13	2022-12-04	17:30h	Madrid	Municipal Sporting de Hortaleza	0	1
+3872647	División de Honor Juvenil	C.D. Badajoz 1905	C.F. Rayo Majadahonda	13	2022-12-03	16:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	1	0
+3872648	División de Honor Juvenil	C.D.I. de la Amistad	C.D. Col. Diocesano	13	2022-12-04	12:00h	Palencia	Campos del C.I. Amistad 1	0	0
+3872649	División de Honor Juvenil	C.F. Fuenlabrada SAD	C. y D. Leonesa S.A.D.	13	2022-12-04	13:30h	Moraleja De Enmedio	Moraleja de Enmedio - La Dehesa	1	1
+3872650	División de Honor Juvenil	Club Atlético de Madrid SAD	Real Madrid C.F.	13	2022-12-04	12:00h	Alcalá De Henares	C.D. ALCALÁ (natural)	0	0
+3872651	División de Honor Juvenil	U.D. La Cruz Villanovense	A.D. Alcorcón SAD	13	2022-12-03	16:00h	Villanueva De La Serena	Anexo Estadio Villanovense	0	3
+3872652	División de Honor Juvenil	Getafe C.F. SAD	Rayo Vallecano de Madrid SAD	13	2022-12-04	16:00h	Getafe	Ciudad Deportiva Getafe	0	1
+3872653	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	Real Valladolid C.F. S.A.D.	13	2022-12-04	17:00h	Alcobendas	Luis Aragonés - Ppvo. Mpal. José Caballero	1	0
+3872654	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	C.D. Leganés SAD	14	2022-12-10	16:00h	Alcobendas	Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	0	1
+3872655	División de Honor Juvenil	C.F. Rayo Majadahonda	AD Sporting Hortaleza	14	2022-12-10	17:30h	Majadahonda	Campos Municipales Valle de la Oliva	2	0
+3872656	División de Honor Juvenil	C.D. Col. Diocesano	C.D. Badajoz 1905	14	2022-12-10	16:00h	Cáceres	Federación de Caceres	0	0
+3872657	División de Honor Juvenil	C. y D. Leonesa S.A.D.	C.D.I. de la Amistad	14	2022-12-10	16:00h	Leon	Area D. de Puente Castro 1	5	0
+3872658	División de Honor Juvenil	Real Madrid C.F.	C.F. Fuenlabrada SAD	14	2022-12-11	12:00h	Valdebebas	Ciudad Real Madrid	8	0
+3872659	División de Honor Juvenil	A.D. Alcorcón SAD	Club Atlético de Madrid SAD	14	2022-12-10	12:00h	Alcorcón	Santo Domingo	1	1
+3872660	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	U.D. La Cruz Villanovense	14	2022-12-11	16:00h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	1	0
+3872661	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	Getafe C.F. SAD	14	2022-12-10	12:00h	Valladolid	Anexos E.M. José Zorrilla 3	0	3
+3872662	División de Honor Juvenil	C.D. Leganés SAD	C.F. Rayo Majadahonda	15	2022-12-18	15:00h	Leganés	Instalación Deportiva Butarque	0	3
+3872663	División de Honor Juvenil	AD Sporting Hortaleza	C.D. Col. Diocesano	15	2022-12-18	13:00h	Madrid	Municipal Sporting de Hortaleza	1	1
+3872664	División de Honor Juvenil	C.D. Badajoz 1905	C. y D. Leonesa S.A.D.	15	2022-12-17	16:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	0	0
+3872665	División de Honor Juvenil	C.D.I. de la Amistad	Real Madrid C.F.	15	2022-12-18	12:00h	Palencia	E.M. Nueva Balastera	1	5
+3872666	División de Honor Juvenil	C.F. Fuenlabrada SAD	A.D. Alcorcón SAD	15	2022-12-18	13:30h	Moraleja De Enmedio	Moraleja de Enmedio - La Dehesa	0	0
+3872667	División de Honor Juvenil	Club Atlético de Madrid SAD	Rayo Vallecano de Madrid SAD	15	2022-12-17	12:30h	Alcalá De Henares	C.D. ALCALÁ (natural)	5	1
+3872668	División de Honor Juvenil	U.D. La Cruz Villanovense	Real Valladolid C.F. S.A.D.	15	2022-12-17	16:00h	Villanueva De La Serena	Anexo Estadio Villanovense	1	0
+3872669	División de Honor Juvenil	Getafe C.F. SAD	Rayo Ciudad Alcobendas CF	15	2022-12-17	18:30h	Getafe	Ciudad Deportiva Getafe	1	3
+3872670	División de Honor Juvenil	U.D. La Cruz Villanovense	Getafe C.F. SAD	16	2023-01-15	12:00h	Villanueva De La Serena	Anexo Estadio Villanovense	2	3
+3872671	División de Honor Juvenil	Club Atlético de Madrid SAD	Real Valladolid C.F. S.A.D.	16	2023-01-15	12:30h	Alcalá De Henares	C.D. ALCALÁ (natural)	3	0
+3872672	División de Honor Juvenil	C.F. Fuenlabrada SAD	Rayo Vallecano de Madrid SAD	16	2023-01-15	14:00h	Moraleja De Enmedio	Moraleja de Enmedio - La Dehesa	2	2
+3872673	División de Honor Juvenil	C.D.I. de la Amistad	A.D. Alcorcón SAD	16	2023-01-15	12:00h	Palencia	Campos del C.I. Amistad 1	2	0
+3872674	División de Honor Juvenil	C.D. Badajoz 1905	Real Madrid C.F.	16	2023-01-14	16:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	0	3
+3872675	División de Honor Juvenil	AD Sporting Hortaleza	C. y D. Leonesa S.A.D.	16	2023-01-15	12:00h	Madrid	Municipal Sporting de Hortaleza	3	1
+3872676	División de Honor Juvenil	C.D. Leganés SAD	C.D. Col. Diocesano	16	2023-01-15	15:00h	Leganés	Instalación Deportiva Butarque	3	1
+3872677	División de Honor Juvenil	C.F. Rayo Majadahonda	Rayo Ciudad Alcobendas CF	16	2023-01-14	16:30h	Majadahonda	Campos Municipales Valle de la Oliva	1	2
+3872678	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	U.D. La Cruz Villanovense	17	2023-01-22	16:00h	Alcobendas	Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	4	0
+3872679	División de Honor Juvenil	Getafe C.F. SAD	Club Atlético de Madrid SAD	17	2023-01-21	16:00h	Getafe	Ciudad Deportiva Getafe	1	4
+3872680	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	C.F. Fuenlabrada SAD	17	2023-01-21	12:00h	Valladolid	Anexos E.M. José Zorrilla 3	1	0
+3872681	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	C.D.I. de la Amistad	17	2023-01-22	12:30h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	4	3
+3872682	División de Honor Juvenil	A.D. Alcorcón SAD	C.D. Badajoz 1905	17	2023-01-21	16:00h	Alcorcón	Santo Domingo	2	0
+3872683	División de Honor Juvenil	Real Madrid C.F.	AD Sporting Hortaleza	17	2023-01-21	13:00h	Valdebebas	Ciudad Real Madrid	5	0
+3872684	División de Honor Juvenil	C. y D. Leonesa S.A.D.	C.D. Leganés SAD	17	2023-01-22	12:00h	Leon	Area D. de Puente Castro 1	0	0
+3872685	División de Honor Juvenil	C.D. Col. Diocesano	C.F. Rayo Majadahonda	17	2023-01-21	16:00h	Cáceres	Federación de Caceres	1	3
+3872686	División de Honor Juvenil	Club Atlético de Madrid SAD	U.D. La Cruz Villanovense	18	2023-01-29	18:00h	Alcalá De Henares	C.D. ALCALÁ (natural)	5	1
+3872687	División de Honor Juvenil	C.F. Fuenlabrada SAD	Getafe C.F. SAD	18	2023-01-29	14:15h	Moraleja De Enmedio	Moraleja de Enmedio - La Dehesa	2	3
+3872688	División de Honor Juvenil	C.D.I. de la Amistad	Real Valladolid C.F. S.A.D.	18	2023-01-29	12:00h	Palencia	Campos del C.I. Amistad 1	2	0
+3872689	División de Honor Juvenil	C.D. Badajoz 1905	Rayo Vallecano de Madrid SAD	18	2023-01-28	16:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	1	4
+3872690	División de Honor Juvenil	AD Sporting Hortaleza	A.D. Alcorcón SAD	18	2023-01-29	13:00h	Madrid	Municipal Sporting de Hortaleza	1	2
+3872691	División de Honor Juvenil	C.D. Leganés SAD	Real Madrid C.F.	18	2023-01-29	16:15h	Leganés	Instalación Deportiva Butarque	1	4
+3872692	División de Honor Juvenil	C.F. Rayo Majadahonda	C. y D. Leonesa S.A.D.	18	2023-01-29	12:00h	Majadahonda	Campos Municipales Valle de la Oliva	0	1
+3872693	División de Honor Juvenil	C.D. Col. Diocesano	Rayo Ciudad Alcobendas CF	18	2023-01-28	16:00h	Cáceres	Federación de Caceres	1	5
+3872694	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	Club Atlético de Madrid SAD	19	2023-02-05	16:00h	Alcobendas	Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	1	3
+3872695	División de Honor Juvenil	U.D. La Cruz Villanovense	C.F. Fuenlabrada SAD	19	2023-02-04	16:00h	Villanueva De La Serena	Anexo Estadio Villanovense	2	3
+3872696	División de Honor Juvenil	Getafe C.F. SAD	C.D.I. de la Amistad	19	2023-02-04	16:00h	Getafe	Ciudad Deportiva Getafe	2	2
+3872697	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	C.D. Badajoz 1905	19	2023-02-05	12:00h	Valladolid	Anexos E.M. José Zorrilla	1	0
+3872698	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	AD Sporting Hortaleza	19	2023-02-05	12:00h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	5	1
+3872699	División de Honor Juvenil	A.D. Alcorcón SAD	C.D. Leganés SAD	19	2023-02-04	12:00h	Alcorcón	Santo Domingo	1	1
+3872700	División de Honor Juvenil	Real Madrid C.F.	C.F. Rayo Majadahonda	19	2023-02-04	13:00h	Valdebebas	Ciudad Real Madrid	6	0
+3872701	División de Honor Juvenil	C. y D. Leonesa S.A.D.	C.D. Col. Diocesano	19	2023-02-04	13:30h	Leon	Area D. de Puente Castro 1	0	1
+3872702	División de Honor Juvenil	C.F. Fuenlabrada SAD	Club Atlético de Madrid SAD	20	2023-02-12	12:30h	Moraleja De Enmedio	Moraleja de Enmedio - La Dehesa	1	7
+3872703	División de Honor Juvenil	C.D.I. de la Amistad	U.D. La Cruz Villanovense	20	2023-02-12	12:00h	Palencia	Campos del C.I. Amistad 1	4	1
+3872704	División de Honor Juvenil	C.D. Badajoz 1905	Getafe C.F. SAD	20	2023-02-11	16:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	1	2
+3872705	División de Honor Juvenil	AD Sporting Hortaleza	Real Valladolid C.F. S.A.D.	20	2023-02-12	12:45h	Madrid	Municipal Sporting de Hortaleza	1	0
+3872706	División de Honor Juvenil	C.D. Leganés SAD	Rayo Vallecano de Madrid SAD	20	2023-02-12	16:00h	Leganés	Instalación Deportiva Butarque	2	0
+3872707	División de Honor Juvenil	C.F. Rayo Majadahonda	A.D. Alcorcón SAD	20	2023-02-11	17:00h	Majadahonda	Campos Municipales Valle de la Oliva	3	1
+3872708	División de Honor Juvenil	C.D. Col. Diocesano	Real Madrid C.F.	20	2023-02-11	16:00h	Cáceres	Federación de Caceres	0	4
+3872709	División de Honor Juvenil	C. y D. Leonesa S.A.D.	Rayo Ciudad Alcobendas CF	20	2023-02-12	13:30h	Leon	Area D. de Puente Castro 1	0	4
+3872710	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	C.F. Fuenlabrada SAD	21	2023-02-18	16:00h	Alcobendas	Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	1	2
+3872711	División de Honor Juvenil	Club Atlético de Madrid SAD	C.D.I. de la Amistad	21	2023-02-19	12:30h	Alcalá De Henares	C.D. ALCALÁ (natural)	5	0
+3872712	División de Honor Juvenil	U.D. La Cruz Villanovense	C.D. Badajoz 1905	21	2023-02-18	17:00h	Villanueva De La Serena	Anexo Estadio Villanovense	6	0
+3872713	División de Honor Juvenil	Getafe C.F. SAD	AD Sporting Hortaleza	21	2023-02-19	12:00h	Getafe	Ciudad Deportiva Getafe	1	1
+3872714	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	C.D. Leganés SAD	21	2023-02-18	13:00h	Valladolid	Anexos E.M. José Zorrilla 3	1	4
+3872715	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	C.F. Rayo Majadahonda	21	2023-02-19	13:30h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	3	0
+3872716	División de Honor Juvenil	A.D. Alcorcón SAD	C.D. Col. Diocesano	21	2023-02-18	16:00h	Alcorcón	Santo Domingo	2	0
+3872717	División de Honor Juvenil	Real Madrid C.F.	C. y D. Leonesa S.A.D.	21	2023-02-19	16:00h	Valdebebas	Ciudad Real Madrid	1	0
+3872718	División de Honor Juvenil	C.D.I. de la Amistad	C.F. Fuenlabrada SAD	22	2023-02-26	12:00h	Palencia	Campos del C.I. Amistad 1	1	0
+3872719	División de Honor Juvenil	C.D. Badajoz 1905	Club Atlético de Madrid SAD	22	2023-02-25	16:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	0	5
+3872720	División de Honor Juvenil	AD Sporting Hortaleza	U.D. La Cruz Villanovense	22	2023-02-26	12:45h	Madrid	Municipal Sporting de Hortaleza	3	1
+3872721	División de Honor Juvenil	C.D. Leganés SAD	Getafe C.F. SAD	22	2023-02-25	16:00h	Leganés	Instalación Deportiva Butarque	3	1
+3872722	División de Honor Juvenil	C.F. Rayo Majadahonda	Real Valladolid C.F. S.A.D.	22	2023-02-25	17:00h	Majadahonda	Campos Municipales Valle de la Oliva	3	0
+3872723	División de Honor Juvenil	C.D. Col. Diocesano	Rayo Vallecano de Madrid SAD	22	2023-02-25	16:00h	Caceres	Federación de Caceres	1	4
+3872724	División de Honor Juvenil	C. y D. Leonesa S.A.D.	A.D. Alcorcón SAD	22	2023-02-26	16:30h	Leon	Area D. de Puente Castro 3	0	1
+3872725	División de Honor Juvenil	Real Madrid C.F.	Rayo Ciudad Alcobendas CF	22	2023-02-25	13:00h	Valdebebas	Ciudad Real Madrid	3	0
+3872726	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	C.D.I. de la Amistad	23	2023-03-05	12:00h	Alcobendas	Luis Aragonés - Ppvo. Mpal. José Caballero	5	2
+3872727	División de Honor Juvenil	C.F. Fuenlabrada SAD	C.D. Badajoz 1905	23	2023-03-05	12:00h	Moraleja De Enmedio	Moraleja de Enmedio - La Dehesa	2	0
+3872728	División de Honor Juvenil	Club Atlético de Madrid SAD	AD Sporting Hortaleza	23	2023-03-05	12:30h	Alcalá De Henares	C.D. ALCALÁ (natural)	3	0
+3872729	División de Honor Juvenil	U.D. La Cruz Villanovense	C.D. Leganés SAD	23	2023-03-04	16:00h	Villanueva De La Serena	Anexo Estadio Villanovense	2	2
+3872730	División de Honor Juvenil	Getafe C.F. SAD	C.F. Rayo Majadahonda	23	2023-03-04	16:00h	Getafe	Ciudad Deportiva Getafe	1	0
+3872731	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	C.D. Col. Diocesano	23	2023-03-04	16:00h	Valladolid	Anexos E.M. José Zorrilla 3	1	0
+3872732	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	C. y D. Leonesa S.A.D.	23	2023-03-04	16:00h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	3	1
+3872733	División de Honor Juvenil	A.D. Alcorcón SAD	Real Madrid C.F.	23	2023-03-04	16:00h	Alcorcón	Santo Domingo	2	2
+3872734	División de Honor Juvenil	C.D. Badajoz 1905	C.D.I. de la Amistad	24	2023-03-18	16:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	0	4
+3872735	División de Honor Juvenil	AD Sporting Hortaleza	C.F. Fuenlabrada SAD	24	2023-03-19	12:45h	Madrid	Municipal Sporting de Hortaleza	1	2
+3872736	División de Honor Juvenil	C.D. Leganés SAD	Club Atlético de Madrid SAD	24	2023-03-19	12:00h	Leganés	Instalación Deportiva Butarque	0	2
+3872737	División de Honor Juvenil	C.F. Rayo Majadahonda	U.D. La Cruz Villanovense	24	2023-03-19	16:30h	Majadahonda	Campos Municipales Valle de la Oliva	0	0
+3872738	División de Honor Juvenil	C.D. Col. Diocesano	Getafe C.F. SAD	24	2023-03-18	16:00h	Cáceres	Federación de Caceres	3	3
+3872739	División de Honor Juvenil	C. y D. Leonesa S.A.D.	Real Valladolid C.F. S.A.D.	24	2023-03-19	12:30h	Leon	Area D. de Puente Castro 1	1	2
+3872740	División de Honor Juvenil	Real Madrid C.F.	Rayo Vallecano de Madrid SAD	24	2023-03-19	17:00h	Valdebebas	Ciudad Real Madrid	1	0
+3872741	División de Honor Juvenil	A.D. Alcorcón SAD	Rayo Ciudad Alcobendas CF	24	2023-03-18	16:00h	Alcorcón	Santo Domingo	1	0
+3872742	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	C.D. Badajoz 1905	25	2023-04-02	14:00h	Alcobendas	Luis Aragonés - Ppvo. Mpal. José Caballero	6	0
+3872743	División de Honor Juvenil	C.D.I. de la Amistad	AD Sporting Hortaleza	25	2023-04-02	12:00h	Palencia	Campos del C.I. Amistad 1	4	2
+3872744	División de Honor Juvenil	C.F. Fuenlabrada SAD	C.D. Leganés SAD	25	2023-04-02	11:00h	Moraleja De Enmedio	Moraleja de Enmedio - La Dehesa	2	1
+3872745	División de Honor Juvenil	Club Atlético de Madrid SAD	C.F. Rayo Majadahonda	25	2023-04-02	12:30h	Alcalá De Henares	C.D. ALCALÁ (natural)	1	0
+3872746	División de Honor Juvenil	U.D. La Cruz Villanovense	C.D. Col. Diocesano	25	2023-04-02	12:00h	Villanueva De La Serena	Anexo Estadio Villanovense	2	1
+3872747	División de Honor Juvenil	Getafe C.F. SAD	C. y D. Leonesa S.A.D.	25	2023-04-01	17:00h	Getafe	Ciudad Deportiva Getafe	1	1
+3872748	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	Real Madrid C.F.	25	2023-04-01	12:30h	Valladolid	Anexos E.M. José Zorrilla 3	1	2
+3872749	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	A.D. Alcorcón SAD	25	2023-04-01	16:00h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	1	0
+3872750	División de Honor Juvenil	AD Sporting Hortaleza	C.D. Badajoz 1905	26	2023-04-09	12:00h	Madrid	Municipal Sporting de Hortaleza	1	2
+3872751	División de Honor Juvenil	C.D. Leganés SAD	C.D.I. de la Amistad	26	2023-04-06	16:00h	Leganes	Instalación Deportiva Butarque	1	0
+3872752	División de Honor Juvenil	C.F. Rayo Majadahonda	C.F. Fuenlabrada SAD	26	2023-04-09	16:00h	Majadahonda	Campos Municipales Valle de la Oliva	1	2
+3872753	División de Honor Juvenil	C.D. Col. Diocesano	Club Atlético de Madrid SAD	26	2023-04-08	12:00h	Cáceres	Federación de Caceres	2	3
+3872754	División de Honor Juvenil	C. y D. Leonesa S.A.D.	U.D. La Cruz Villanovense	26	2023-04-09	17:00h	Leon	Area D. de Puente Castro 1	1	0
+3872755	División de Honor Juvenil	Real Madrid C.F.	Getafe C.F. SAD	26	2023-04-06	12:00h	Valdebebas	Ciudad Real Madrid	3	0
+3872756	División de Honor Juvenil	A.D. Alcorcón SAD	Real Valladolid C.F. S.A.D.	26	2023-04-09	16:00h	Alcorcón	Santo Domingo	0	1
+3872757	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	Rayo Ciudad Alcobendas CF	26	2023-04-06	13:30h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	1	3
+3872758	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	AD Sporting Hortaleza	27	2023-04-16	13:45h	Alcobendas	Luis Aragonés - Ppvo. Mpal. José Caballero	2	0
+3872759	División de Honor Juvenil	C.D. Badajoz 1905	C.D. Leganés SAD	27	2023-04-15	16:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	1	2
+3872760	División de Honor Juvenil	C.D.I. de la Amistad	C.F. Rayo Majadahonda	27	2023-04-16	12:00h	Palencia	Campos del C.I. Amistad 1	1	3
+3872761	División de Honor Juvenil	C.F. Fuenlabrada SAD	C.D. Col. Diocesano	27	2023-04-16	12:30h	Moraleja De Enmedio	Moraleja de Enmedio - La Dehesa	2	0
+3872762	División de Honor Juvenil	Club Atlético de Madrid SAD	C. y D. Leonesa S.A.D.	27	2023-04-16	12:30h	Alcala De Henares	C.D. ALCALÁ (natural)	2	0
+3872763	División de Honor Juvenil	U.D. La Cruz Villanovense	Real Madrid C.F.	27	2023-04-16	12:00h	Villanueva De La Serena	Anexo Estadio Villanovense	0	5
+3872764	División de Honor Juvenil	Getafe C.F. SAD	A.D. Alcorcón SAD	27	2023-04-16	12:00h	Getafe	Ciudad Deportiva Getafe	2	0
+3872765	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	Rayo Vallecano de Madrid SAD	27	2023-04-15	16:00h	Valladolid	Anexos E.M. José Zorrilla	1	1
+3872766	División de Honor Juvenil	C.D. Leganés SAD	AD Sporting Hortaleza	28	2023-04-23	12:00h	Leganés	Instalación Deportiva Butarque	3	1
+3872767	División de Honor Juvenil	C.F. Rayo Majadahonda	C.D. Badajoz 1905	28	2023-04-22	16:30h	Majadahonda	Campos Municipales Valle de la Oliva	3	1
+3872768	División de Honor Juvenil	C.D. Col. Diocesano	C.D.I. de la Amistad	28	2023-04-23	18:00h	Caceres	Federación de Caceres	2	2
+3872769	División de Honor Juvenil	C. y D. Leonesa S.A.D.	C.F. Fuenlabrada SAD	28	2023-04-23	17:30h	Leon	Area D. de Puente Castro 1	2	1
+3872770	División de Honor Juvenil	Real Madrid C.F.	Club Atlético de Madrid SAD	28	2023-04-23	16:00h	Valdebebas	Ciudad Real Madrid	5	0
+3872771	División de Honor Juvenil	A.D. Alcorcón SAD	U.D. La Cruz Villanovense	28	2023-04-23	16:00h	Alcorcón	Santo Domingo	1	1
+3872772	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	Getafe C.F. SAD	28	2023-04-22	13:30h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	1	2
+3872773	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	Rayo Ciudad Alcobendas CF	28	2023-04-22	13:00h	Valladolid	Anexos E.M. José Zorrilla 3	1	3
+3872774	División de Honor Juvenil	C.D. Leganés SAD	Rayo Ciudad Alcobendas CF	29	2023-04-29	16:00h	Leganés	Instalación Deportiva Butarque	0	2
+3872775	División de Honor Juvenil	AD Sporting Hortaleza	C.F. Rayo Majadahonda	29	2023-04-30	18:00h	Madrid	Municipal Sporting de Hortaleza	0	1
+3872776	División de Honor Juvenil	C.D. Badajoz 1905	C.D. Col. Diocesano	29	2023-04-29	18:00h	Badajoz	Campos Federativos Eusebio Bejarano Vilaro	2	3
+3872777	División de Honor Juvenil	C.D.I. de la Amistad	C. y D. Leonesa S.A.D.	29	2023-04-30	12:00h	Palencia	Campos del C.I. Amistad 1	3	1
+3872778	División de Honor Juvenil	C.F. Fuenlabrada SAD	Real Madrid C.F.	29	2023-04-30	11:00h	Moraleja De Enmedio	Moraleja de Enmedio - La Dehesa	0	1
+3872779	División de Honor Juvenil	Club Atlético de Madrid SAD	A.D. Alcorcón SAD	29	2023-04-29	12:30h	Alcalá De Henares	C.D. ALCALÁ (natural)	2	0
+3872780	División de Honor Juvenil	U.D. La Cruz Villanovense	Rayo Vallecano de Madrid SAD	29	2023-04-29	17:00h	Villanueva De La Serena	Anexo Estadio Villanovense	5	2
+3872781	División de Honor Juvenil	Getafe C.F. SAD	Real Valladolid C.F. S.A.D.	29	2023-04-29	16:00h	Getafe	Ciudad Deportiva Getafe	1	1
+3872782	División de Honor Juvenil	C.F. Rayo Majadahonda	C.D. Leganés SAD	30	2023-05-06	16:00h	Majadahonda	Campos Municipales Valle de la Oliva	1	1
+3872783	División de Honor Juvenil	C.D. Col. Diocesano	AD Sporting Hortaleza	30	2023-05-07	17:00h	Cáceres	Federación de Caceres	3	2
+3872784	División de Honor Juvenil	C. y D. Leonesa S.A.D.	C.D. Badajoz 1905	30	2023-05-07	12:00h	Leon	Area D. de Puente Castro 1	4	0
+3872785	División de Honor Juvenil	Real Madrid C.F.	C.D.I. de la Amistad	30	2023-05-06	12:00h	Valdebebas	Ciudad Real Madrid	8	1
+3872786	División de Honor Juvenil	A.D. Alcorcón SAD	C.F. Fuenlabrada SAD	30	2023-05-06	16:00h	Alcorcón	Santo Domingo	1	2
+3872787	División de Honor Juvenil	Rayo Vallecano de Madrid SAD	Club Atlético de Madrid SAD	30	2023-05-06	16:00h	Madrid	C.Dep. Fundacion Rayo Vallecano - Campo 4	0	0
+3872788	División de Honor Juvenil	Real Valladolid C.F. S.A.D.	U.D. La Cruz Villanovense	30	2023-05-07	15:30h	Valladolid	Anexos E.M. José Zorrilla 3	4	1
+3872789	División de Honor Juvenil	Rayo Ciudad Alcobendas CF	Getafe C.F. SAD	30	2023-05-07	14:00h	Alcobendas	Luis Aragonés - Ppvo. Mpal. José Caballero	2	1

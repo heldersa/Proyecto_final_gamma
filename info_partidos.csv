@@ -1,241 +1,241 @@
-,id_partido,competition,fixture,date,city,stadium,resultado,home_team,away_team
-0,3872550,División de Honor Juvenil,Jornada 1,03/09/2022 18:00h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,3 - 0,Getafe C.F. SAD,U.D. La Cruz Villanovense
-1,3872551,División de Honor Juvenil,Jornada 1,04/09/2022 12:30h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla (H. Artificial),1 - 2,Real Valladolid C.F. S.A.D.,Club Atlético de Madrid SAD
-2,3872552,División de Honor Juvenil,Jornada 1,03/09/2022 18:00h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,0 - 2,Rayo Vallecano de Madrid SAD,C.F. Fuenlabrada SAD
-3,3872553,División de Honor Juvenil,Jornada 1,03/09/2022 18:00h,Ciudad: Alcorcón,Estadio: P.M. Santo Domingo,2 - 1,A.D. Alcorcón SAD,C.D.I. de la Amistad
-4,3872554,División de Honor Juvenil,Jornada 1,03/09/2022 19:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,7 - 0,Real Madrid C.F.,C.D. Badajoz 1905
-5,3872555,División de Honor Juvenil,Jornada 1,03/09/2022 13:30h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,1 - 2,C. y D. Leonesa S.A.D.,AD Sporting Hortaleza
-6,3872556,División de Honor Juvenil,Jornada 1,03/09/2022 17:00h,Ciudad: Cáceres,Estadio: Federación de Caceres,0 - 0,C.D. Col. Diocesano,C.D. Leganés SAD
-7,3872557,División de Honor Juvenil,Jornada 1,03/09/2022 16:15h,Ciudad: Alcobendas,Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes,0 - 3,Rayo Ciudad Alcobendas CF,C.F. Rayo Majadahonda
-8,3872558,División de Honor Juvenil,Jornada 2,10/09/2022 18:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,0 - 3,U.D. La Cruz Villanovense,Rayo Ciudad Alcobendas CF
-9,3872559,División de Honor Juvenil,Jornada 2,10/09/2022 19:00h,Ciudad: Alcalá De Henares,Estadio: C.D. WANDA ALCALÁ (natural),1 - 0,Club Atlético de Madrid SAD,Getafe C.F. SAD
-10,3872560,División de Honor Juvenil,Jornada 2,11/09/2022 12:00h,Ciudad: Fuenlabrada,Estadio: La Aldehuela,1 - 2,C.F. Fuenlabrada SAD,Real Valladolid C.F. S.A.D.
-11,3872561,División de Honor Juvenil,Jornada 2,11/09/2022 12:00h,Ciudad: Palencia,Estadio: E.M. Nueva Balastera,1 - 3,C.D.I. de la Amistad,Rayo Vallecano de Madrid SAD
-12,3872562,División de Honor Juvenil,Jornada 2,10/09/2022 19:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,0 - 3,C.D. Badajoz 1905,A.D. Alcorcón SAD
-13,3872563,División de Honor Juvenil,Jornada 2,10/09/2022 18:30h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,0 - 3,AD Sporting Hortaleza,Real Madrid C.F.
-14,3872564,División de Honor Juvenil,Jornada 2,11/09/2022 16:00h,Ciudad: Leganés,Estadio: Instalación Deportiva Butarque,1 - 0,C.D. Leganés SAD,C. y D. Leonesa S.A.D.
-15,3872565,División de Honor Juvenil,Jornada 2,10/09/2022 16:30h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,0 - 0,C.F. Rayo Majadahonda,C.D. Col. Diocesano
-16,3872566,División de Honor Juvenil,Jornada 3,18/09/2022 12:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,0 - 0,U.D. La Cruz Villanovense,Club Atlético de Madrid SAD
-17,3872567,División de Honor Juvenil,Jornada 3,18/09/2022 11:30h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,1 - 1,Getafe C.F. SAD,C.F. Fuenlabrada SAD
-18,3872568,División de Honor Juvenil,Jornada 3,17/09/2022 12:00h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla (H. Artificial),2 - 0,Real Valladolid C.F. S.A.D.,C.D.I. de la Amistad
-19,3872569,División de Honor Juvenil,Jornada 3,17/09/2022 18:00h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,8 - 0,Rayo Vallecano de Madrid SAD,C.D. Badajoz 1905
-20,3872570,División de Honor Juvenil,Jornada 3,18/09/2022 11:30h,Ciudad: Alcorcón,Estadio: P.M. Santo Domingo,1 - 0,A.D. Alcorcón SAD,AD Sporting Hortaleza
-21,3872571,División de Honor Juvenil,Jornada 3,18/09/2022 17:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,3 - 3,Real Madrid C.F.,C.D. Leganés SAD
-22,3872572,División de Honor Juvenil,Jornada 3,17/09/2022 13:00h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,2 - 1,C. y D. Leonesa S.A.D.,C.F. Rayo Majadahonda
-23,3872573,División de Honor Juvenil,Jornada 3,18/09/2022 16:00h,Ciudad: Alcobendas,Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes,2 - 1,Rayo Ciudad Alcobendas CF,C.D. Col. Diocesano
-24,3872574,División de Honor Juvenil,Jornada 4,01/10/2022 12:00h,Ciudad: Alcalá De Henares,Estadio: C.D. WANDA ALCALÁ (natural),3 - 1,Club Atlético de Madrid SAD,Rayo Ciudad Alcobendas CF
-25,3872575,División de Honor Juvenil,Jornada 4,02/10/2022 12:00h,Ciudad: Fuenlabrada,Estadio: La Aldehuela,1 - 3,C.F. Fuenlabrada SAD,U.D. La Cruz Villanovense
-26,3872576,División de Honor Juvenil,Jornada 4,02/10/2022 12:00h,Ciudad: Palencia,Estadio: E.M. Nueva Balastera,2 - 1,C.D.I. de la Amistad,Getafe C.F. SAD
-27,3872577,División de Honor Juvenil,Jornada 4,02/10/2022 12:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,3 - 1,C.D. Badajoz 1905,Real Valladolid C.F. S.A.D.
-28,3872578,División de Honor Juvenil,Jornada 4,02/10/2022 17:00h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,2 - 5,AD Sporting Hortaleza,Rayo Vallecano de Madrid SAD
-29,3872579,División de Honor Juvenil,Jornada 4,02/10/2022 12:00h,Ciudad: Leganés,Estadio: Instalación Deportiva Butarque,1 - 1,C.D. Leganés SAD,A.D. Alcorcón SAD
-30,3872580,División de Honor Juvenil,Jornada 4,01/10/2022 16:00h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,0 - 3,C.F. Rayo Majadahonda,Real Madrid C.F.
-31,3872581,División de Honor Juvenil,Jornada 4,01/10/2022 16:00h,Ciudad: Caceres,Estadio: Federación de Caceres,2 - 2,C.D. Col. Diocesano,C. y D. Leonesa S.A.D.
-32,3872582,División de Honor Juvenil,Jornada 5,08/10/2022 12:00h,Ciudad: Alcalá De Henares,Estadio: C.D. WANDA ALCALÁ (natural),3 - 1,Club Atlético de Madrid SAD,C.F. Fuenlabrada SAD
-33,3872583,División de Honor Juvenil,Jornada 5,08/10/2022 17:30h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,3 - 0,U.D. La Cruz Villanovense,C.D.I. de la Amistad
-34,3872584,División de Honor Juvenil,Jornada 5,08/10/2022 16:00h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,2 - 0,Getafe C.F. SAD,C.D. Badajoz 1905
-35,3872585,División de Honor Juvenil,Jornada 5,09/10/2022 12:00h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla 3,1 - 1,Real Valladolid C.F. S.A.D.,AD Sporting Hortaleza
-36,3872586,División de Honor Juvenil,Jornada 5,08/10/2022 18:00h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,2 - 1,Rayo Vallecano de Madrid SAD,C.D. Leganés SAD
-37,3872587,División de Honor Juvenil,Jornada 5,08/10/2022 16:00h,Ciudad: Alcorcón,Estadio: Santo Domingo,0 - 0,A.D. Alcorcón SAD,C.F. Rayo Majadahonda
-38,3872588,División de Honor Juvenil,Jornada 5,08/10/2022 16:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,5 - 2,Real Madrid C.F.,C.D. Col. Diocesano
-39,3872589,División de Honor Juvenil,Jornada 5,08/10/2022 16:00h,Ciudad: Alcobendas,Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes,0 - 1,Rayo Ciudad Alcobendas CF,C. y D. Leonesa S.A.D.
-40,3872590,División de Honor Juvenil,Jornada 6,16/10/2022 12:00h,Ciudad: Moraleja De Enmedio,Estadio: Moraleja de Enmedio - La Dehesa,0 - 1,C.F. Fuenlabrada SAD,Rayo Ciudad Alcobendas CF
-41,3872591,División de Honor Juvenil,Jornada 6,16/10/2022 12:00h,Ciudad: Palencia,Estadio: E.M. Nueva Balastera,1 - 4,C.D.I. de la Amistad,Club Atlético de Madrid SAD
-42,3872592,División de Honor Juvenil,Jornada 6,16/10/2022 14:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,2 - 1,C.D. Badajoz 1905,U.D. La Cruz Villanovense
-43,3872593,División de Honor Juvenil,Jornada 6,16/10/2022 17:30h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,3 - 1,AD Sporting Hortaleza,Getafe C.F. SAD
-44,3872594,División de Honor Juvenil,Jornada 6,16/10/2022 16:30h,Ciudad: Leganés,Estadio: Instalación Deportiva Butarque,2 - 1,C.D. Leganés SAD,Real Valladolid C.F. S.A.D.
-45,3872595,División de Honor Juvenil,Jornada 6,15/10/2022 17:00h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,1 - 1,C.F. Rayo Majadahonda,Rayo Vallecano de Madrid SAD
-46,3872596,División de Honor Juvenil,Jornada 6,15/10/2022 16:00h,Ciudad: Caceres,Estadio: Federación de Caceres,0 - 1,C.D. Col. Diocesano,A.D. Alcorcón SAD
-47,3872597,División de Honor Juvenil,Jornada 6,16/10/2022 12:00h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,1 - 2,C. y D. Leonesa S.A.D.,Real Madrid C.F.
-48,3872598,División de Honor Juvenil,Jornada 7,23/10/2022 12:00h,Ciudad: Moraleja De Enmedio,Estadio: Moraleja de Enmedio - La Dehesa,3 - 0,C.F. Fuenlabrada SAD,C.D.I. de la Amistad
-49,3872599,División de Honor Juvenil,Jornada 7,22/10/2022 17:00h,Ciudad: Alcalá De Henares,Estadio: C.D. ALCALÁ (natural),5 - 0,Club Atlético de Madrid SAD,C.D. Badajoz 1905
-50,3872600,División de Honor Juvenil,Jornada 7,23/10/2022 12:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,3 - 1,U.D. La Cruz Villanovense,AD Sporting Hortaleza
-51,3872601,División de Honor Juvenil,Jornada 7,22/10/2022 16:00h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,1 - 2,Getafe C.F. SAD,C.D. Leganés SAD
-52,3872602,División de Honor Juvenil,Jornada 7,22/10/2022 11:00h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla 3,3 - 1,Real Valladolid C.F. S.A.D.,C.F. Rayo Majadahonda
-53,3872603,División de Honor Juvenil,Jornada 7,22/10/2022 17:00h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,2 - 1,Rayo Vallecano de Madrid SAD,C.D. Col. Diocesano
-54,3872604,División de Honor Juvenil,Jornada 7,23/10/2022 16:00h,Ciudad: Alcorcon,Estadio: Santo Domingo,2 - 1,A.D. Alcorcón SAD,C. y D. Leonesa S.A.D.
-55,3872605,División de Honor Juvenil,Jornada 7,22/10/2022 16:00h,Ciudad: Alcobendas,Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes,0 - 4,Rayo Ciudad Alcobendas CF,Real Madrid C.F.
-56,3872606,División de Honor Juvenil,Jornada 8,30/10/2022 12:00h,Ciudad: Palencia,Estadio: E.M. Nueva Balastera,0 - 3,C.D.I. de la Amistad,Rayo Ciudad Alcobendas CF
-57,3872607,División de Honor Juvenil,Jornada 8,30/10/2022 12:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,1 - 3,C.D. Badajoz 1905,C.F. Fuenlabrada SAD
-58,3872608,División de Honor Juvenil,Jornada 8,29/10/2022 17:30h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,0 - 6,AD Sporting Hortaleza,Club Atlético de Madrid SAD
-59,3872609,División de Honor Juvenil,Jornada 8,30/10/2022 16:15h,Ciudad: Leganés,Estadio: Instalación Deportiva Butarque,2 - 1,C.D. Leganés SAD,U.D. La Cruz Villanovense
-60,3872610,División de Honor Juvenil,Jornada 8,29/10/2022 16:00h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,3 - 0,C.F. Rayo Majadahonda,Getafe C.F. SAD
-61,3872611,División de Honor Juvenil,Jornada 8,29/10/2022 16:00h,Ciudad: Caceres,Estadio: Federación de Caceres,2 - 1,C.D. Col. Diocesano,Real Valladolid C.F. S.A.D.
-62,3872612,División de Honor Juvenil,Jornada 8,29/10/2022 13:30h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,0 - 0,C. y D. Leonesa S.A.D.,Rayo Vallecano de Madrid SAD
-63,3872613,División de Honor Juvenil,Jornada 8,29/10/2022 19:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,2 - 0,Real Madrid C.F.,A.D. Alcorcón SAD
-64,3872614,División de Honor Juvenil,Jornada 9,06/11/2022 12:00h,Ciudad: Palencia,Estadio: E.M. Nueva Balastera,2 - 0,C.D.I. de la Amistad,C.D. Badajoz 1905
-65,3872615,División de Honor Juvenil,Jornada 9,06/11/2022 11:00h,Ciudad: Moraleja De Enmedio,Estadio: Moraleja de Enmedio - La Dehesa,2 - 0,C.F. Fuenlabrada SAD,AD Sporting Hortaleza
-66,3872616,División de Honor Juvenil,Jornada 9,06/11/2022 12:00h,Ciudad: Alcalá De Henares,Estadio: ESTADIO C.D. WANDA ALCALÁ DE HENARES,4 - 0,Club Atlético de Madrid SAD,C.D. Leganés SAD
-67,3872617,División de Honor Juvenil,Jornada 9,05/11/2022 17:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,0 - 3,U.D. La Cruz Villanovense,C.F. Rayo Majadahonda
-68,3872618,División de Honor Juvenil,Jornada 9,06/11/2022 16:00h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,5 - 3,Getafe C.F. SAD,C.D. Col. Diocesano
-69,3872619,División de Honor Juvenil,Jornada 9,05/11/2022 13:00h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla 3,3 - 1,Real Valladolid C.F. S.A.D.,C. y D. Leonesa S.A.D.
-70,3872620,División de Honor Juvenil,Jornada 9,06/11/2022 17:00h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,0 - 3,Rayo Vallecano de Madrid SAD,Real Madrid C.F.
-71,3872621,División de Honor Juvenil,Jornada 9,05/11/2022 16:00h,Ciudad: Alcobendas,Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes,0 - 0,Rayo Ciudad Alcobendas CF,A.D. Alcorcón SAD
-72,3872622,División de Honor Juvenil,Jornada 10,13/11/2022 13:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,0 - 2,C.D. Badajoz 1905,Rayo Ciudad Alcobendas CF
-73,3872623,División de Honor Juvenil,Jornada 10,13/11/2022 17:45h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,1 - 1,AD Sporting Hortaleza,C.D.I. de la Amistad
-74,3872624,División de Honor Juvenil,Jornada 10,13/11/2022 15:45h,Ciudad: Leganés,Estadio: Instalación Deportiva Butarque,1 - 1,C.D. Leganés SAD,C.F. Fuenlabrada SAD
-75,3872625,División de Honor Juvenil,Jornada 10,13/11/2022 17:00h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,0 - 2,C.F. Rayo Majadahonda,Club Atlético de Madrid SAD
-76,3872626,División de Honor Juvenil,Jornada 10,12/11/2022 18:00h,Ciudad: Cáceres,Estadio: Federación de Caceres,1 - 1,C.D. Col. Diocesano,U.D. La Cruz Villanovense
-77,3872627,División de Honor Juvenil,Jornada 10,12/11/2022 13:30h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,0 - 2,C. y D. Leonesa S.A.D.,Getafe C.F. SAD
-78,3872628,División de Honor Juvenil,Jornada 10,13/11/2022 12:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,5 - 1,Real Madrid C.F.,Real Valladolid C.F. S.A.D.
-79,3872629,División de Honor Juvenil,Jornada 10,12/11/2022 16:00h,Ciudad: Alcorcón,Estadio: Santo Domingo,3 - 1,A.D. Alcorcón SAD,Rayo Vallecano de Madrid SAD
-80,3872630,División de Honor Juvenil,Jornada 11,20/11/2022 12:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,1 - 2,C.D. Badajoz 1905,AD Sporting Hortaleza
-81,3872631,División de Honor Juvenil,Jornada 11,20/11/2022 12:00h,Ciudad: Palencia,Estadio: Campos del C.I. Amistad 1,0 - 2,C.D.I. de la Amistad,C.D. Leganés SAD
-82,3872632,División de Honor Juvenil,Jornada 11,20/11/2022 13:30h,Ciudad: Moraleja De Enmedio,Estadio: Moraleja de Enmedio - La Dehesa,1 - 0,C.F. Fuenlabrada SAD,C.F. Rayo Majadahonda
-83,3872633,División de Honor Juvenil,Jornada 11,20/11/2022 18:00h,Ciudad: Alcalá De Henares,Estadio: C.D. ALCALÁ (natural),2 - 1,Club Atlético de Madrid SAD,C.D. Col. Diocesano
-84,3872634,División de Honor Juvenil,Jornada 11,20/11/2022 12:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,2 - 0,U.D. La Cruz Villanovense,C. y D. Leonesa S.A.D.
-85,3872635,División de Honor Juvenil,Jornada 11,20/11/2022 16:00h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,0 - 3,Getafe C.F. SAD,Real Madrid C.F.
-86,3872636,División de Honor Juvenil,Jornada 11,20/11/2022 16:30h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla 3,1 - 0,Real Valladolid C.F. S.A.D.,A.D. Alcorcón SAD
-87,3872637,División de Honor Juvenil,Jornada 11,19/11/2022 16:00h,Ciudad: Alcobendas,Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes,2 - 3,Rayo Ciudad Alcobendas CF,Rayo Vallecano de Madrid SAD
-88,3872638,División de Honor Juvenil,Jornada 12,27/11/2022 17:30h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,1 - 1,AD Sporting Hortaleza,Rayo Ciudad Alcobendas CF
-89,3872639,División de Honor Juvenil,Jornada 12,27/11/2022 13:30h,Ciudad: Leganes,Estadio: Instalación Deportiva Butarque,2 - 0,C.D. Leganés SAD,C.D. Badajoz 1905
-90,3872640,División de Honor Juvenil,Jornada 12,26/11/2022 18:00h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,4 - 1,C.F. Rayo Majadahonda,C.D.I. de la Amistad
-91,3872641,División de Honor Juvenil,Jornada 12,27/11/2022 12:00h,Ciudad: Cáceres,Estadio: Federación de Caceres,1 - 1,C.D. Col. Diocesano,C.F. Fuenlabrada SAD
-92,3872642,División de Honor Juvenil,Jornada 12,26/11/2022 13:30h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,0 - 1,C. y D. Leonesa S.A.D.,Club Atlético de Madrid SAD
-93,3872643,División de Honor Juvenil,Jornada 12,27/11/2022 16:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,6 - 0,Real Madrid C.F.,U.D. La Cruz Villanovense
-94,3872644,División de Honor Juvenil,Jornada 12,27/11/2022 12:00h,Ciudad: Alcorcón,Estadio: Santo Domingo,2 - 4,A.D. Alcorcón SAD,Getafe C.F. SAD
-95,3872645,División de Honor Juvenil,Jornada 12,26/11/2022 16:00h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,2 - 3,Rayo Vallecano de Madrid SAD,Real Valladolid C.F. S.A.D.
-96,3872646,División de Honor Juvenil,Jornada 13,04/12/2022 17:30h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,0 - 1,AD Sporting Hortaleza,C.D. Leganés SAD
-97,3872647,División de Honor Juvenil,Jornada 13,03/12/2022 16:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,1 - 0,C.D. Badajoz 1905,C.F. Rayo Majadahonda
-98,3872648,División de Honor Juvenil,Jornada 13,04/12/2022 12:00h,Ciudad: Palencia,Estadio: Campos del C.I. Amistad 1,0 - 0,C.D.I. de la Amistad,C.D. Col. Diocesano
-99,3872649,División de Honor Juvenil,Jornada 13,04/12/2022 13:30h,Ciudad: Moraleja De Enmedio,Estadio: Moraleja de Enmedio - La Dehesa,1 - 1,C.F. Fuenlabrada SAD,C. y D. Leonesa S.A.D.
-100,3872650,División de Honor Juvenil,Jornada 13,04/12/2022 12:00h,Ciudad: Alcalá De Henares,Estadio: C.D. ALCALÁ (natural),0 - 0,Club Atlético de Madrid SAD,Real Madrid C.F.
-101,3872651,División de Honor Juvenil,Jornada 13,03/12/2022 16:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,0 - 3,U.D. La Cruz Villanovense,A.D. Alcorcón SAD
-102,3872652,División de Honor Juvenil,Jornada 13,04/12/2022 16:00h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,0 - 1,Getafe C.F. SAD,Rayo Vallecano de Madrid SAD
-103,3872653,División de Honor Juvenil,Jornada 13,04/12/2022 17:00h,Ciudad: Alcobendas,Estadio: Luis Aragonés - Ppvo. Mpal. José Caballero,1 - 0,Rayo Ciudad Alcobendas CF,Real Valladolid C.F. S.A.D.
-104,3872654,División de Honor Juvenil,Jornada 14,10/12/2022 16:00h,Ciudad: Alcobendas,Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes,0 - 1,Rayo Ciudad Alcobendas CF,C.D. Leganés SAD
-105,3872655,División de Honor Juvenil,Jornada 14,10/12/2022 17:30h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,2 - 0,C.F. Rayo Majadahonda,AD Sporting Hortaleza
-106,3872656,División de Honor Juvenil,Jornada 14,10/12/2022 16:00h,Ciudad: Cáceres,Estadio: Federación de Caceres,0 - 0,C.D. Col. Diocesano,C.D. Badajoz 1905
-107,3872657,División de Honor Juvenil,Jornada 14,10/12/2022 16:00h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,5 - 0,C. y D. Leonesa S.A.D.,C.D.I. de la Amistad
-108,3872658,División de Honor Juvenil,Jornada 14,11/12/2022 12:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,8 - 0,Real Madrid C.F.,C.F. Fuenlabrada SAD
-109,3872659,División de Honor Juvenil,Jornada 14,10/12/2022 12:00h,Ciudad: Alcorcón,Estadio: Santo Domingo,1 - 1,A.D. Alcorcón SAD,Club Atlético de Madrid SAD
-110,3872660,División de Honor Juvenil,Jornada 14,11/12/2022 16:00h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,1 - 0,Rayo Vallecano de Madrid SAD,U.D. La Cruz Villanovense
-111,3872661,División de Honor Juvenil,Jornada 14,10/12/2022 12:00h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla 3,0 - 3,Real Valladolid C.F. S.A.D.,Getafe C.F. SAD
-112,3872662,División de Honor Juvenil,Jornada 15,18/12/2022 15:00h,Ciudad: Leganés,Estadio: Instalación Deportiva Butarque,0 - 3,C.D. Leganés SAD,C.F. Rayo Majadahonda
-113,3872663,División de Honor Juvenil,Jornada 15,18/12/2022 13:00h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,1 - 1,AD Sporting Hortaleza,C.D. Col. Diocesano
-114,3872664,División de Honor Juvenil,Jornada 15,17/12/2022 16:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,0 - 0,C.D. Badajoz 1905,C. y D. Leonesa S.A.D.
-115,3872665,División de Honor Juvenil,Jornada 15,18/12/2022 12:00h,Ciudad: Palencia,Estadio: E.M. Nueva Balastera,1 - 5,C.D.I. de la Amistad,Real Madrid C.F.
-116,3872666,División de Honor Juvenil,Jornada 15,18/12/2022 13:30h,Ciudad: Moraleja De Enmedio,Estadio: Moraleja de Enmedio - La Dehesa,0 - 0,C.F. Fuenlabrada SAD,A.D. Alcorcón SAD
-117,3872667,División de Honor Juvenil,Jornada 15,17/12/2022 12:30h,Ciudad: Alcalá De Henares,Estadio: C.D. ALCALÁ (natural),5 - 1,Club Atlético de Madrid SAD,Rayo Vallecano de Madrid SAD
-118,3872668,División de Honor Juvenil,Jornada 15,17/12/2022 16:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,1 - 0,U.D. La Cruz Villanovense,Real Valladolid C.F. S.A.D.
-119,3872669,División de Honor Juvenil,Jornada 15,17/12/2022 18:30h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,1 - 3,Getafe C.F. SAD,Rayo Ciudad Alcobendas CF
-120,3872670,División de Honor Juvenil,Jornada 16,15/01/2023 12:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,2 - 3,U.D. La Cruz Villanovense,Getafe C.F. SAD
-121,3872671,División de Honor Juvenil,Jornada 16,15/01/2023 12:30h,Ciudad: Alcalá De Henares,Estadio: C.D. ALCALÁ (natural),3 - 0,Club Atlético de Madrid SAD,Real Valladolid C.F. S.A.D.
-122,3872672,División de Honor Juvenil,Jornada 16,15/01/2023 14:00h,Ciudad: Moraleja De Enmedio,Estadio: Moraleja de Enmedio - La Dehesa,2 - 2,C.F. Fuenlabrada SAD,Rayo Vallecano de Madrid SAD
-123,3872673,División de Honor Juvenil,Jornada 16,15/01/2023 12:00h,Ciudad: Palencia,Estadio: Campos del C.I. Amistad 1,2 - 0,C.D.I. de la Amistad,A.D. Alcorcón SAD
-124,3872674,División de Honor Juvenil,Jornada 16,14/01/2023 16:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,0 - 3,C.D. Badajoz 1905,Real Madrid C.F.
-125,3872675,División de Honor Juvenil,Jornada 16,15/01/2023 12:00h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,3 - 1,AD Sporting Hortaleza,C. y D. Leonesa S.A.D.
-126,3872676,División de Honor Juvenil,Jornada 16,15/01/2023 15:00h,Ciudad: Leganés,Estadio: Instalación Deportiva Butarque,3 - 1,C.D. Leganés SAD,C.D. Col. Diocesano
-127,3872677,División de Honor Juvenil,Jornada 16,14/01/2023 16:30h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,1 - 2,C.F. Rayo Majadahonda,Rayo Ciudad Alcobendas CF
-128,3872678,División de Honor Juvenil,Jornada 17,22/01/2023 16:00h,Ciudad: Alcobendas,Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes,4 - 0,Rayo Ciudad Alcobendas CF,U.D. La Cruz Villanovense
-129,3872679,División de Honor Juvenil,Jornada 17,21/01/2023 16:00h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,1 - 4,Getafe C.F. SAD,Club Atlético de Madrid SAD
-130,3872680,División de Honor Juvenil,Jornada 17,21/01/2023 12:00h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla 3,1 - 0,Real Valladolid C.F. S.A.D.,C.F. Fuenlabrada SAD
-131,3872681,División de Honor Juvenil,Jornada 17,22/01/2023 12:30h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,4 - 3,Rayo Vallecano de Madrid SAD,C.D.I. de la Amistad
-132,3872682,División de Honor Juvenil,Jornada 17,21/01/2023 16:00h,Ciudad: Alcorcón,Estadio: Santo Domingo,2 - 0,A.D. Alcorcón SAD,C.D. Badajoz 1905
-133,3872683,División de Honor Juvenil,Jornada 17,21/01/2023 13:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,5 - 0,Real Madrid C.F.,AD Sporting Hortaleza
-134,3872684,División de Honor Juvenil,Jornada 17,22/01/2023 12:00h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,0 - 0,C. y D. Leonesa S.A.D.,C.D. Leganés SAD
-135,3872685,División de Honor Juvenil,Jornada 17,21/01/2023 16:00h,Ciudad: Cáceres,Estadio: Federación de Caceres,1 - 3,C.D. Col. Diocesano,C.F. Rayo Majadahonda
-136,3872686,División de Honor Juvenil,Jornada 18,29/01/2023 18:00h,Ciudad: Alcalá De Henares,Estadio: C.D. ALCALÁ (natural),5 - 1,Club Atlético de Madrid SAD,U.D. La Cruz Villanovense
-137,3872687,División de Honor Juvenil,Jornada 18,29/01/2023 14:15h,Ciudad: Moraleja De Enmedio,Estadio: Moraleja de Enmedio - La Dehesa,2 - 3,C.F. Fuenlabrada SAD,Getafe C.F. SAD
-138,3872688,División de Honor Juvenil,Jornada 18,29/01/2023 12:00h,Ciudad: Palencia,Estadio: Campos del C.I. Amistad 1,2 - 0,C.D.I. de la Amistad,Real Valladolid C.F. S.A.D.
-139,3872689,División de Honor Juvenil,Jornada 18,28/01/2023 16:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,1 - 4,C.D. Badajoz 1905,Rayo Vallecano de Madrid SAD
-140,3872690,División de Honor Juvenil,Jornada 18,29/01/2023 13:00h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,1 - 2,AD Sporting Hortaleza,A.D. Alcorcón SAD
-141,3872691,División de Honor Juvenil,Jornada 18,29/01/2023 16:15h,Ciudad: Leganés,Estadio: Instalación Deportiva Butarque,1 - 4,C.D. Leganés SAD,Real Madrid C.F.
-142,3872692,División de Honor Juvenil,Jornada 18,29/01/2023 12:00h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,0 - 1,C.F. Rayo Majadahonda,C. y D. Leonesa S.A.D.
-143,3872693,División de Honor Juvenil,Jornada 18,28/01/2023 16:00h,Ciudad: Cáceres,Estadio: Federación de Caceres,1 - 5,C.D. Col. Diocesano,Rayo Ciudad Alcobendas CF
-144,3872694,División de Honor Juvenil,Jornada 19,05/02/2023 16:00h,Ciudad: Alcobendas,Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes,1 - 3,Rayo Ciudad Alcobendas CF,Club Atlético de Madrid SAD
-145,3872695,División de Honor Juvenil,Jornada 19,04/02/2023 16:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,2 - 3,U.D. La Cruz Villanovense,C.F. Fuenlabrada SAD
-146,3872696,División de Honor Juvenil,Jornada 19,04/02/2023 16:00h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,2 - 2,Getafe C.F. SAD,C.D.I. de la Amistad
-147,3872697,División de Honor Juvenil,Jornada 19,05/02/2023 12:00h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla,1 - 0,Real Valladolid C.F. S.A.D.,C.D. Badajoz 1905
-148,3872698,División de Honor Juvenil,Jornada 19,05/02/2023 12:00h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,5 - 1,Rayo Vallecano de Madrid SAD,AD Sporting Hortaleza
-149,3872699,División de Honor Juvenil,Jornada 19,04/02/2023 12:00h,Ciudad: Alcorcón,Estadio: Santo Domingo,1 - 1,A.D. Alcorcón SAD,C.D. Leganés SAD
-150,3872700,División de Honor Juvenil,Jornada 19,04/02/2023 13:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,6 - 0,Real Madrid C.F.,C.F. Rayo Majadahonda
-151,3872701,División de Honor Juvenil,Jornada 19,04/02/2023 13:30h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,0 - 1,C. y D. Leonesa S.A.D.,C.D. Col. Diocesano
-152,3872702,División de Honor Juvenil,Jornada 20,12/02/2023 12:30h,Ciudad: Moraleja De Enmedio,Estadio: Moraleja de Enmedio - La Dehesa,1 - 7,C.F. Fuenlabrada SAD,Club Atlético de Madrid SAD
-153,3872703,División de Honor Juvenil,Jornada 20,12/02/2023 12:00h,Ciudad: Palencia,Estadio: Campos del C.I. Amistad 1,4 - 1,C.D.I. de la Amistad,U.D. La Cruz Villanovense
-154,3872704,División de Honor Juvenil,Jornada 20,11/02/2023 16:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,1 - 2,C.D. Badajoz 1905,Getafe C.F. SAD
-155,3872705,División de Honor Juvenil,Jornada 20,12/02/2023 12:45h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,1 - 0,AD Sporting Hortaleza,Real Valladolid C.F. S.A.D.
-156,3872706,División de Honor Juvenil,Jornada 20,12/02/2023 16:00h,Ciudad: Leganés,Estadio: Instalación Deportiva Butarque,2 - 0,C.D. Leganés SAD,Rayo Vallecano de Madrid SAD
-157,3872707,División de Honor Juvenil,Jornada 20,11/02/2023 17:00h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,3 - 1,C.F. Rayo Majadahonda,A.D. Alcorcón SAD
-158,3872708,División de Honor Juvenil,Jornada 20,11/02/2023 16:00h,Ciudad: Cáceres,Estadio: Federación de Caceres,0 - 4,C.D. Col. Diocesano,Real Madrid C.F.
-159,3872709,División de Honor Juvenil,Jornada 20,12/02/2023 13:30h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,0 - 4,C. y D. Leonesa S.A.D.,Rayo Ciudad Alcobendas CF
-160,3872710,División de Honor Juvenil,Jornada 21,18/02/2023 16:00h,Ciudad: Alcobendas,Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes,1 - 2,Rayo Ciudad Alcobendas CF,C.F. Fuenlabrada SAD
-161,3872711,División de Honor Juvenil,Jornada 21,19/02/2023 12:30h,Ciudad: Alcalá De Henares,Estadio: C.D. ALCALÁ (natural),5 - 0,Club Atlético de Madrid SAD,C.D.I. de la Amistad
-162,3872712,División de Honor Juvenil,Jornada 21,18/02/2023 17:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,6 - 0,U.D. La Cruz Villanovense,C.D. Badajoz 1905
-163,3872713,División de Honor Juvenil,Jornada 21,19/02/2023 12:00h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,1 - 1,Getafe C.F. SAD,AD Sporting Hortaleza
-164,3872714,División de Honor Juvenil,Jornada 21,18/02/2023 13:00h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla 3,1 - 4,Real Valladolid C.F. S.A.D.,C.D. Leganés SAD
-165,3872715,División de Honor Juvenil,Jornada 21,19/02/2023 13:30h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,3 - 0,Rayo Vallecano de Madrid SAD,C.F. Rayo Majadahonda
-166,3872716,División de Honor Juvenil,Jornada 21,18/02/2023 16:00h,Ciudad: Alcorcón,Estadio: Santo Domingo,2 - 0,A.D. Alcorcón SAD,C.D. Col. Diocesano
-167,3872717,División de Honor Juvenil,Jornada 21,19/02/2023 16:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,1 - 0,Real Madrid C.F.,C. y D. Leonesa S.A.D.
-168,3872718,División de Honor Juvenil,Jornada 22,26/02/2023 12:00h,Ciudad: Palencia,Estadio: Campos del C.I. Amistad 1,1 - 0,C.D.I. de la Amistad,C.F. Fuenlabrada SAD
-169,3872719,División de Honor Juvenil,Jornada 22,25/02/2023 16:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,0 - 5,C.D. Badajoz 1905,Club Atlético de Madrid SAD
-170,3872720,División de Honor Juvenil,Jornada 22,26/02/2023 12:45h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,3 - 1,AD Sporting Hortaleza,U.D. La Cruz Villanovense
-171,3872721,División de Honor Juvenil,Jornada 22,25/02/2023 16:00h,Ciudad: Leganés,Estadio: Instalación Deportiva Butarque,3 - 1,C.D. Leganés SAD,Getafe C.F. SAD
-172,3872722,División de Honor Juvenil,Jornada 22,25/02/2023 17:00h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,3 - 0,C.F. Rayo Majadahonda,Real Valladolid C.F. S.A.D.
-173,3872723,División de Honor Juvenil,Jornada 22,25/02/2023 16:00h,Ciudad: Caceres,Estadio: Federación de Caceres,1 - 4,C.D. Col. Diocesano,Rayo Vallecano de Madrid SAD
-174,3872724,División de Honor Juvenil,Jornada 22,26/02/2023 16:30h,Ciudad: Leon,Estadio: Area D. de Puente Castro 3,0 - 1,C. y D. Leonesa S.A.D.,A.D. Alcorcón SAD
-175,3872725,División de Honor Juvenil,Jornada 22,25/02/2023 13:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,3 - 0,Real Madrid C.F.,Rayo Ciudad Alcobendas CF
-176,3872726,División de Honor Juvenil,Jornada 23,05/03/2023 12:00h,Ciudad: Alcobendas,Estadio: Luis Aragonés - Ppvo. Mpal. José Caballero,5 - 2,Rayo Ciudad Alcobendas CF,C.D.I. de la Amistad
-177,3872727,División de Honor Juvenil,Jornada 23,05/03/2023 12:00h,Ciudad: Moraleja De Enmedio,Estadio: Moraleja de Enmedio - La Dehesa,2 - 0,C.F. Fuenlabrada SAD,C.D. Badajoz 1905
-178,3872728,División de Honor Juvenil,Jornada 23,05/03/2023 12:30h,Ciudad: Alcalá De Henares,Estadio: C.D. ALCALÁ (natural),3 - 0,Club Atlético de Madrid SAD,AD Sporting Hortaleza
-179,3872729,División de Honor Juvenil,Jornada 23,04/03/2023 16:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,2 - 2,U.D. La Cruz Villanovense,C.D. Leganés SAD
-180,3872730,División de Honor Juvenil,Jornada 23,04/03/2023 16:00h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,1 - 0,Getafe C.F. SAD,C.F. Rayo Majadahonda
-181,3872731,División de Honor Juvenil,Jornada 23,04/03/2023 16:00h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla 3,1 - 0,Real Valladolid C.F. S.A.D.,C.D. Col. Diocesano
-182,3872732,División de Honor Juvenil,Jornada 23,04/03/2023 16:00h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,3 - 1,Rayo Vallecano de Madrid SAD,C. y D. Leonesa S.A.D.
-183,3872733,División de Honor Juvenil,Jornada 23,04/03/2023 16:00h,Ciudad: Alcorcón,Estadio: Santo Domingo,2 - 2,A.D. Alcorcón SAD,Real Madrid C.F.
-184,3872734,División de Honor Juvenil,Jornada 24,18/03/2023 16:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,0 - 4,C.D. Badajoz 1905,C.D.I. de la Amistad
-185,3872735,División de Honor Juvenil,Jornada 24,19/03/2023 12:45h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,1 - 2,AD Sporting Hortaleza,C.F. Fuenlabrada SAD
-186,3872736,División de Honor Juvenil,Jornada 24,19/03/2023 12:00h,Ciudad: Leganés,Estadio: Instalación Deportiva Butarque,0 - 2,C.D. Leganés SAD,Club Atlético de Madrid SAD
-187,3872737,División de Honor Juvenil,Jornada 24,19/03/2023 16:30h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,0 - 0,C.F. Rayo Majadahonda,U.D. La Cruz Villanovense
-188,3872738,División de Honor Juvenil,Jornada 24,18/03/2023 16:00h,Ciudad: Cáceres,Estadio: Federación de Caceres,3 - 3,C.D. Col. Diocesano,Getafe C.F. SAD
-189,3872739,División de Honor Juvenil,Jornada 24,19/03/2023 12:30h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,1 - 2,C. y D. Leonesa S.A.D.,Real Valladolid C.F. S.A.D.
-190,3872740,División de Honor Juvenil,Jornada 24,19/03/2023 17:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,1 - 0,Real Madrid C.F.,Rayo Vallecano de Madrid SAD
-191,3872741,División de Honor Juvenil,Jornada 24,18/03/2023 16:00h,Ciudad: Alcorcón,Estadio: Santo Domingo,1 - 0,A.D. Alcorcón SAD,Rayo Ciudad Alcobendas CF
-192,3872742,División de Honor Juvenil,Jornada 25,02/04/2023 14:00h,Ciudad: Alcobendas,Estadio: Luis Aragonés - Ppvo. Mpal. José Caballero,6 - 0,Rayo Ciudad Alcobendas CF,C.D. Badajoz 1905
-193,3872743,División de Honor Juvenil,Jornada 25,02/04/2023 12:00h,Ciudad: Palencia,Estadio: Campos del C.I. Amistad 1,4 - 2,C.D.I. de la Amistad,AD Sporting Hortaleza
-194,3872744,División de Honor Juvenil,Jornada 25,02/04/2023 11:00h,Ciudad: Moraleja De Enmedio,Estadio: Moraleja de Enmedio - La Dehesa,2 - 1,C.F. Fuenlabrada SAD,C.D. Leganés SAD
-195,3872745,División de Honor Juvenil,Jornada 25,02/04/2023 12:30h,Ciudad: Alcalá De Henares,Estadio: C.D. ALCALÁ (natural),1 - 0,Club Atlético de Madrid SAD,C.F. Rayo Majadahonda
-196,3872746,División de Honor Juvenil,Jornada 25,02/04/2023 12:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,2 - 1,U.D. La Cruz Villanovense,C.D. Col. Diocesano
-197,3872747,División de Honor Juvenil,Jornada 25,01/04/2023 17:00h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,1 - 1,Getafe C.F. SAD,C. y D. Leonesa S.A.D.
-198,3872748,División de Honor Juvenil,Jornada 25,01/04/2023 12:30h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla 3,1 - 2,Real Valladolid C.F. S.A.D.,Real Madrid C.F.
-199,3872749,División de Honor Juvenil,Jornada 25,01/04/2023 16:00h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,1 - 0,Rayo Vallecano de Madrid SAD,A.D. Alcorcón SAD
-200,3872750,División de Honor Juvenil,Jornada 26,09/04/2023 12:00h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,1 - 2,AD Sporting Hortaleza,C.D. Badajoz 1905
-201,3872751,División de Honor Juvenil,Jornada 26,06/04/2023 16:00h,Ciudad: Leganes,Estadio: Instalación Deportiva Butarque,1 - 0,C.D. Leganés SAD,C.D.I. de la Amistad
-202,3872752,División de Honor Juvenil,Jornada 26,09/04/2023 16:00h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,1 - 2,C.F. Rayo Majadahonda,C.F. Fuenlabrada SAD
-203,3872753,División de Honor Juvenil,Jornada 26,08/04/2023 12:00h,Ciudad: Cáceres,Estadio: Federación de Caceres,2 - 3,C.D. Col. Diocesano,Club Atlético de Madrid SAD
-204,3872754,División de Honor Juvenil,Jornada 26,09/04/2023 17:00h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,1 - 0,C. y D. Leonesa S.A.D.,U.D. La Cruz Villanovense
-205,3872755,División de Honor Juvenil,Jornada 26,06/04/2023 12:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,3 - 0,Real Madrid C.F.,Getafe C.F. SAD
-206,3872756,División de Honor Juvenil,Jornada 26,09/04/2023 16:00h,Ciudad: Alcorcón,Estadio: Santo Domingo,0 - 1,A.D. Alcorcón SAD,Real Valladolid C.F. S.A.D.
-207,3872757,División de Honor Juvenil,Jornada 26,06/04/2023 13:30h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,1 - 3,Rayo Vallecano de Madrid SAD,Rayo Ciudad Alcobendas CF
-208,3872758,División de Honor Juvenil,Jornada 27,16/04/2023 13:45h,Ciudad: Alcobendas,Estadio: Luis Aragonés - Ppvo. Mpal. José Caballero,2 - 0,Rayo Ciudad Alcobendas CF,AD Sporting Hortaleza
-209,3872759,División de Honor Juvenil,Jornada 27,15/04/2023 16:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,1 - 2,C.D. Badajoz 1905,C.D. Leganés SAD
-210,3872760,División de Honor Juvenil,Jornada 27,16/04/2023 12:00h,Ciudad: Palencia,Estadio: Campos del C.I. Amistad 1,1 - 3,C.D.I. de la Amistad,C.F. Rayo Majadahonda
-211,3872761,División de Honor Juvenil,Jornada 27,16/04/2023 12:30h,Ciudad: Moraleja De Enmedio,Estadio: Moraleja de Enmedio - La Dehesa,2 - 0,C.F. Fuenlabrada SAD,C.D. Col. Diocesano
-212,3872762,División de Honor Juvenil,Jornada 27,16/04/2023 12:30h,Ciudad: Alcala De Henares,Estadio: C.D. ALCALÁ (natural),2 - 0,Club Atlético de Madrid SAD,C. y D. Leonesa S.A.D.
-213,3872763,División de Honor Juvenil,Jornada 27,16/04/2023 12:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,0 - 5,U.D. La Cruz Villanovense,Real Madrid C.F.
-214,3872764,División de Honor Juvenil,Jornada 27,16/04/2023 12:00h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,2 - 0,Getafe C.F. SAD,A.D. Alcorcón SAD
-215,3872765,División de Honor Juvenil,Jornada 27,15/04/2023 16:00h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla,1 - 1,Real Valladolid C.F. S.A.D.,Rayo Vallecano de Madrid SAD
-216,3872766,División de Honor Juvenil,Jornada 28,23/04/2023 12:00h,Ciudad: Leganés,Estadio: Instalación Deportiva Butarque,3 - 1,C.D. Leganés SAD,AD Sporting Hortaleza
-217,3872767,División de Honor Juvenil,Jornada 28,22/04/2023 16:30h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,3 - 1,C.F. Rayo Majadahonda,C.D. Badajoz 1905
-218,3872768,División de Honor Juvenil,Jornada 28,23/04/2023 18:00h,Ciudad: Caceres,Estadio: Federación de Caceres,2 - 2,C.D. Col. Diocesano,C.D.I. de la Amistad
-219,3872769,División de Honor Juvenil,Jornada 28,23/04/2023 17:30h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,2 - 1,C. y D. Leonesa S.A.D.,C.F. Fuenlabrada SAD
-220,3872770,División de Honor Juvenil,Jornada 28,23/04/2023 16:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,5 - 0,Real Madrid C.F.,Club Atlético de Madrid SAD
-221,3872771,División de Honor Juvenil,Jornada 28,23/04/2023 16:00h,Ciudad: Alcorcón,Estadio: Santo Domingo,1 - 1,A.D. Alcorcón SAD,U.D. La Cruz Villanovense
-222,3872772,División de Honor Juvenil,Jornada 28,22/04/2023 13:30h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,1 - 2,Rayo Vallecano de Madrid SAD,Getafe C.F. SAD
-223,3872773,División de Honor Juvenil,Jornada 28,22/04/2023 13:00h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla 3,1 - 3,Real Valladolid C.F. S.A.D.,Rayo Ciudad Alcobendas CF
-224,3872774,División de Honor Juvenil,Jornada 29,29/04/2023 16:00h,Ciudad: Leganés,Estadio: Instalación Deportiva Butarque,0 - 2,C.D. Leganés SAD,Rayo Ciudad Alcobendas CF
-225,3872775,División de Honor Juvenil,Jornada 29,30/04/2023 18:00h,Ciudad: Madrid,Estadio: Municipal Sporting de Hortaleza,0 - 1,AD Sporting Hortaleza,C.F. Rayo Majadahonda
-226,3872776,División de Honor Juvenil,Jornada 29,29/04/2023 18:00h,Ciudad: Badajoz,Estadio: Campos Federativos Eusebio Bejarano Vilaro,2 - 3,C.D. Badajoz 1905,C.D. Col. Diocesano
-227,3872777,División de Honor Juvenil,Jornada 29,30/04/2023 12:00h,Ciudad: Palencia,Estadio: Campos del C.I. Amistad 1,3 - 1,C.D.I. de la Amistad,C. y D. Leonesa S.A.D.
-228,3872778,División de Honor Juvenil,Jornada 29,30/04/2023 11:00h,Ciudad: Moraleja De Enmedio,Estadio: Moraleja de Enmedio - La Dehesa,0 - 1,C.F. Fuenlabrada SAD,Real Madrid C.F.
-229,3872779,División de Honor Juvenil,Jornada 29,29/04/2023 12:30h,Ciudad: Alcalá De Henares,Estadio: C.D. ALCALÁ (natural),2 - 0,Club Atlético de Madrid SAD,A.D. Alcorcón SAD
-230,3872780,División de Honor Juvenil,Jornada 29,29/04/2023 17:00h,Ciudad: Villanueva De La Serena,Estadio: Anexo Estadio Villanovense,5 - 2,U.D. La Cruz Villanovense,Rayo Vallecano de Madrid SAD
-231,3872781,División de Honor Juvenil,Jornada 29,29/04/2023 16:00h,Ciudad: Getafe,Estadio: Ciudad Deportiva Getafe,1 - 1,Getafe C.F. SAD,Real Valladolid C.F. S.A.D.
-232,3872782,División de Honor Juvenil,Jornada 30,06/05/2023 16:00h,Ciudad: Majadahonda,Estadio: Campos Municipales Valle de la Oliva,1 - 1,C.F. Rayo Majadahonda,C.D. Leganés SAD
-233,3872783,División de Honor Juvenil,Jornada 30,07/05/2023 17:00h,Ciudad: Cáceres,Estadio: Federación de Caceres,3 - 2,C.D. Col. Diocesano,AD Sporting Hortaleza
-234,3872784,División de Honor Juvenil,Jornada 30,07/05/2023 12:00h,Ciudad: Leon,Estadio: Area D. de Puente Castro 1,4 - 0,C. y D. Leonesa S.A.D.,C.D. Badajoz 1905
-235,3872785,División de Honor Juvenil,Jornada 30,06/05/2023 12:00h,Ciudad: Valdebebas,Estadio: Ciudad Real Madrid,8 - 1,Real Madrid C.F.,C.D.I. de la Amistad
-236,3872786,División de Honor Juvenil,Jornada 30,06/05/2023 16:00h,Ciudad: Alcorcón,Estadio: Santo Domingo,1 - 2,A.D. Alcorcón SAD,C.F. Fuenlabrada SAD
-237,3872787,División de Honor Juvenil,Jornada 30,06/05/2023 16:00h,Ciudad: Madrid,Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4,0 - 0,Rayo Vallecano de Madrid SAD,Club Atlético de Madrid SAD
-238,3872788,División de Honor Juvenil,Jornada 30,07/05/2023 15:30h,Ciudad: Valladolid,Estadio: Anexos E.M. José Zorrilla 3,4 - 1,Real Valladolid C.F. S.A.D.,U.D. La Cruz Villanovense
-239,3872789,División de Honor Juvenil,Jornada 30,07/05/2023 14:00h,Ciudad: Alcobendas,Estadio: Luis Aragonés - Ppvo. Mpal. José Caballero,2 - 1,Rayo Ciudad Alcobendas CF,Getafe C.F. SAD
+id_partido	competition	fixture	date	city	stadium	resultado	home_team	away_team
+3872550	División de Honor Juvenil	Jornada 1	03/09/2022 18:00h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	3 - 0	Getafe C.F. SAD	U.D. La Cruz Villanovense
+3872551	División de Honor Juvenil	Jornada 1	04/09/2022 12:30h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla (H. Artificial)	1 - 2	Real Valladolid C.F. S.A.D.	Club Atlético de Madrid SAD
+3872552	División de Honor Juvenil	Jornada 1	03/09/2022 18:00h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	0 - 2	Rayo Vallecano de Madrid SAD	C.F. Fuenlabrada SAD
+3872553	División de Honor Juvenil	Jornada 1	03/09/2022 18:00h	Ciudad: Alcorcón	Estadio: P.M. Santo Domingo	2 - 1	A.D. Alcorcón SAD	C.D.I. de la Amistad
+3872554	División de Honor Juvenil	Jornada 1	03/09/2022 19:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	7 - 0	Real Madrid C.F.	C.D. Badajoz 1905
+3872555	División de Honor Juvenil	Jornada 1	03/09/2022 13:30h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	1 - 2	C. y D. Leonesa S.A.D.	AD Sporting Hortaleza
+3872556	División de Honor Juvenil	Jornada 1	03/09/2022 17:00h	Ciudad: Cáceres	Estadio: Federación de Caceres	0 - 0	C.D. Col. Diocesano	C.D. Leganés SAD
+3872557	División de Honor Juvenil	Jornada 1	03/09/2022 16:15h	Ciudad: Alcobendas	Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	0 - 3	Rayo Ciudad Alcobendas CF	C.F. Rayo Majadahonda
+3872558	División de Honor Juvenil	Jornada 2	10/09/2022 18:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	0 - 3	U.D. La Cruz Villanovense	Rayo Ciudad Alcobendas CF
+3872559	División de Honor Juvenil	Jornada 2	10/09/2022 19:00h	Ciudad: Alcalá De Henares	Estadio: C.D. WANDA ALCALÁ (natural)	1 - 0	Club Atlético de Madrid SAD	Getafe C.F. SAD
+3872560	División de Honor Juvenil	Jornada 2	11/09/2022 12:00h	Ciudad: Fuenlabrada	Estadio: La Aldehuela	1 - 2	C.F. Fuenlabrada SAD	Real Valladolid C.F. S.A.D.
+3872561	División de Honor Juvenil	Jornada 2	11/09/2022 12:00h	Ciudad: Palencia	Estadio: E.M. Nueva Balastera	1 - 3	C.D.I. de la Amistad	Rayo Vallecano de Madrid SAD
+3872562	División de Honor Juvenil	Jornada 2	10/09/2022 19:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	0 - 3	C.D. Badajoz 1905	A.D. Alcorcón SAD
+3872563	División de Honor Juvenil	Jornada 2	10/09/2022 18:30h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	0 - 3	AD Sporting Hortaleza	Real Madrid C.F.
+3872564	División de Honor Juvenil	Jornada 2	11/09/2022 16:00h	Ciudad: Leganés	Estadio: Instalación Deportiva Butarque	1 - 0	C.D. Leganés SAD	C. y D. Leonesa S.A.D.
+3872565	División de Honor Juvenil	Jornada 2	10/09/2022 16:30h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	0 - 0	C.F. Rayo Majadahonda	C.D. Col. Diocesano
+3872566	División de Honor Juvenil	Jornada 3	18/09/2022 12:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	0 - 0	U.D. La Cruz Villanovense	Club Atlético de Madrid SAD
+3872567	División de Honor Juvenil	Jornada 3	18/09/2022 11:30h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	1 - 1	Getafe C.F. SAD	C.F. Fuenlabrada SAD
+3872568	División de Honor Juvenil	Jornada 3	17/09/2022 12:00h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla (H. Artificial)	2 - 0	Real Valladolid C.F. S.A.D.	C.D.I. de la Amistad
+3872569	División de Honor Juvenil	Jornada 3	17/09/2022 18:00h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	8 - 0	Rayo Vallecano de Madrid SAD	C.D. Badajoz 1905
+3872570	División de Honor Juvenil	Jornada 3	18/09/2022 11:30h	Ciudad: Alcorcón	Estadio: P.M. Santo Domingo	1 - 0	A.D. Alcorcón SAD	AD Sporting Hortaleza
+3872571	División de Honor Juvenil	Jornada 3	18/09/2022 17:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	3 - 3	Real Madrid C.F.	C.D. Leganés SAD
+3872572	División de Honor Juvenil	Jornada 3	17/09/2022 13:00h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	2 - 1	C. y D. Leonesa S.A.D.	C.F. Rayo Majadahonda
+3872573	División de Honor Juvenil	Jornada 3	18/09/2022 16:00h	Ciudad: Alcobendas	Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	2 - 1	Rayo Ciudad Alcobendas CF	C.D. Col. Diocesano
+3872574	División de Honor Juvenil	Jornada 4	01/10/2022 12:00h	Ciudad: Alcalá De Henares	Estadio: C.D. WANDA ALCALÁ (natural)	3 - 1	Club Atlético de Madrid SAD	Rayo Ciudad Alcobendas CF
+3872575	División de Honor Juvenil	Jornada 4	02/10/2022 12:00h	Ciudad: Fuenlabrada	Estadio: La Aldehuela	1 - 3	C.F. Fuenlabrada SAD	U.D. La Cruz Villanovense
+3872576	División de Honor Juvenil	Jornada 4	02/10/2022 12:00h	Ciudad: Palencia	Estadio: E.M. Nueva Balastera	2 - 1	C.D.I. de la Amistad	Getafe C.F. SAD
+3872577	División de Honor Juvenil	Jornada 4	02/10/2022 12:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	3 - 1	C.D. Badajoz 1905	Real Valladolid C.F. S.A.D.
+3872578	División de Honor Juvenil	Jornada 4	02/10/2022 17:00h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	2 - 5	AD Sporting Hortaleza	Rayo Vallecano de Madrid SAD
+3872579	División de Honor Juvenil	Jornada 4	02/10/2022 12:00h	Ciudad: Leganés	Estadio: Instalación Deportiva Butarque	1 - 1	C.D. Leganés SAD	A.D. Alcorcón SAD
+3872580	División de Honor Juvenil	Jornada 4	01/10/2022 16:00h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	0 - 3	C.F. Rayo Majadahonda	Real Madrid C.F.
+3872581	División de Honor Juvenil	Jornada 4	01/10/2022 16:00h	Ciudad: Caceres	Estadio: Federación de Caceres	2 - 2	C.D. Col. Diocesano	C. y D. Leonesa S.A.D.
+3872582	División de Honor Juvenil	Jornada 5	08/10/2022 12:00h	Ciudad: Alcalá De Henares	Estadio: C.D. WANDA ALCALÁ (natural)	3 - 1	Club Atlético de Madrid SAD	C.F. Fuenlabrada SAD
+3872583	División de Honor Juvenil	Jornada 5	08/10/2022 17:30h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	3 - 0	U.D. La Cruz Villanovense	C.D.I. de la Amistad
+3872584	División de Honor Juvenil	Jornada 5	08/10/2022 16:00h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	2 - 0	Getafe C.F. SAD	C.D. Badajoz 1905
+3872585	División de Honor Juvenil	Jornada 5	09/10/2022 12:00h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla 3	1 - 1	Real Valladolid C.F. S.A.D.	AD Sporting Hortaleza
+3872586	División de Honor Juvenil	Jornada 5	08/10/2022 18:00h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	2 - 1	Rayo Vallecano de Madrid SAD	C.D. Leganés SAD
+3872587	División de Honor Juvenil	Jornada 5	08/10/2022 16:00h	Ciudad: Alcorcón	Estadio: Santo Domingo	0 - 0	A.D. Alcorcón SAD	C.F. Rayo Majadahonda
+3872588	División de Honor Juvenil	Jornada 5	08/10/2022 16:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	5 - 2	Real Madrid C.F.	C.D. Col. Diocesano
+3872589	División de Honor Juvenil	Jornada 5	08/10/2022 16:00h	Ciudad: Alcobendas	Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	0 - 1	Rayo Ciudad Alcobendas CF	C. y D. Leonesa S.A.D.
+3872590	División de Honor Juvenil	Jornada 6	16/10/2022 12:00h	Ciudad: Moraleja De Enmedio	Estadio: Moraleja de Enmedio - La Dehesa	0 - 1	C.F. Fuenlabrada SAD	Rayo Ciudad Alcobendas CF
+3872591	División de Honor Juvenil	Jornada 6	16/10/2022 12:00h	Ciudad: Palencia	Estadio: E.M. Nueva Balastera	1 - 4	C.D.I. de la Amistad	Club Atlético de Madrid SAD
+3872592	División de Honor Juvenil	Jornada 6	16/10/2022 14:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	2 - 1	C.D. Badajoz 1905	U.D. La Cruz Villanovense
+3872593	División de Honor Juvenil	Jornada 6	16/10/2022 17:30h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	3 - 1	AD Sporting Hortaleza	Getafe C.F. SAD
+3872594	División de Honor Juvenil	Jornada 6	16/10/2022 16:30h	Ciudad: Leganés	Estadio: Instalación Deportiva Butarque	2 - 1	C.D. Leganés SAD	Real Valladolid C.F. S.A.D.
+3872595	División de Honor Juvenil	Jornada 6	15/10/2022 17:00h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	1 - 1	C.F. Rayo Majadahonda	Rayo Vallecano de Madrid SAD
+3872596	División de Honor Juvenil	Jornada 6	15/10/2022 16:00h	Ciudad: Caceres	Estadio: Federación de Caceres	0 - 1	C.D. Col. Diocesano	A.D. Alcorcón SAD
+3872597	División de Honor Juvenil	Jornada 6	16/10/2022 12:00h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	1 - 2	C. y D. Leonesa S.A.D.	Real Madrid C.F.
+3872598	División de Honor Juvenil	Jornada 7	23/10/2022 12:00h	Ciudad: Moraleja De Enmedio	Estadio: Moraleja de Enmedio - La Dehesa	3 - 0	C.F. Fuenlabrada SAD	C.D.I. de la Amistad
+3872599	División de Honor Juvenil	Jornada 7	22/10/2022 17:00h	Ciudad: Alcalá De Henares	Estadio: C.D. ALCALÁ (natural)	5 - 0	Club Atlético de Madrid SAD	C.D. Badajoz 1905
+3872600	División de Honor Juvenil	Jornada 7	23/10/2022 12:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	3 - 1	U.D. La Cruz Villanovense	AD Sporting Hortaleza
+3872601	División de Honor Juvenil	Jornada 7	22/10/2022 16:00h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	1 - 2	Getafe C.F. SAD	C.D. Leganés SAD
+3872602	División de Honor Juvenil	Jornada 7	22/10/2022 11:00h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla 3	3 - 1	Real Valladolid C.F. S.A.D.	C.F. Rayo Majadahonda
+3872603	División de Honor Juvenil	Jornada 7	22/10/2022 17:00h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	2 - 1	Rayo Vallecano de Madrid SAD	C.D. Col. Diocesano
+3872604	División de Honor Juvenil	Jornada 7	23/10/2022 16:00h	Ciudad: Alcorcon	Estadio: Santo Domingo	2 - 1	A.D. Alcorcón SAD	C. y D. Leonesa S.A.D.
+3872605	División de Honor Juvenil	Jornada 7	22/10/2022 16:00h	Ciudad: Alcobendas	Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	0 - 4	Rayo Ciudad Alcobendas CF	Real Madrid C.F.
+3872606	División de Honor Juvenil	Jornada 8	30/10/2022 12:00h	Ciudad: Palencia	Estadio: E.M. Nueva Balastera	0 - 3	C.D.I. de la Amistad	Rayo Ciudad Alcobendas CF
+3872607	División de Honor Juvenil	Jornada 8	30/10/2022 12:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	1 - 3	C.D. Badajoz 1905	C.F. Fuenlabrada SAD
+3872608	División de Honor Juvenil	Jornada 8	29/10/2022 17:30h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	0 - 6	AD Sporting Hortaleza	Club Atlético de Madrid SAD
+3872609	División de Honor Juvenil	Jornada 8	30/10/2022 16:15h	Ciudad: Leganés	Estadio: Instalación Deportiva Butarque	2 - 1	C.D. Leganés SAD	U.D. La Cruz Villanovense
+3872610	División de Honor Juvenil	Jornada 8	29/10/2022 16:00h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	3 - 0	C.F. Rayo Majadahonda	Getafe C.F. SAD
+3872611	División de Honor Juvenil	Jornada 8	29/10/2022 16:00h	Ciudad: Caceres	Estadio: Federación de Caceres	2 - 1	C.D. Col. Diocesano	Real Valladolid C.F. S.A.D.
+3872612	División de Honor Juvenil	Jornada 8	29/10/2022 13:30h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	0 - 0	C. y D. Leonesa S.A.D.	Rayo Vallecano de Madrid SAD
+3872613	División de Honor Juvenil	Jornada 8	29/10/2022 19:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	2 - 0	Real Madrid C.F.	A.D. Alcorcón SAD
+3872614	División de Honor Juvenil	Jornada 9	06/11/2022 12:00h	Ciudad: Palencia	Estadio: E.M. Nueva Balastera	2 - 0	C.D.I. de la Amistad	C.D. Badajoz 1905
+3872615	División de Honor Juvenil	Jornada 9	06/11/2022 11:00h	Ciudad: Moraleja De Enmedio	Estadio: Moraleja de Enmedio - La Dehesa	2 - 0	C.F. Fuenlabrada SAD	AD Sporting Hortaleza
+3872616	División de Honor Juvenil	Jornada 9	06/11/2022 12:00h	Ciudad: Alcalá De Henares	Estadio: ESTADIO C.D. WANDA ALCALÁ DE HENARES	4 - 0	Club Atlético de Madrid SAD	C.D. Leganés SAD
+3872617	División de Honor Juvenil	Jornada 9	05/11/2022 17:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	0 - 3	U.D. La Cruz Villanovense	C.F. Rayo Majadahonda
+3872618	División de Honor Juvenil	Jornada 9	06/11/2022 16:00h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	5 - 3	Getafe C.F. SAD	C.D. Col. Diocesano
+3872619	División de Honor Juvenil	Jornada 9	05/11/2022 13:00h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla 3	3 - 1	Real Valladolid C.F. S.A.D.	C. y D. Leonesa S.A.D.
+3872620	División de Honor Juvenil	Jornada 9	06/11/2022 17:00h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	0 - 3	Rayo Vallecano de Madrid SAD	Real Madrid C.F.
+3872621	División de Honor Juvenil	Jornada 9	05/11/2022 16:00h	Ciudad: Alcobendas	Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	0 - 0	Rayo Ciudad Alcobendas CF	A.D. Alcorcón SAD
+3872622	División de Honor Juvenil	Jornada 10	13/11/2022 13:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	0 - 2	C.D. Badajoz 1905	Rayo Ciudad Alcobendas CF
+3872623	División de Honor Juvenil	Jornada 10	13/11/2022 17:45h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	1 - 1	AD Sporting Hortaleza	C.D.I. de la Amistad
+3872624	División de Honor Juvenil	Jornada 10	13/11/2022 15:45h	Ciudad: Leganés	Estadio: Instalación Deportiva Butarque	1 - 1	C.D. Leganés SAD	C.F. Fuenlabrada SAD
+3872625	División de Honor Juvenil	Jornada 10	13/11/2022 17:00h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	0 - 2	C.F. Rayo Majadahonda	Club Atlético de Madrid SAD
+3872626	División de Honor Juvenil	Jornada 10	12/11/2022 18:00h	Ciudad: Cáceres	Estadio: Federación de Caceres	1 - 1	C.D. Col. Diocesano	U.D. La Cruz Villanovense
+3872627	División de Honor Juvenil	Jornada 10	12/11/2022 13:30h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	0 - 2	C. y D. Leonesa S.A.D.	Getafe C.F. SAD
+3872628	División de Honor Juvenil	Jornada 10	13/11/2022 12:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	5 - 1	Real Madrid C.F.	Real Valladolid C.F. S.A.D.
+3872629	División de Honor Juvenil	Jornada 10	12/11/2022 16:00h	Ciudad: Alcorcón	Estadio: Santo Domingo	3 - 1	A.D. Alcorcón SAD	Rayo Vallecano de Madrid SAD
+3872630	División de Honor Juvenil	Jornada 11	20/11/2022 12:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	1 - 2	C.D. Badajoz 1905	AD Sporting Hortaleza
+3872631	División de Honor Juvenil	Jornada 11	20/11/2022 12:00h	Ciudad: Palencia	Estadio: Campos del C.I. Amistad 1	0 - 2	C.D.I. de la Amistad	C.D. Leganés SAD
+3872632	División de Honor Juvenil	Jornada 11	20/11/2022 13:30h	Ciudad: Moraleja De Enmedio	Estadio: Moraleja de Enmedio - La Dehesa	1 - 0	C.F. Fuenlabrada SAD	C.F. Rayo Majadahonda
+3872633	División de Honor Juvenil	Jornada 11	20/11/2022 18:00h	Ciudad: Alcalá De Henares	Estadio: C.D. ALCALÁ (natural)	2 - 1	Club Atlético de Madrid SAD	C.D. Col. Diocesano
+3872634	División de Honor Juvenil	Jornada 11	20/11/2022 12:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	2 - 0	U.D. La Cruz Villanovense	C. y D. Leonesa S.A.D.
+3872635	División de Honor Juvenil	Jornada 11	20/11/2022 16:00h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	0 - 3	Getafe C.F. SAD	Real Madrid C.F.
+3872636	División de Honor Juvenil	Jornada 11	20/11/2022 16:30h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla 3	1 - 0	Real Valladolid C.F. S.A.D.	A.D. Alcorcón SAD
+3872637	División de Honor Juvenil	Jornada 11	19/11/2022 16:00h	Ciudad: Alcobendas	Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	2 - 3	Rayo Ciudad Alcobendas CF	Rayo Vallecano de Madrid SAD
+3872638	División de Honor Juvenil	Jornada 12	27/11/2022 17:30h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	1 - 1	AD Sporting Hortaleza	Rayo Ciudad Alcobendas CF
+3872639	División de Honor Juvenil	Jornada 12	27/11/2022 13:30h	Ciudad: Leganes	Estadio: Instalación Deportiva Butarque	2 - 0	C.D. Leganés SAD	C.D. Badajoz 1905
+3872640	División de Honor Juvenil	Jornada 12	26/11/2022 18:00h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	4 - 1	C.F. Rayo Majadahonda	C.D.I. de la Amistad
+3872641	División de Honor Juvenil	Jornada 12	27/11/2022 12:00h	Ciudad: Cáceres	Estadio: Federación de Caceres	1 - 1	C.D. Col. Diocesano	C.F. Fuenlabrada SAD
+3872642	División de Honor Juvenil	Jornada 12	26/11/2022 13:30h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	0 - 1	C. y D. Leonesa S.A.D.	Club Atlético de Madrid SAD
+3872643	División de Honor Juvenil	Jornada 12	27/11/2022 16:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	6 - 0	Real Madrid C.F.	U.D. La Cruz Villanovense
+3872644	División de Honor Juvenil	Jornada 12	27/11/2022 12:00h	Ciudad: Alcorcón	Estadio: Santo Domingo	2 - 4	A.D. Alcorcón SAD	Getafe C.F. SAD
+3872645	División de Honor Juvenil	Jornada 12	26/11/2022 16:00h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	2 - 3	Rayo Vallecano de Madrid SAD	Real Valladolid C.F. S.A.D.
+3872646	División de Honor Juvenil	Jornada 13	04/12/2022 17:30h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	0 - 1	AD Sporting Hortaleza	C.D. Leganés SAD
+3872647	División de Honor Juvenil	Jornada 13	03/12/2022 16:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	1 - 0	C.D. Badajoz 1905	C.F. Rayo Majadahonda
+3872648	División de Honor Juvenil	Jornada 13	04/12/2022 12:00h	Ciudad: Palencia	Estadio: Campos del C.I. Amistad 1	0 - 0	C.D.I. de la Amistad	C.D. Col. Diocesano
+3872649	División de Honor Juvenil	Jornada 13	04/12/2022 13:30h	Ciudad: Moraleja De Enmedio	Estadio: Moraleja de Enmedio - La Dehesa	1 - 1	C.F. Fuenlabrada SAD	C. y D. Leonesa S.A.D.
+3872650	División de Honor Juvenil	Jornada 13	04/12/2022 12:00h	Ciudad: Alcalá De Henares	Estadio: C.D. ALCALÁ (natural)	0 - 0	Club Atlético de Madrid SAD	Real Madrid C.F.
+3872651	División de Honor Juvenil	Jornada 13	03/12/2022 16:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	0 - 3	U.D. La Cruz Villanovense	A.D. Alcorcón SAD
+3872652	División de Honor Juvenil	Jornada 13	04/12/2022 16:00h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	0 - 1	Getafe C.F. SAD	Rayo Vallecano de Madrid SAD
+3872653	División de Honor Juvenil	Jornada 13	04/12/2022 17:00h	Ciudad: Alcobendas	Estadio: Luis Aragonés - Ppvo. Mpal. José Caballero	1 - 0	Rayo Ciudad Alcobendas CF	Real Valladolid C.F. S.A.D.
+3872654	División de Honor Juvenil	Jornada 14	10/12/2022 16:00h	Ciudad: Alcobendas	Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	0 - 1	Rayo Ciudad Alcobendas CF	C.D. Leganés SAD
+3872655	División de Honor Juvenil	Jornada 14	10/12/2022 17:30h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	2 - 0	C.F. Rayo Majadahonda	AD Sporting Hortaleza
+3872656	División de Honor Juvenil	Jornada 14	10/12/2022 16:00h	Ciudad: Cáceres	Estadio: Federación de Caceres	0 - 0	C.D. Col. Diocesano	C.D. Badajoz 1905
+3872657	División de Honor Juvenil	Jornada 14	10/12/2022 16:00h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	5 - 0	C. y D. Leonesa S.A.D.	C.D.I. de la Amistad
+3872658	División de Honor Juvenil	Jornada 14	11/12/2022 12:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	8 - 0	Real Madrid C.F.	C.F. Fuenlabrada SAD
+3872659	División de Honor Juvenil	Jornada 14	10/12/2022 12:00h	Ciudad: Alcorcón	Estadio: Santo Domingo	1 - 1	A.D. Alcorcón SAD	Club Atlético de Madrid SAD
+3872660	División de Honor Juvenil	Jornada 14	11/12/2022 16:00h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	1 - 0	Rayo Vallecano de Madrid SAD	U.D. La Cruz Villanovense
+3872661	División de Honor Juvenil	Jornada 14	10/12/2022 12:00h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla 3	0 - 3	Real Valladolid C.F. S.A.D.	Getafe C.F. SAD
+3872662	División de Honor Juvenil	Jornada 15	18/12/2022 15:00h	Ciudad: Leganés	Estadio: Instalación Deportiva Butarque	0 - 3	C.D. Leganés SAD	C.F. Rayo Majadahonda
+3872663	División de Honor Juvenil	Jornada 15	18/12/2022 13:00h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	1 - 1	AD Sporting Hortaleza	C.D. Col. Diocesano
+3872664	División de Honor Juvenil	Jornada 15	17/12/2022 16:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	0 - 0	C.D. Badajoz 1905	C. y D. Leonesa S.A.D.
+3872665	División de Honor Juvenil	Jornada 15	18/12/2022 12:00h	Ciudad: Palencia	Estadio: E.M. Nueva Balastera	1 - 5	C.D.I. de la Amistad	Real Madrid C.F.
+3872666	División de Honor Juvenil	Jornada 15	18/12/2022 13:30h	Ciudad: Moraleja De Enmedio	Estadio: Moraleja de Enmedio - La Dehesa	0 - 0	C.F. Fuenlabrada SAD	A.D. Alcorcón SAD
+3872667	División de Honor Juvenil	Jornada 15	17/12/2022 12:30h	Ciudad: Alcalá De Henares	Estadio: C.D. ALCALÁ (natural)	5 - 1	Club Atlético de Madrid SAD	Rayo Vallecano de Madrid SAD
+3872668	División de Honor Juvenil	Jornada 15	17/12/2022 16:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	1 - 0	U.D. La Cruz Villanovense	Real Valladolid C.F. S.A.D.
+3872669	División de Honor Juvenil	Jornada 15	17/12/2022 18:30h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	1 - 3	Getafe C.F. SAD	Rayo Ciudad Alcobendas CF
+3872670	División de Honor Juvenil	Jornada 16	15/01/2023 12:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	2 - 3	U.D. La Cruz Villanovense	Getafe C.F. SAD
+3872671	División de Honor Juvenil	Jornada 16	15/01/2023 12:30h	Ciudad: Alcalá De Henares	Estadio: C.D. ALCALÁ (natural)	3 - 0	Club Atlético de Madrid SAD	Real Valladolid C.F. S.A.D.
+3872672	División de Honor Juvenil	Jornada 16	15/01/2023 14:00h	Ciudad: Moraleja De Enmedio	Estadio: Moraleja de Enmedio - La Dehesa	2 - 2	C.F. Fuenlabrada SAD	Rayo Vallecano de Madrid SAD
+3872673	División de Honor Juvenil	Jornada 16	15/01/2023 12:00h	Ciudad: Palencia	Estadio: Campos del C.I. Amistad 1	2 - 0	C.D.I. de la Amistad	A.D. Alcorcón SAD
+3872674	División de Honor Juvenil	Jornada 16	14/01/2023 16:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	0 - 3	C.D. Badajoz 1905	Real Madrid C.F.
+3872675	División de Honor Juvenil	Jornada 16	15/01/2023 12:00h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	3 - 1	AD Sporting Hortaleza	C. y D. Leonesa S.A.D.
+3872676	División de Honor Juvenil	Jornada 16	15/01/2023 15:00h	Ciudad: Leganés	Estadio: Instalación Deportiva Butarque	3 - 1	C.D. Leganés SAD	C.D. Col. Diocesano
+3872677	División de Honor Juvenil	Jornada 16	14/01/2023 16:30h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	1 - 2	C.F. Rayo Majadahonda	Rayo Ciudad Alcobendas CF
+3872678	División de Honor Juvenil	Jornada 17	22/01/2023 16:00h	Ciudad: Alcobendas	Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	4 - 0	Rayo Ciudad Alcobendas CF	U.D. La Cruz Villanovense
+3872679	División de Honor Juvenil	Jornada 17	21/01/2023 16:00h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	1 - 4	Getafe C.F. SAD	Club Atlético de Madrid SAD
+3872680	División de Honor Juvenil	Jornada 17	21/01/2023 12:00h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla 3	1 - 0	Real Valladolid C.F. S.A.D.	C.F. Fuenlabrada SAD
+3872681	División de Honor Juvenil	Jornada 17	22/01/2023 12:30h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	4 - 3	Rayo Vallecano de Madrid SAD	C.D.I. de la Amistad
+3872682	División de Honor Juvenil	Jornada 17	21/01/2023 16:00h	Ciudad: Alcorcón	Estadio: Santo Domingo	2 - 0	A.D. Alcorcón SAD	C.D. Badajoz 1905
+3872683	División de Honor Juvenil	Jornada 17	21/01/2023 13:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	5 - 0	Real Madrid C.F.	AD Sporting Hortaleza
+3872684	División de Honor Juvenil	Jornada 17	22/01/2023 12:00h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	0 - 0	C. y D. Leonesa S.A.D.	C.D. Leganés SAD
+3872685	División de Honor Juvenil	Jornada 17	21/01/2023 16:00h	Ciudad: Cáceres	Estadio: Federación de Caceres	1 - 3	C.D. Col. Diocesano	C.F. Rayo Majadahonda
+3872686	División de Honor Juvenil	Jornada 18	29/01/2023 18:00h	Ciudad: Alcalá De Henares	Estadio: C.D. ALCALÁ (natural)	5 - 1	Club Atlético de Madrid SAD	U.D. La Cruz Villanovense
+3872687	División de Honor Juvenil	Jornada 18	29/01/2023 14:15h	Ciudad: Moraleja De Enmedio	Estadio: Moraleja de Enmedio - La Dehesa	2 - 3	C.F. Fuenlabrada SAD	Getafe C.F. SAD
+3872688	División de Honor Juvenil	Jornada 18	29/01/2023 12:00h	Ciudad: Palencia	Estadio: Campos del C.I. Amistad 1	2 - 0	C.D.I. de la Amistad	Real Valladolid C.F. S.A.D.
+3872689	División de Honor Juvenil	Jornada 18	28/01/2023 16:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	1 - 4	C.D. Badajoz 1905	Rayo Vallecano de Madrid SAD
+3872690	División de Honor Juvenil	Jornada 18	29/01/2023 13:00h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	1 - 2	AD Sporting Hortaleza	A.D. Alcorcón SAD
+3872691	División de Honor Juvenil	Jornada 18	29/01/2023 16:15h	Ciudad: Leganés	Estadio: Instalación Deportiva Butarque	1 - 4	C.D. Leganés SAD	Real Madrid C.F.
+3872692	División de Honor Juvenil	Jornada 18	29/01/2023 12:00h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	0 - 1	C.F. Rayo Majadahonda	C. y D. Leonesa S.A.D.
+3872693	División de Honor Juvenil	Jornada 18	28/01/2023 16:00h	Ciudad: Cáceres	Estadio: Federación de Caceres	1 - 5	C.D. Col. Diocesano	Rayo Ciudad Alcobendas CF
+3872694	División de Honor Juvenil	Jornada 19	05/02/2023 16:00h	Ciudad: Alcobendas	Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	1 - 3	Rayo Ciudad Alcobendas CF	Club Atlético de Madrid SAD
+3872695	División de Honor Juvenil	Jornada 19	04/02/2023 16:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	2 - 3	U.D. La Cruz Villanovense	C.F. Fuenlabrada SAD
+3872696	División de Honor Juvenil	Jornada 19	04/02/2023 16:00h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	2 - 2	Getafe C.F. SAD	C.D.I. de la Amistad
+3872697	División de Honor Juvenil	Jornada 19	05/02/2023 12:00h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla	1 - 0	Real Valladolid C.F. S.A.D.	C.D. Badajoz 1905
+3872698	División de Honor Juvenil	Jornada 19	05/02/2023 12:00h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	5 - 1	Rayo Vallecano de Madrid SAD	AD Sporting Hortaleza
+3872699	División de Honor Juvenil	Jornada 19	04/02/2023 12:00h	Ciudad: Alcorcón	Estadio: Santo Domingo	1 - 1	A.D. Alcorcón SAD	C.D. Leganés SAD
+3872700	División de Honor Juvenil	Jornada 19	04/02/2023 13:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	6 - 0	Real Madrid C.F.	C.F. Rayo Majadahonda
+3872701	División de Honor Juvenil	Jornada 19	04/02/2023 13:30h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	0 - 1	C. y D. Leonesa S.A.D.	C.D. Col. Diocesano
+3872702	División de Honor Juvenil	Jornada 20	12/02/2023 12:30h	Ciudad: Moraleja De Enmedio	Estadio: Moraleja de Enmedio - La Dehesa	1 - 7	C.F. Fuenlabrada SAD	Club Atlético de Madrid SAD
+3872703	División de Honor Juvenil	Jornada 20	12/02/2023 12:00h	Ciudad: Palencia	Estadio: Campos del C.I. Amistad 1	4 - 1	C.D.I. de la Amistad	U.D. La Cruz Villanovense
+3872704	División de Honor Juvenil	Jornada 20	11/02/2023 16:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	1 - 2	C.D. Badajoz 1905	Getafe C.F. SAD
+3872705	División de Honor Juvenil	Jornada 20	12/02/2023 12:45h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	1 - 0	AD Sporting Hortaleza	Real Valladolid C.F. S.A.D.
+3872706	División de Honor Juvenil	Jornada 20	12/02/2023 16:00h	Ciudad: Leganés	Estadio: Instalación Deportiva Butarque	2 - 0	C.D. Leganés SAD	Rayo Vallecano de Madrid SAD
+3872707	División de Honor Juvenil	Jornada 20	11/02/2023 17:00h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	3 - 1	C.F. Rayo Majadahonda	A.D. Alcorcón SAD
+3872708	División de Honor Juvenil	Jornada 20	11/02/2023 16:00h	Ciudad: Cáceres	Estadio: Federación de Caceres	0 - 4	C.D. Col. Diocesano	Real Madrid C.F.
+3872709	División de Honor Juvenil	Jornada 20	12/02/2023 13:30h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	0 - 4	C. y D. Leonesa S.A.D.	Rayo Ciudad Alcobendas CF
+3872710	División de Honor Juvenil	Jornada 21	18/02/2023 16:00h	Ciudad: Alcobendas	Estadio: Polideportivo Municipal Ciudad Deportiva Valdelasfuentes	1 - 2	Rayo Ciudad Alcobendas CF	C.F. Fuenlabrada SAD
+3872711	División de Honor Juvenil	Jornada 21	19/02/2023 12:30h	Ciudad: Alcalá De Henares	Estadio: C.D. ALCALÁ (natural)	5 - 0	Club Atlético de Madrid SAD	C.D.I. de la Amistad
+3872712	División de Honor Juvenil	Jornada 21	18/02/2023 17:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	6 - 0	U.D. La Cruz Villanovense	C.D. Badajoz 1905
+3872713	División de Honor Juvenil	Jornada 21	19/02/2023 12:00h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	1 - 1	Getafe C.F. SAD	AD Sporting Hortaleza
+3872714	División de Honor Juvenil	Jornada 21	18/02/2023 13:00h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla 3	1 - 4	Real Valladolid C.F. S.A.D.	C.D. Leganés SAD
+3872715	División de Honor Juvenil	Jornada 21	19/02/2023 13:30h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	3 - 0	Rayo Vallecano de Madrid SAD	C.F. Rayo Majadahonda
+3872716	División de Honor Juvenil	Jornada 21	18/02/2023 16:00h	Ciudad: Alcorcón	Estadio: Santo Domingo	2 - 0	A.D. Alcorcón SAD	C.D. Col. Diocesano
+3872717	División de Honor Juvenil	Jornada 21	19/02/2023 16:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	1 - 0	Real Madrid C.F.	C. y D. Leonesa S.A.D.
+3872718	División de Honor Juvenil	Jornada 22	26/02/2023 12:00h	Ciudad: Palencia	Estadio: Campos del C.I. Amistad 1	1 - 0	C.D.I. de la Amistad	C.F. Fuenlabrada SAD
+3872719	División de Honor Juvenil	Jornada 22	25/02/2023 16:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	0 - 5	C.D. Badajoz 1905	Club Atlético de Madrid SAD
+3872720	División de Honor Juvenil	Jornada 22	26/02/2023 12:45h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	3 - 1	AD Sporting Hortaleza	U.D. La Cruz Villanovense
+3872721	División de Honor Juvenil	Jornada 22	25/02/2023 16:00h	Ciudad: Leganés	Estadio: Instalación Deportiva Butarque	3 - 1	C.D. Leganés SAD	Getafe C.F. SAD
+3872722	División de Honor Juvenil	Jornada 22	25/02/2023 17:00h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	3 - 0	C.F. Rayo Majadahonda	Real Valladolid C.F. S.A.D.
+3872723	División de Honor Juvenil	Jornada 22	25/02/2023 16:00h	Ciudad: Caceres	Estadio: Federación de Caceres	1 - 4	C.D. Col. Diocesano	Rayo Vallecano de Madrid SAD
+3872724	División de Honor Juvenil	Jornada 22	26/02/2023 16:30h	Ciudad: Leon	Estadio: Area D. de Puente Castro 3	0 - 1	C. y D. Leonesa S.A.D.	A.D. Alcorcón SAD
+3872725	División de Honor Juvenil	Jornada 22	25/02/2023 13:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	3 - 0	Real Madrid C.F.	Rayo Ciudad Alcobendas CF
+3872726	División de Honor Juvenil	Jornada 23	05/03/2023 12:00h	Ciudad: Alcobendas	Estadio: Luis Aragonés - Ppvo. Mpal. José Caballero	5 - 2	Rayo Ciudad Alcobendas CF	C.D.I. de la Amistad
+3872727	División de Honor Juvenil	Jornada 23	05/03/2023 12:00h	Ciudad: Moraleja De Enmedio	Estadio: Moraleja de Enmedio - La Dehesa	2 - 0	C.F. Fuenlabrada SAD	C.D. Badajoz 1905
+3872728	División de Honor Juvenil	Jornada 23	05/03/2023 12:30h	Ciudad: Alcalá De Henares	Estadio: C.D. ALCALÁ (natural)	3 - 0	Club Atlético de Madrid SAD	AD Sporting Hortaleza
+3872729	División de Honor Juvenil	Jornada 23	04/03/2023 16:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	2 - 2	U.D. La Cruz Villanovense	C.D. Leganés SAD
+3872730	División de Honor Juvenil	Jornada 23	04/03/2023 16:00h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	1 - 0	Getafe C.F. SAD	C.F. Rayo Majadahonda
+3872731	División de Honor Juvenil	Jornada 23	04/03/2023 16:00h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla 3	1 - 0	Real Valladolid C.F. S.A.D.	C.D. Col. Diocesano
+3872732	División de Honor Juvenil	Jornada 23	04/03/2023 16:00h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	3 - 1	Rayo Vallecano de Madrid SAD	C. y D. Leonesa S.A.D.
+3872733	División de Honor Juvenil	Jornada 23	04/03/2023 16:00h	Ciudad: Alcorcón	Estadio: Santo Domingo	2 - 2	A.D. Alcorcón SAD	Real Madrid C.F.
+3872734	División de Honor Juvenil	Jornada 24	18/03/2023 16:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	0 - 4	C.D. Badajoz 1905	C.D.I. de la Amistad
+3872735	División de Honor Juvenil	Jornada 24	19/03/2023 12:45h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	1 - 2	AD Sporting Hortaleza	C.F. Fuenlabrada SAD
+3872736	División de Honor Juvenil	Jornada 24	19/03/2023 12:00h	Ciudad: Leganés	Estadio: Instalación Deportiva Butarque	0 - 2	C.D. Leganés SAD	Club Atlético de Madrid SAD
+3872737	División de Honor Juvenil	Jornada 24	19/03/2023 16:30h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	0 - 0	C.F. Rayo Majadahonda	U.D. La Cruz Villanovense
+3872738	División de Honor Juvenil	Jornada 24	18/03/2023 16:00h	Ciudad: Cáceres	Estadio: Federación de Caceres	3 - 3	C.D. Col. Diocesano	Getafe C.F. SAD
+3872739	División de Honor Juvenil	Jornada 24	19/03/2023 12:30h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	1 - 2	C. y D. Leonesa S.A.D.	Real Valladolid C.F. S.A.D.
+3872740	División de Honor Juvenil	Jornada 24	19/03/2023 17:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	1 - 0	Real Madrid C.F.	Rayo Vallecano de Madrid SAD
+3872741	División de Honor Juvenil	Jornada 24	18/03/2023 16:00h	Ciudad: Alcorcón	Estadio: Santo Domingo	1 - 0	A.D. Alcorcón SAD	Rayo Ciudad Alcobendas CF
+3872742	División de Honor Juvenil	Jornada 25	02/04/2023 14:00h	Ciudad: Alcobendas	Estadio: Luis Aragonés - Ppvo. Mpal. José Caballero	6 - 0	Rayo Ciudad Alcobendas CF	C.D. Badajoz 1905
+3872743	División de Honor Juvenil	Jornada 25	02/04/2023 12:00h	Ciudad: Palencia	Estadio: Campos del C.I. Amistad 1	4 - 2	C.D.I. de la Amistad	AD Sporting Hortaleza
+3872744	División de Honor Juvenil	Jornada 25	02/04/2023 11:00h	Ciudad: Moraleja De Enmedio	Estadio: Moraleja de Enmedio - La Dehesa	2 - 1	C.F. Fuenlabrada SAD	C.D. Leganés SAD
+3872745	División de Honor Juvenil	Jornada 25	02/04/2023 12:30h	Ciudad: Alcalá De Henares	Estadio: C.D. ALCALÁ (natural)	1 - 0	Club Atlético de Madrid SAD	C.F. Rayo Majadahonda
+3872746	División de Honor Juvenil	Jornada 25	02/04/2023 12:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	2 - 1	U.D. La Cruz Villanovense	C.D. Col. Diocesano
+3872747	División de Honor Juvenil	Jornada 25	01/04/2023 17:00h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	1 - 1	Getafe C.F. SAD	C. y D. Leonesa S.A.D.
+3872748	División de Honor Juvenil	Jornada 25	01/04/2023 12:30h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla 3	1 - 2	Real Valladolid C.F. S.A.D.	Real Madrid C.F.
+3872749	División de Honor Juvenil	Jornada 25	01/04/2023 16:00h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	1 - 0	Rayo Vallecano de Madrid SAD	A.D. Alcorcón SAD
+3872750	División de Honor Juvenil	Jornada 26	09/04/2023 12:00h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	1 - 2	AD Sporting Hortaleza	C.D. Badajoz 1905
+3872751	División de Honor Juvenil	Jornada 26	06/04/2023 16:00h	Ciudad: Leganes	Estadio: Instalación Deportiva Butarque	1 - 0	C.D. Leganés SAD	C.D.I. de la Amistad
+3872752	División de Honor Juvenil	Jornada 26	09/04/2023 16:00h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	1 - 2	C.F. Rayo Majadahonda	C.F. Fuenlabrada SAD
+3872753	División de Honor Juvenil	Jornada 26	08/04/2023 12:00h	Ciudad: Cáceres	Estadio: Federación de Caceres	2 - 3	C.D. Col. Diocesano	Club Atlético de Madrid SAD
+3872754	División de Honor Juvenil	Jornada 26	09/04/2023 17:00h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	1 - 0	C. y D. Leonesa S.A.D.	U.D. La Cruz Villanovense
+3872755	División de Honor Juvenil	Jornada 26	06/04/2023 12:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	3 - 0	Real Madrid C.F.	Getafe C.F. SAD
+3872756	División de Honor Juvenil	Jornada 26	09/04/2023 16:00h	Ciudad: Alcorcón	Estadio: Santo Domingo	0 - 1	A.D. Alcorcón SAD	Real Valladolid C.F. S.A.D.
+3872757	División de Honor Juvenil	Jornada 26	06/04/2023 13:30h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	1 - 3	Rayo Vallecano de Madrid SAD	Rayo Ciudad Alcobendas CF
+3872758	División de Honor Juvenil	Jornada 27	16/04/2023 13:45h	Ciudad: Alcobendas	Estadio: Luis Aragonés - Ppvo. Mpal. José Caballero	2 - 0	Rayo Ciudad Alcobendas CF	AD Sporting Hortaleza
+3872759	División de Honor Juvenil	Jornada 27	15/04/2023 16:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	1 - 2	C.D. Badajoz 1905	C.D. Leganés SAD
+3872760	División de Honor Juvenil	Jornada 27	16/04/2023 12:00h	Ciudad: Palencia	Estadio: Campos del C.I. Amistad 1	1 - 3	C.D.I. de la Amistad	C.F. Rayo Majadahonda
+3872761	División de Honor Juvenil	Jornada 27	16/04/2023 12:30h	Ciudad: Moraleja De Enmedio	Estadio: Moraleja de Enmedio - La Dehesa	2 - 0	C.F. Fuenlabrada SAD	C.D. Col. Diocesano
+3872762	División de Honor Juvenil	Jornada 27	16/04/2023 12:30h	Ciudad: Alcala De Henares	Estadio: C.D. ALCALÁ (natural)	2 - 0	Club Atlético de Madrid SAD	C. y D. Leonesa S.A.D.
+3872763	División de Honor Juvenil	Jornada 27	16/04/2023 12:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	0 - 5	U.D. La Cruz Villanovense	Real Madrid C.F.
+3872764	División de Honor Juvenil	Jornada 27	16/04/2023 12:00h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	2 - 0	Getafe C.F. SAD	A.D. Alcorcón SAD
+3872765	División de Honor Juvenil	Jornada 27	15/04/2023 16:00h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla	1 - 1	Real Valladolid C.F. S.A.D.	Rayo Vallecano de Madrid SAD
+3872766	División de Honor Juvenil	Jornada 28	23/04/2023 12:00h	Ciudad: Leganés	Estadio: Instalación Deportiva Butarque	3 - 1	C.D. Leganés SAD	AD Sporting Hortaleza
+3872767	División de Honor Juvenil	Jornada 28	22/04/2023 16:30h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	3 - 1	C.F. Rayo Majadahonda	C.D. Badajoz 1905
+3872768	División de Honor Juvenil	Jornada 28	23/04/2023 18:00h	Ciudad: Caceres	Estadio: Federación de Caceres	2 - 2	C.D. Col. Diocesano	C.D.I. de la Amistad
+3872769	División de Honor Juvenil	Jornada 28	23/04/2023 17:30h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	2 - 1	C. y D. Leonesa S.A.D.	C.F. Fuenlabrada SAD
+3872770	División de Honor Juvenil	Jornada 28	23/04/2023 16:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	5 - 0	Real Madrid C.F.	Club Atlético de Madrid SAD
+3872771	División de Honor Juvenil	Jornada 28	23/04/2023 16:00h	Ciudad: Alcorcón	Estadio: Santo Domingo	1 - 1	A.D. Alcorcón SAD	U.D. La Cruz Villanovense
+3872772	División de Honor Juvenil	Jornada 28	22/04/2023 13:30h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	1 - 2	Rayo Vallecano de Madrid SAD	Getafe C.F. SAD
+3872773	División de Honor Juvenil	Jornada 28	22/04/2023 13:00h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla 3	1 - 3	Real Valladolid C.F. S.A.D.	Rayo Ciudad Alcobendas CF
+3872774	División de Honor Juvenil	Jornada 29	29/04/2023 16:00h	Ciudad: Leganés	Estadio: Instalación Deportiva Butarque	0 - 2	C.D. Leganés SAD	Rayo Ciudad Alcobendas CF
+3872775	División de Honor Juvenil	Jornada 29	30/04/2023 18:00h	Ciudad: Madrid	Estadio: Municipal Sporting de Hortaleza	0 - 1	AD Sporting Hortaleza	C.F. Rayo Majadahonda
+3872776	División de Honor Juvenil	Jornada 29	29/04/2023 18:00h	Ciudad: Badajoz	Estadio: Campos Federativos Eusebio Bejarano Vilaro	2 - 3	C.D. Badajoz 1905	C.D. Col. Diocesano
+3872777	División de Honor Juvenil	Jornada 29	30/04/2023 12:00h	Ciudad: Palencia	Estadio: Campos del C.I. Amistad 1	3 - 1	C.D.I. de la Amistad	C. y D. Leonesa S.A.D.
+3872778	División de Honor Juvenil	Jornada 29	30/04/2023 11:00h	Ciudad: Moraleja De Enmedio	Estadio: Moraleja de Enmedio - La Dehesa	0 - 1	C.F. Fuenlabrada SAD	Real Madrid C.F.
+3872779	División de Honor Juvenil	Jornada 29	29/04/2023 12:30h	Ciudad: Alcalá De Henares	Estadio: C.D. ALCALÁ (natural)	2 - 0	Club Atlético de Madrid SAD	A.D. Alcorcón SAD
+3872780	División de Honor Juvenil	Jornada 29	29/04/2023 17:00h	Ciudad: Villanueva De La Serena	Estadio: Anexo Estadio Villanovense	5 - 2	U.D. La Cruz Villanovense	Rayo Vallecano de Madrid SAD
+3872781	División de Honor Juvenil	Jornada 29	29/04/2023 16:00h	Ciudad: Getafe	Estadio: Ciudad Deportiva Getafe	1 - 1	Getafe C.F. SAD	Real Valladolid C.F. S.A.D.
+3872782	División de Honor Juvenil	Jornada 30	06/05/2023 16:00h	Ciudad: Majadahonda	Estadio: Campos Municipales Valle de la Oliva	1 - 1	C.F. Rayo Majadahonda	C.D. Leganés SAD
+3872783	División de Honor Juvenil	Jornada 30	07/05/2023 17:00h	Ciudad: Cáceres	Estadio: Federación de Caceres	3 - 2	C.D. Col. Diocesano	AD Sporting Hortaleza
+3872784	División de Honor Juvenil	Jornada 30	07/05/2023 12:00h	Ciudad: Leon	Estadio: Area D. de Puente Castro 1	4 - 0	C. y D. Leonesa S.A.D.	C.D. Badajoz 1905
+3872785	División de Honor Juvenil	Jornada 30	06/05/2023 12:00h	Ciudad: Valdebebas	Estadio: Ciudad Real Madrid	8 - 1	Real Madrid C.F.	C.D.I. de la Amistad
+3872786	División de Honor Juvenil	Jornada 30	06/05/2023 16:00h	Ciudad: Alcorcón	Estadio: Santo Domingo	1 - 2	A.D. Alcorcón SAD	C.F. Fuenlabrada SAD
+3872787	División de Honor Juvenil	Jornada 30	06/05/2023 16:00h	Ciudad: Madrid	Estadio: C.Dep. Fundacion Rayo Vallecano - Campo 4	0 - 0	Rayo Vallecano de Madrid SAD	Club Atlético de Madrid SAD
+3872788	División de Honor Juvenil	Jornada 30	07/05/2023 15:30h	Ciudad: Valladolid	Estadio: Anexos E.M. José Zorrilla 3	4 - 1	Real Valladolid C.F. S.A.D.	U.D. La Cruz Villanovense
+3872789	División de Honor Juvenil	Jornada 30	07/05/2023 14:00h	Ciudad: Alcobendas	Estadio: Luis Aragonés - Ppvo. Mpal. José Caballero	2 - 1	Rayo Ciudad Alcobendas CF	Getafe C.F. SAD
